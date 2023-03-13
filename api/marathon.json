@@ -4,45 +4,102 @@
     "weekDay": "Monday",
     "type": "Rest Day",
     "image": "rest",
-    "description": "Det var ju ett lätt program det här med vila direkt!!! \n- Nej, vi kommer att träna också, men eftersom programmet har tisdag/torsdag/söndag som huvud träningsdagar blir det vila idag. Faktum är dock att just vilan är ett viktigt moment i alla träningsplaner.\nVilan bygger upp mellan alla träningspassen, men för att bygga upp behöver vi givetvis träna också.\nMen idag blir din träningsuppgift bara att ställa in dig mentalt på att verkligen träna för MARAN 2022; och imorgon drar vi igång själva träningen!!"
+    "description": "Det var ju ett lätt program det här med vila direkt!!! \n- Nej, vi kommer att träna också, men eftersom programmet har tisdag/torsdag/söndag som huvud träningsdagar blir det vila idag. Faktum är dock att just vilan är ett viktigt moment i alla träningsplaner.\nVilan bygger upp mellan alla träningspassen, men för att bygga upp behöver vi givetvis träna också.\nMen idag blir din träningsuppgift bara att ställa in dig mentalt på att verkligen träna för MARAN 2022; och imorgon drar vi igång själva träningen!!",
+    "details": [
+      {
+        "name": "Rest Day"
+      }
+    ]
   },
   {
     "date": "2022-12-06",
     "weekDay": "Tuesday",
     "type": "Easy Run",
     "image": "easy",
-    "description": "Programmets första träningsdag, blir en lätt distanslöpning. Vi siktar på 6km, i ditt lugna distanstempo. Spring som det känns naturligt för dig, blir det 33 eller 36 minuter så är det bra. Programmet anger dock 34-35 min som riktvärde, men alltså inget som du absolut måste hålla. Spring så att du skulle kunna prata under hela Rundan då har du rätt nivå! Efter löpningen, stretchar du ut löpmusklerna. Lika bra att få in stretchen som en rutin redan från träningsstart!"
+    "description": "Programmets första träningsdag, blir en lätt distanslöpning. Vi siktar på 6km, i ditt lugna distanstempo. Spring som det känns naturligt för dig, blir det 33 eller 36 minuter så är det bra. Programmet anger dock 34-35 min som riktvärde, men alltså inget som du absolut måste hålla. Spring så att du skulle kunna prata under hela Rundan då har du rätt nivå! Efter löpningen, stretchar du ut löpmusklerna. Lika bra att få in stretchen som en rutin redan från träningsstart!",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": "6 km",
+        "time": "34-35 min"
+      },
+      {
+        "name": "Stretching",
+        "time": "5-10 min"
+      }
+    ]
   },
   {
     "date": "2022-12-07",
     "weekDay": "Wednesday",
     "type": "Rest Day",
-    "image": "rest"
+    "image": "rest",
+    "details": [
+      {
+        "name": "Rest Day"
+      }
+    ]
   },
   {
     "date": "2022-12-08",
     "weekDay": "Thursday",
     "type": "Easy Run",
     "image": "easy",
-    "description": "Lugn distans som bygger grunden, men sen kompletterar vi även med något som kallas koordinationslopp; som jag vill ha med i för att enkelt utan press och stress aktivera dina löpmuskler något annorlunda än via distans och långpass löpningen. Koordinationsloppen är lite snabbare löpning över 60-100 meter, där vi springer med bra teknik, jobbar med snabbheten på ett mjukt sätt. Vi kommer ha momentet framöver, men oftast i uppvärmningen inför kvalitativ löpning. Försök ha med momentet, utan att pressa eller stressa och riskera sträckningar. Vilan mellan dina koordinationer är lugn gång tillbaks till startpunkten. Idag introducerar vi detta med 3 x 80-100 meter. Har du ingen sträcka tar du 5x20 sekunder för enkelhet skull (utan att det ska vara din fart) Kör gärna lite lätt rörlighet innan du kör igång koordinationsloppen. Spring fint och högt; se dig själv som en snyggt springande elitlöpare....med aktiv framfot. OBS; är det mycket vintrigt och halt avvaktar du att introducera koordinationsloppen."
+    "description": "Lugn distans som bygger grunden, men sen kompletterar vi även med något som kallas koordinationslopp; som jag vill ha med i för att enkelt utan press och stress aktivera dina löpmuskler något annorlunda än via distans och långpass löpningen. Koordinationsloppen är lite snabbare löpning över 60-100 meter, där vi springer med bra teknik, jobbar med snabbheten på ett mjukt sätt. Vi kommer ha momentet framöver, men oftast i uppvärmningen inför kvalitativ löpning. Försök ha med momentet, utan att pressa eller stressa och riskera sträckningar. Vilan mellan dina koordinationer är lugn gång tillbaks till startpunkten. Idag introducerar vi detta med 3 x 80-100 meter. Har du ingen sträcka tar du 5x20 sekunder för enkelhet skull (utan att det ska vara din fart) Kör gärna lite lätt rörlighet innan du kör igång koordinationsloppen. Spring fint och högt; se dig själv som en snyggt springande elitlöpare....med aktiv framfot. OBS; är det mycket vintrigt och halt avvaktar du att introducera koordinationsloppen.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": "6 km",
+        "time": "34-35 min"
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": "5 min"
+      },
+      {
+        "name": "Coordination Run",
+        "distance": "3 x 80-100 m"
+      }
+    ]
   },
   {
     "date": "2022-12-09",
     "weekDay": "Friday",
     "type": "Rest Day",
-    "image": "rest"
+    "image": "rest",
+    "details": [
+      {
+        "name": "Rest Day"
+      }
+    ]
   },
   {
     "date": "2022-12-10",
     "weekDay": "Saturday",
     "type": "Rest Day",
-    "image": "rest"
+    "image": "rest",
+    "details": [
+      {
+        "name": "Rest Day"
+      }
+    ]
   },
   {
     "date": "2022-12-11",
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "description": "Programmet rivstartar med långpass direkt. Dagens pass förutsätter dock att du haft lite löpning tidigare i din höstträning och inte bara sedan programmet startade i tisdags. Om du känner med dig att 17km är för långt kortar du ner till så långt som känns bra.\nLugn fin fart, gärna snäppet lugnare än din distanslöpning. Riktfart ligger på 5.50-6.00 min per km, men du ska alltså ta din lugna fart och sen ger det just din tid över 17km. Stretcha ut lätt efter passet, och tänk gärna på att ta med dricka ut på passet redan nu, även om tiden ute just idag inte kräver vätska.\nOm du har med dig vätskan nu, sätter du direkt en bra rutin som du har nytta av när långpassen blir längre!"
+    "description": "Programmet rivstartar med långpass direkt. Dagens pass förutsätter dock att du haft lite löpning tidigare i din höstträning och inte bara sedan programmet startade i tisdags. Om du känner med dig att 17km är för långt kortar du ner till så långt som känns bra.\nLugn fin fart, gärna snäppet lugnare än din distanslöpning. Riktfart ligger på 5.50-6.00 min per km, men du ska alltså ta din lugna fart och sen ger det just din tid över 17km. Stretcha ut lätt efter passet, och tänk gärna på att ta med dricka ut på passet redan nu, även om tiden ute just idag inte kräver vätska.\nOm du har med dig vätskan nu, sätter du direkt en bra rutin som du har nytta av när långpassen blir längre!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": "17 km",
+        "time": "100-104 min"
+      },
+      {
+        "name": "Stretching",
+        "time": "5-10 min"
+      }
+    ]
   }
 ]
