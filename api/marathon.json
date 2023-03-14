@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "weekId": 1,
     "name": "Träningsvecka 1",
     "goal": "3 träningspass 29 km",
     "plan": "Den här veckan startar vi upp vår träningen mot Stockholm Marathon 2023./nUppstartsvecka i fyratimmarsprogrammet där vi visar en lite tuffare uppstart med både kort långpass direkt och ett distanspass kompletterar med några lätta fartlopp kallade koordinationslopp./nEftersom programmet inte vet hur din träningshöst sett ut, kan starten vara lite väl tuff om det är så att programstarten även är din löpstart. Om du känner med dig att du inte tränat löpning tidigare, startar du upp lite lugnare än angivet genom att du springer lite kortare på söndagspasset./nProgrammets grundfart på lätt distans är 5.40-5.50 min/km och utgår från ditt mål på 4 timmar. Vi springer helt enkelt distansen nästan på din maraton-tävlingsfart./n- Men farten är väldigt individuell, så din lugna fart kanske inte alls ligger på programmets lugna distansfart på 5.40 min till 5.50 min per kilometer, utan den kanske ligger på 5.30 eller 6.00 minuter per kilometer för att lugn distans ska vara lugn och löpningen känns naturlig./n- TA DIN lugna fart och utgå från den i programmet och följ kilometeranvisningarna, och modifiera alltså tiden till din tid över sträckan./nHoppas veckan funkar bra, och det här känns som en lagom start på våra 26 veckor tillsammans!",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "id": 2,
+    "weekId": 2,
     "name": "Träningsvecka 2",
     "goal": "3 träningspass 34 km",
     "plan": "Träningen är igång och vi fortsätter med 3 träningspass även denna veckan, men utvecklar träningen genom att lägga på ett allmänt styrkepass i samband med tisdagens löpning.\nGällande styrkan, är det ett pass som kommer att återkomma regelbundet varje vecka. Löpning är lite ensidigt, och dels för att förbättra vår prestation under löpningen och dels för att förebygga förslitningsskador är det bra att ha ett allmänt styrkepass varje vecka för att balansera upp kroppens muskelgrupper.\nHar du naturligt styrka genom något annat eget pass i veckan, kan du räkna det som din styrka och ta bort programmets styrka.\nUtvecklar träningen gör vi även på torsdagen där målet är att du ska springa ett tröskelpass. Bekvämt snabb löpning, något snabbare än din distans; men inte pressa trots att vi delar upp 30 minuter i 10 intervalldelar. Så INTE intervall, utan bara några snäpp snabbare än din distansfart med regelbunden vila. Så ett LÄTT pass :)\nLångpasset lägger vi till 1 km så målbild där är 18 km i din lugna fart. Men korta detta om det känns för mastigt för dig i din uppstart!",
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "id": 3,
+    "weekId": 3,
     "name": "Träningsvecka 3",
     "goal": "4 träningspass 44 km",
     "plan": "Julvecka men programmet och din träning rullar vidare.\n- Vi inleder som vanligt med distans och styrka och sen blir det tröskeltorsdag där tröskeln utvecklas ett litet snäpp. På julafton finns chans till \"bästa\" (ja i alla fall nästan) julklappen med en fin lite längre morgonjogg.\nSlutligen avrundas julveckan med ett långpass med stegaktivering om ditt vinterunderlag och temperatur tillåter.\nSom helhet; anpassa upplägget här till just din julvecka och din känsla",
