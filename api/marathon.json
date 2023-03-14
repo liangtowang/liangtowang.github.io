@@ -1827,6 +1827,135 @@
             "time": "5 min"
           }
         ]
+      },
+      {
+        "date": "2023-03-08",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-09",
+        "weekDay": "Thursday",
+        "type": "Marathon Pace Run",
+        "image": "fast",
+        "description": "Marafartpass och styrkan känner du igen. Snäppet snabbare än distansen och din rytm till maran!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "1 km",
+            "time": "6 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Marathon Pace Run",
+            "distance": "10 km",
+            "time": "56 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "1 km",
+            "time": "6 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-10",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-11",
+        "weekDay": "Saturday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-12",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "26 km i din för dagen lugna fart. Distansen och tiden ute är det tuffa, och inte farten. Dricka med och energi och vätska in efter dina dryga 2,5 timmar idag.",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "26 km",
+            "time": "155-157 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Träningsvecka 15",
+    "goal": "4 träningspass 51.50 km",
+    "plan": "En lite lagom vecka, med 3-4 pass beroende på om du vill komma ut på en lugn runda på lördagen.\n- Vi inleder veckan lugnt med distans. På torsdag blir det tröskel uppdelad i 1 km avsnitt och sen avrundar vi veckan med ett långt långpass igen.\nI långpasset lägger du in en fartökningsdel om allt känns bra. Förhoppningsvis i lite vårväder!",
+    "trainingDays": [
+      {
+        "date": "2023-03-13",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "En lite lagom vecka, med 3-4 pass beroende på om du vill komma ut på en lugn runda på lördagen.\n- Vi inleder veckan lugnt med distans. På torsdag blir det tröskel uppdelad i 1 km avsnitt och sen avrundar vi veckan med ett långt långpass igen.\nI långpasset lägger du in en fartökningsdel om allt känns bra. Förhoppningsvis i lite vårväder!",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-14",
+        "weekDay": "Tuesday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Distans anpassat i fart efter hur känslan för dig just idag. Inget pressat pass utan fokus på att komplettera löpningen med styrkan som vanligt för er som följer programmets styrka.",
+        "details": [
+          {
+            "name": "Easy Run",
+            "distance": "8 km",
+            "time": "46-48 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
       }
     ]
   }
