@@ -178,7 +178,7 @@
             "time": "5 min"
           },
           {
-            "name": "ThresholdRun",
+            "name": "Threshold Run",
             "distance": "Ca 5.5 km",
             "time": "10x3min"
           },
@@ -443,7 +443,7 @@
       {
         "date": "2022-12-29",
         "weekDay": "Thursday",
-        "type": "thresholdRun",
+        "type": "Threshold Run",
         "image": "fast",
         "description": "Idag är målet att utveckla tröskelpasset ett snäpp för dig som kör!\n- Som tidigare ska du hitta farten mellan bekvämt och obekvämt fort, eller om vi utgår från prat-tempo ska du kunna säga en mening då och då, men inte prata hela tiden...\nVi siktar 3 x 10 minuter tröskel, eller om du utgår från sträcka blir det 3 x 1,8-1,9 km då riktfarten ligger på Runt 5,20-5.25 min/km.\nVi tar 60 sekunders gå/lätt joggvila mellan tröskelavsnitten. Vill/behöver du ta ståvila för att det ska kännas bekvämt tufft tar du helt stående vila.\nMen sänk hellre tempot så du orkar gå/småjogga mellan varje tröskelavsnitt.\nDå håller du dessutom värmen bättre :) Varva ner med lugn jogg.\nHar du ett nyårslopp i din plan? Ja då tar du såklart bort dagens tröskel och ersätter med loppet på nyårsafton!",
         "details": [
@@ -569,7 +569,7 @@
       {
         "date": "2023-01-05",
         "weekDay": "Thursday",
-        "type": "thresholdRun",
+        "type": "Threshold Run",
         "image": "fast",
         "description": "Vi kör vidare med tröskeltorsdag, och utvecklar nu passet lite till med en ännu lite längre sammanhängande löpning. Totalt 30 minuter igen men fartbitarna blir enligt modellen 12-10-8 minuter eller om du kör på distansmätare ca 2 km- 1,85 km- 1,5 km. Vi tar 2 minuters gång eller viss del lugn jogg som vila mellan varje tröskelavsnitt.\nInled första 12 minuters tröskeln soft, för att sen jobba på lite tuffare. Målbild att du håller ungefär 5.25 min/km på 12 minutaren, 5.15-5.20 fart på 10 minuters tröskeln och sen kan du tillåta dig släppa tröskelfarten lite och snabbare än din tröskel på andra halvan av 8 minuters, så kanske ner mot 5.05-5.10 min/km på avslutningen av 8 minutaren.\nFarterna förutsätter att vintern är ok hos dig och om du utgår från ansträngning så ser du till att 12 minutaren känns lagom (lite snabbare än distanslöpning) och sen vågar du bli trött på avslutande 8 minuters.\nVarva sen ner som vanligt med lugn jogg och stretch.",
         "details": [
@@ -1381,7 +1381,7 @@
       {
         "date": "2023-02-16",
         "weekDay": "Thursday",
-        "type": "thresholdRun",
+        "type": "Threshold Run",
         "image": "fast",
         "description": "30 minuters tröskellöpning uppdelat i 3x10 minuter med 1,5 minuters stå/lätt joggvila. Riktfart Runt 5.25 min/km och då ger 10 minuter Runt 1,8 km.\nHitta farten där du ligger på eller strax under den fart där kroppen börjar ansamla mjölksyra.\nTanken är alltså att du ska hitta ett tempo som du klarar hålla utan att ta ut dig fullständigt. Som alltid är känslan viktigare än riktfarten, speciellt om väder/underlag inte är gynnsamt och eftersom veckan ska vara något \"lugnare\" är det också viktigt att passet inte blir för hårt just för dig i fart och ansträngning.",
         "details": [
@@ -1639,7 +1639,7 @@
       {
         "date": "2023-02-28",
         "weekDay": "Tuesday",
-        "type": "thresholdRun",
+        "type": "Threshold Run",
         "image": "fast",
         "description": "3x10 minuter med 1,5 minuters stå/lätt joggvila. Riktfart som tidigare Runt 5.25 min/km och då ger 10 minuter Runt 1,8 km. Du behöver inte pressa hårdare än tidigare, utan träningsenheten är den som kommer utveckla dig!\nSom alltid är känslan viktigare än riktfarten så hitta din fart mellan bekvämt och obekvämt snabbt!!",
         "details": [
