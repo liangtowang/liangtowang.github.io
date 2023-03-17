@@ -1956,6 +1956,68 @@
             "time": "10 min"
           }
         ]
+      },
+      {
+        "date": "2023-03-15",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-16",
+        "weekDay": "Thursday",
+        "type": "Threshold Run",
+        "image": "fast",
+        "description": "Idag återkommer vårt tröskelpass, men idag kör vi ett harmoniskt pass uppdelat i 1 km avsnitt. Så tröskel-tusingar helt enkelt.\nVad är då skillnaden mot 1 km intervaller? Jo, farten.\n- Det ska inte vara ett pressat pass fartmässigt utan du ska flyta på i bekvämt snabb fart.\n45 sekunders stående eller lätt joggande vila mellan varje \"tröskeltusing\".\nInnan tröskelstart kör vi som vanligt en uppvärmning med lugn uppvärmande distans, följt av rörlighet. Kort effektiv löpskolning och en pulshöjande koordination.\nSen kör du igång tröskelpasset. Målbild är 7 x 1 km och din riktfart blir runt 5.10-5.15 min/km i tempo. Inled kanske något långsammare så du hittar harmoni och sen på sista kan du trycka på något snabbare I gengäld.\nVarva ner med lugn jogg följt av stretch/rörlighet.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2.5 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x30m",
+            "time": "10 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "1x80m"
+          },
+          {
+            "name": "Threshold Run",
+            "distance": "7x1 km"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-17",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
       }
     ]
   }
