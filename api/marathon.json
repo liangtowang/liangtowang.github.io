@@ -2018,6 +2018,42 @@
             "name": "Rest Day"
           }
         ]
+      },
+      {
+        "date": "2023-03-18",
+        "weekDay": "Saturday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Veckans extrapass. Prioritera långpasset imorgon om du tycker det blir för tufft med två pass i rad eller om du inte hittar träningstid på helgen till båda passen.Men om tid finns, kroppen är ok; kör en lugn fin halvtimme som bygger ytterligare grund mot din mara!",
+        "details": [
+          {
+            "name": "Easy Run",
+            "distance": "5 km",
+            "time": "29-30 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-19",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Idag kör vi långpass med ett fartinslag igen. Så ingen ökning i tid eller kilometerlängd, utan istället ligger fokus på att få in en fartdel. Känner du redan från början på passet att det kan bli tufft med fart idag, då skippar du det långa fartinslaget (km-delarna) och kör bara inledande 30-45-60 sekunder för att få växla steg i ditt långpass.\nStarta upp långpasset i din vanliga fart och kör rulla på till ungefär halva sträckan av dagens totala distansmål. Bestäm vart fartinslaget utifrån var det passar in på din runda. Fartdelen inleds med 30 sekunders snabb löpning, 1 minut lugnt, 45 sekunder snabbt, 1 minut lugnt, 60 sekunder snabbt och därefter 2 minuter lugnt. På dessa fartdelar är fokus att du ska jobba med bra teknik och få fart på benen och få upp pulsen lite. Upplägget ska vara din bekvämt snabba farten och ingen fokus här att ha någon riktfart. Spring på känsla, och spring snyggt. \nKom upp i steget och försöka spring med stolt hållning, så kommer du koppla in outnyttjad muskelkraft.\nEfter 2 minuter lugn grundfart efter 60 sekunders fartökningen kommer huvudfartdelen där det blir några kilometerfartdelar.\nFartdelarna blir 3 km- 1 km- 1 km.\nRiktfarter:\n3 km 5.30-5.35 min/km.\n1 km 5.10-5.15 min/km.\nMellan varje km-fartökningsdel är det 2 minuters lugn långpassgrundfart eller ännu lugnare som gäller. (Behöver du kan du gå en liten bit på 2 minuters ”vilodelen”) På sista fartökningsdelen kan du öka på ännu tuffare på sista minuten av km-fartdelen. Men inte så fort så du riskerar att skadas.\nEfter avslutad fart-del tar du 3 minuters riktigt lugn jogg eller gång där du kan passa på att dricka. Stanna dock inte till för länge, utan starta sedan upp igen till din vanliga långpassgrundfart och fullfölj sedan långpasset så du när dagens distansmål.",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "26 km",
+            "time": "154-158 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
       }
     ]
   }
