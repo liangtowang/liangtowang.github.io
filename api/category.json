@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Marathon Training Phase",
+    "elements": [
+      {
+        "title": "Base Building",
+        "headline": "Rest well before running.",
+        "image": "base"
+      },
+      {
+        "title": "Speed Run",
+        "headline": "Run easy, real easy.",
+        "image": "speed"
+      },
+      {
+        "title": "Race Specific",
+        "headline": "Recovery between hard days.",
+        "image": "race_specific"
+      },
+      {
+        "title": "Tapering",
+        "headline": "Fast runs, short breaks.",
+        "image": "tapering"
+      },
+      {
+        "title": "Race Day",
+        "headline": "Run up the hill.",
+        "image": "race_day"
+      },
+      {
+        "title": "After Race",
+        "headline": "Go far and beyond.",
+        "image": "after_race"
+      }
+    ]
+  },
+  {
+    "name": "Weekly Training Program",
+    "elements": [
+      {
+        "title": "Rest Day",
+        "headline": "Rest well before running.",
+        "image": "rest"
+      },
+      {
+        "title": "Easy Run",
+        "headline": "Run easy, real easy.",
+        "image": "easy"
+      },
+      {
+        "title": "Recovery Run",
+        "headline": "Recovery between hard days.",
+        "image": "recovery"
+      },
+      {
+        "title": "Interval Run",
+        "headline": "Fast runs, short breaks.",
+        "image": "fast"
+      },
+      {
+        "title": "Hill Run",
+        "headline": "Run up the hill.",
+        "image": "hill"
+      },
+      {
+        "title": "Long Run",
+        "headline": "Go far and beyond.",
+        "image": "long"
+      }
+    ]
+  },
+  {
+    "name": "Nutrition & Hydration",
+    "elements": [
+      {
+        "title": "Breakfast",
+        "headline": "Rest well before running.",
+        "image": "breakfast"
+      },
+      {
+        "title": "Lunch",
+        "headline": "Run easy, real easy.",
+        "image": "lunch"
+      },
+      {
+        "title": "Snack",
+        "headline": "Recovery between hard days.",
+        "image": "snack"
+      },
+      {
+        "title": "Dinner",
+        "headline": "Fast runs, short breaks.",
+        "image": "dinner"
+      }
+    ]
+  },
+  {
+    "name": "Gear Up For Success",
+    "elements": [
+      {
+        "title": "Distance",
+        "headline": "Rest well before running.",
+        "image": "distance"
+      },
+      {
+        "title": "Fast",
+        "headline": "Run easy, real easy.",
+        "image": "fast_shoe"
+      },
+      {
+        "title": "Trail",
+        "headline": "Recovery between hard days.",
+        "image": "trail"
+      }
+    ]
+  },
+  {
+    "name": "Inspiration from the GOAT",
+    "elements": [
+      {
+        "title": "Eliud Kipchoge",
+        "headline": "Rest well before running.",
+        "image": "eliud"
+      },
+      {
+        "title": "Mo Farah",
+        "headline": "Run easy, real easy.",
+        "image": "mo"
+      },
+      {
+        "title": "Kenenisa Bekele",
+        "headline": "Recovery between hard days.",
+        "image": "bekele"
+      },
+      {
+        "title": "Molly Seidel",
+        "headline": "Fast runs, short breaks.",
+        "image": "molly"
+      },
+      {
+        "title": "Keira D'Amato",
+        "headline": "Run up the hill.",
+        "image": "keira"
+      },
+      {
+        "title": "Shalane flanagan",
+        "headline": "Go far and beyond.",
+        "image": "shalane"
+      }
+    ]
+  },
+  {
+    "name": "World Marathon Majors",
+    "elements": [
+      {
+        "title": "New York",
+        "headline": "Rest well before running.",
+        "image": "newyork"
+      },
+      {
+        "title": "Boston",
+        "headline": "Run easy, real easy.",
+        "image": "boston"
+      },
+      {
+        "title": "Chicago",
+        "headline": "Recovery between hard days.",
+        "image": "chicago"
+      },
+      {
+        "title": "London",
+        "headline": "Fast runs, short breaks.",
+        "image": "london"
+      },
+      {
+        "title": "Berlin",
+        "headline": "Run up the hill.",
+        "image": "berlin"
+      },
+      {
+        "title": "Tokyo",
+        "headline": "Go far and beyond.",
+        "image": "tokyo"
+      }
+    ]
+  }
+]
+
