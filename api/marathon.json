@@ -2056,5 +2056,112 @@
         ]
       }
     ]
+  },
+  {
+    "id": 16,
+    "name": "Träningsvecka 16",
+    "goal": "4 träningspass 51.60 km",
+    "plan": "Ny vecka och nya utmaningar, där helgen blir riktigt tuff om du kör enligt programmet full ut.\n\nAtt kombinera snabbdistans (alt Tävling/Premiärmilen) med långpass dagen efter är tufft och faktiskt lite \"överkurs\".\n\n- Så tveka inte modifiera upplägget, korta ner söndagens långpass till runt 70-90 minuter du kör tufft på lördag. Stäm av med både känslan i kroppen och hur du känner mentalt för utmaningen.\n\nSka coachen guida lite helgens upplägg blir det:\n\n1. Allt känns jättebra och du inte är sliten; ja testa programmets upplägg!\n\n2. Har du kört bra med långpass under året; ja då kan du sätta snabbdistans/lopp i fokus och sen ta söndagen som den kommer med vila eller kortare långpass.\n\n3. Har du inte fått in så många långpass hittills i år, ja då prioriterar du att springa långt till helgen. Samma om du gillar att verkligen ha regelbundna långpass; då väljer du så klart att springa långt även denna helg!\n\nMen träningsveckan består ju inte bara av helgen, utan jobba på så bra du kan även i veckan fram till helgen, och det förhoppningsvis med lite vår i luften!",
+    "trainingDays": [
+      {
+        "date": "2023-03-20",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Ny vecka och nya utmaningar, där helgen blir riktigt tuff om du kör enligt programmet full ut.\n\nAtt kombinera snabbdistans (alt Tävling/Premiärmilen) med långpass dagen efter är tufft och faktiskt lite \"överkurs\".\n\n- Så tveka inte modifiera upplägget, korta ner söndagens långpass till runt 70-90 minuter du kör tufft på lördag. Stäm av med både känslan i kroppen och hur du känner mentalt för utmaningen.\n\nSka coachen guida lite helgens upplägg blir det:\n\n1. Allt känns jättebra och du inte är sliten; ja testa programmets upplägg!\n\n2. Har du kört bra med långpass under året; ja då kan du sätta snabbdistans/lopp i fokus och sen ta söndagen som den kommer med vila eller kortare långpass.\n\n3. Har du inte fått in så många långpass hittills i år, ja då prioriterar du att springa långt till helgen. Samma om du gillar att verkligen ha regelbundna långpass; då väljer du så klart att springa långt även denna helg!\n\nMen träningsveckan består ju inte bara av helgen, utan jobba på så bra du kan även i veckan fram till helgen, och det förhoppningsvis med lite vår i luften!",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-21",
+        "weekDay": "Tuesday",
+        "type": "Fartlek Run",
+        "image": "fast",
+        "description": "Fartleken låter du kroppen styra och helt ok att låta passet bli lätt.\n\nDu får gärna \"fuska lite\" med farten, och bara flyta igenom med små fartvariationer. Sikta på att ha lite kortare fartbitar, från 30 sekunders upp till 2 minuters, men pressa alltså inte så hårt. Ibland kan det vara skönt att bara flyta, och nu känns som ett bra läge iallafall ur programmets perspektiv. Komplettera med full omgång styrka efter löpningen.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2 km",
+            "time": "11-12 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "2x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Fartlek Run",
+            "distance": "6 km",
+            "time": "33 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-22",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-23",
+        "weekDay": "Thursday",
+        "type": "Hill Run",
+        "image": "hill",
+        "description": "Ett kort backpass som avbrott från alla distans/mängd.\n\n– Bra att skifta steget lite och nå muskler du kanske inte alltid aktiverar så bra i din löpning men som är bra att hålla igång så dom kan aktiveras när tröttheten sätter in på längre lopp!!\n\nUppvärmning med lugn distanslöpning till din kortbacke.\n\nBacken ska ge ett fint motlut, men inte brantare än att du kan springa på med bra steg uppför i 20-30 sekunder.\n\nLite uppmjukande rörlighet när du är framme vid backen. Lätt löpskolning gärna i motlutet på backen.\n\nKortbacken innebär att du springer fort 20-30 sekunder uppför backen. Vilan mellan backarna är lugn jogg ner, kombinerat med några sekunders ståvila på toppen/vändningen och nedanför backen innan start på nästa backe.\n\nSpring med bra tryck och försök hålla en bra teknisk löpning. Kör på såpass tufft att du precis känner lite mjölksyra på toppen. Viktigt dock att du springer första backen uppför lite lugnare, så du inte startar med chockmjölksyra i benen. Se första backen som en del i uppvärmningen. Hittat ditt tempo och din rytm uppför. Spring på med en totaltid på runt 15 minuter i backen, all tid inräknad både löpning uppför/nerför och den stående korta vilan.\n\nEfter backlöpningen är det som vanligt viktigt att du varvar ner med lugn jogg följt av stretching.\n\nKör du ASICS Premiärmilen eller satsar på en riktigt tuff träningshelg; då kortar du ner dagens till 5-8 korta 20-30 s backar med bra steg!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "3 km",
+            "time": "18-19 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x20m"
+          },
+          {
+            "name": "Hill Run",
+            "time": "15 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
+      },
+    ]
   }
 ]
