@@ -2229,5 +2229,313 @@
         ]
       }
     ]
+  },
+  {
+    "id": 17,
+    "name": "Träningsvecka 17",
+    "goal": "4 träningspass 42.20 km",
+    "plan": "Hoppas träningen flyter på och att den nu underlättas av att det våras lite!!\n\nEn variationsrik vecka träningsmässigt genom att coachen bland annat lägger in ett backpass med olika längd där du kan jobba med olika fart och rörelseuttag i din löpning utifrån backens längd. Torsdag har grundbyggande korta intervaller där du springer din för säsongen bekvämt snabba fart; kommer hur du än gör bli bra överfart till allt annat.\n\nHitta ditt flyt; och pressa INTE INTE TUFFT på de korta intervallerna.\n\nSöndagen rullar långpasset på som vanligt och nu med 28 km som målbild; i din lugna fart!",
+    "trainingDays": [
+      {
+        "date": "2023-03-27",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Hoppas träningen flyter på och att den nu underlättas av att det våras lite!!\n\nEn variationsrik vecka träningsmässigt genom att coachen bland annat lägger in ett backpass med olika längd där du kan jobba med olika fart och rörelseuttag i din löpning utifrån backens längd. Torsdag har grundbyggande korta intervaller där du springer din för säsongen bekvämt snabba fart; kommer hur du än gör bli bra överfart till allt annat.\n\nHitta ditt flyt; och pressa INTE INTE TUFFT på de korta intervallerna.\n\nSöndagen rullar långpasset på som vanligt och nu med 28 km som målbild; i din lugna fart!",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-28",
+        "weekDay": "Tuesday",
+        "type": "Hill Run",
+        "image": "hill",
+        "description": "Idag blir det backe! Först uppvärmning med distansjogg som tar dig till en backe som helst ska vara så lång så att du kan få in upp till 60 sekunders löpning uppför i en bekvämt snabb fart. Lagom brant så du kan springa hela 60 sekunders sträckan uppför i ok fart.\n\nVäl på plats vid backen kör du lite rörlighet och löpskolning.\n\nLöpskolningen; 2 x 20 meter i backens nedersta motlut.\n\nGrundövningar; låg skipp - höga knälyft- hälkick och sedan kan du om du vill addera någon övning till (kolla in videon). Gångvila ner löpskolningssträckan. Tänk på bra hållning och aktivt steg.\n\nSen startar vi själva backpasset, och det blir ett pass där vi kommer jobba med både med längre och kortare backar.\n\nSyftet med passet blir att jobba med löpteknik, löpstyrka och kondition men även lite olika ”tryck i steget” under passet.\n\nVi inleder med några 60 sekunders (tar ca 60 sekunder uppför) långbackar där vi jobbar med bra teknik men utan att trycka på alltför mycket. Vi springer ”fint och kontrollerat” uppför.\n\nBra att ta första långbacken som en del i uppvärmningen.\n\nNär vi sen övergår till en mellanvariant i tiden uppför blir det 40 sekunders löptid uppför och nu försöker du öka på trycket i steget ett snäpp men inte tuffare än att vi på passets avslutande korta \"20 sekunder backar\" kan öka tryck, rörelseomfång och hållning ännu ett snäpp.\n\nVilan mellan backarna blir att du stannar till och vilar några sekunder där vi vänder, och sedan joggar vi ner till starten och tar några sekunders vila innan vi startar på nytt.\n\nPå de längre backarna får joggen ner gärna vara lite fortare, men på de kortare backarna kan joggen ner vara riktigt lugn och gärna även lite gång i början och slutet av ”nerförs transporten”.\n\nMellan växlingarna av backlängden kan du även ta några sekunders extra ståvila nedanför backen så du är redo trycka på ett snäpp mer på nästa variant backlängd.\n\nDin målbild idag blir att köra följande antal backar i respektive tidslängd uppför:\n\n4 x 60 sekunder\n\n5 x 40 sekunder\n\n5 x 20 sekunder\n\nEfter backlöpningen varvar du ner med lugn jogg följt av stretch i någon form.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "3 km",
+            "time": "17-18 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "2x20m"
+          },
+          {
+            "name": "Hill Run",
+            "distance": "6 km",
+            "time": "4x60-5x40-5x20 second"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-29",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-30",
+        "weekDay": "Thursday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Starta dagens pass med en uppvärmningsdistans i lugn fart i runt 2,5 km, följt av kort uppmjukande rörlighet. Därefter ett löpskolningsinslag med några övningar över 2 x 30 meter. Kör även gärna någon koordination för att få upp puls och fart innan intervall-delen startar.\n\nUpplägget på intervallpasset blir 200 meters intervaller, uppdelat i serier med 4 intervaller i varje serie. Vilan är 30 sekunders ”ståvila” mellan intervallerna, och sedan tar du 60 sekunder stå/gå vila mellan varje serie. Målbilden blir 16 intervaller totalt, så 4 x 4 x 200 meter.\n\n- Så riktigt kort vila idag, vilket innebär att farten inte ska vara pressad eller hög utan den korta vilan borgar för bra konditionseffekt och överfart till ditt maratempo blir det ju med supermarginal :)\n\nProgrammet (och du) ska ha grundbyggande konditionsträning fortsatt i fokus men målet är givetvis också att få igång farten i benen utan att riskera skador genom för snabb löpning.\n\nSpring igenom passet med ”en växel kvar”, och ha fokus på din teknik. Bra ståtlig hållning och aktivt steg. Låt armarnas driv hjälpa till med farten utan att för den skull lockas att sprinta!\n\nRiktfart runt 4.10-4.15 min/km, vilket ger runt 50-51 sekunder per 200 meter.\n\nAvsluta som vanligt passet med nedjogg rörlighet.",
+
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2.5 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "1x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Interval Run",
+            "distance": "4 x 4 x 200m"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-03-31",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-01",
+        "weekDay": "Saturday",
+        "type": "Cross training",
+        "image": "rest",
+        "description": "För att få in veckans styrka, kör vi ett separat hemmapass utan löpning. Lätt lätt uppvärmning \"runt huset\", cykel eller annat, och sen lite lättare styrka än vanligt bara för att hålla igång musklerna och inte tappa den kontinuitet vi byggt upp via styrka varje vecka.",
+        "details": [
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-02",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "26 km långpass. Långt men ändå inte maxat i distans och bara din för dagen relativt \"lugna\" långpassfart. Korta ner om kroppen är sliten. Helheten är viktigast - och vi har ju flera helger till att jobba med långpassgrunden på inför maran.",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "26 km",
+            "time": "156-160 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Träningsvecka 18",
+    "goal": "3 träningspass 45.40 km",
+    "plan": "Tuff vecka igen, även om den begränsar sig till 3 träningspass. Inledningen på veckan ska dock vara relativt lätt, med marafartpasset som även om det ger volym inte ska slita så mycket. Intervallerna får vara ett tufft pass, men tänk på att inte på för hårt inledningsvis där.\n\nTill helgen återkommer passet med \"maratontusingar\" där målbilden är hela 18 x 1 km. Känns det för tufft, ja då kan du omvandla passet till ett vanligt långpass i din grundfart och a som mål att springa 23-25 km totalt.",
+    "trainingDays": [
+      {
+        "date": "2023-04-03",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Tuff vecka igen, även om den begränsar sig till 3 träningspass. Inledningen på veckan ska dock vara relativt lätt, med marafartpasset som även om det ger volym inte ska slita så mycket. Intervallerna får vara ett tufft pass, men tänk på att inte på för hårt inledningsvis där.\n\nTill helgen återkommer passet med \"maratontusingar\" där målbilden är hela 18 x 1 km. Känns det för tufft, ja då kan du omvandla passet till ett vanligt långpass i din grundfart och a som mål att springa 23-25 km totalt.",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-04",
+        "weekDay": "Tuesday",
+        "type": "Marathon Pace Run",
+        "image": "fast",
+        "description": "Efter kort uppvärmning; lite snabbare än distansen och din rytmen till maran!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "1 km",
+            "time": "6 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Marathon Pace Run",
+            "distance": "10 km",
+            "time": "56 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "1 km",
+            "time": "6 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-05",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-06",
+        "weekDay": "Thursday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Idag springer vi här med programmet ett kombinations intervallpass med långa och korta intervaller. Vi ska upprepa intervallserien 2 x 3 minuter följt av 4 x 40 sekunder Som vanligt inför fartdelen i passet inleder du med en uppvärmningslöpning. Låt uppvärmningen ta dig till din inspirerande intervallsträcka. Du kan springa intervallerna fram och tillbaka på samma sträcka, men du kan såklart även ”beta” av intervallerna framåt på din runda. Vill du går det även mycket bra att springa passet på löparbana och då kan du till och med utgå från en fast sträcka på intervallerna och låta tiden blir runt 3 minuter på ”din långa” och runt 40 sekunder på dian korta intervaller. Oavsett vart du springer intervallerna bör dock intervallsträckan inte vara alltför kuperad; och kommer det en kupering; anpassar du farten och jagar inte snittfart. När du värmt upp med din lugna löpning, kör du lite dynamisk rörlighet och gärna även några uppvärmande och löpstyrkegivande löpskolningsövningar. Sedan avslutar du uppvärmningsdelen med något koordinationslopp/stegringslopp. Sen är du redo för intervallerna, där du kan utgå från ”riktfarterna” men din känsla är viktigast och då gäller att du på ”långa” 3 minuters intervallen hittar ett bra flyt samtidigt som vi ska tillåta oss viss trötthet. På 40 sekunders intervallerna kan du våga ta ut steget ännu mer och verkligen jobba bra med din fart. Vilan är 1 minuts stående/gående mellan och efter 3 minuters intervallerna och sedan 40 sekunders stående/gående efter varje 40 sekunders intervall. När du kört en hel serie 2 x 3 minuter följt av 4 x 40 sekunder tar du en serievila på runt 1-1,5 minuter. Här avgör du hur lång tid du behöver för att ladda om. Målbilden här med programmet blir följande upplägg: 2 SERIER där varje serie innehåller 2 x 3 minuter följt av 4 x 40 sekunder. 1 SERIE med 1 x 3 minuter följt av 2 x 40 sekunder. (Total intervalltid 21:40 min) 3 minuters riktfart: 4.40 min/km. Ger ca 640 meter per intervall. 40 sekunders riktfart: 4.06 min/km. Ger ca 165 meter per intervall. Avrunda med lugn nedjogg!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2.5 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x20m"
+          },
+          {
+            "name": "Interval Run",
+            "distance": "2 x (2x640m) + 1x640m",
+            "time": "2 x (2x3 min) + 1x3 min"
+          },
+          {
+            "name": "Interval Run",
+            "distance": "2 x (4x165m) + 2x165m",
+            "time": "2 x (4x40s) + 2x40 s"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-07",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-08",
+        "weekDay": "Saturday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-09",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Idag återkommer passet som coachen kallar ”maratontusingar”. Vi hade det i programmet i slutet av februari och nu kör vi alltså igen och lägger dessutom på två \"Marathontusingar\".\n\nPasset innebär att du ska samla ihop långpassvolym genom att springa många ”lugna” 1 km intervaller. I långpassvolymen som skapas räknar vi även in uppvärmning 2-3 km och nedvarvning 2-3km.\n\nSå inled passet med lugn löpning några kilometrar. Stanna till och kör lite rörlighet för dina leder/ligament och löpmuskler. Vill du kan du även lägga in någon enkel och uppmjukande löpskolningsövning. Sedan är du redo starta dina 1 km intervaller.\n\nMålbild blir att springa runt 30-40 sekunder snabbare i minuter per kilometer än ditt normala långpasstempo.\n\nOptimera ditt upplägg med att starta de första 1 km intervallerna lite långsammare/lugnare än angiven ”riktfart”, så att för att du sedan kan öka farten lite efterhand och att den sista 1 km intervallen blir den snabbaste – trots att du då har som mest volym i benen.\n\nFör dig med snabba 4:00 som tidsmål är målet 18 x 1 km och riktfarten efter att du kommit igång blir runt 5:30-5:20 min/km om vi utgår från 6:00 i långpasstempo.\n\nVilan mellan varje ”Maratontusing” tar du 60 sekunders stående/gående vila.\n\nTa med dricka ut på passet, och kanske även någon energigel. (eller annat du gillar med energi)\n\nMentalt; tänk positivt och att du ju faktiskt får vila, vilket du inte får under långpasset så regelbundet som nu. Beta av tusing för tusing, och se fram mot att känslan då får när du kört 18 st!\n\nEfter 18:e intervallen pustar du ut innan du avslutar passet med några kilometers lugn nedvarvning och avslutade lätt rörlighet för löpmusklerna som fått jobba!",
+
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2-3 km",
+            "time": "12-18 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Marathon Pace Run",
+            "distance": "18 x 1 km"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2-3 km",
+            "time": "12-18 min"
+          }
+        ]
+      }
+    ]
   }
 ]
