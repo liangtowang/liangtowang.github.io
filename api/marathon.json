@@ -2537,5 +2537,302 @@
         ]
       }
     ]
+  },
+  {
+    "id": 19,
+    "name": "Träningsvecka 19",
+    "goal": "4 träningspass 54 km",
+    "plan": "Lite lugnare inledning på veckan kan behövas, så ta högst 6 km där så du kan hämta hem all gjord och kommande träning. För resten av veckan och kommande veckor är tuffa. Var lyhörd och plocka bort/lätta upp pass om du behöver. Snabbdistansen är lång; och tuff och sen till helgen skippar du det korta backinslaget om du är sliten. Viktigare att få in långpasset.",
+    "trainingDays": [
+      {
+        "date": "2023-04-10",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Lite lugnare inledning på veckan kan behövas, så ta högst 6 km där så du kan hämta hem all gjord och kommande träning. För resten av veckan och kommande veckor är tuffa. Var lyhörd och plocka bort/lätta upp pass om du behöver. Snabbdistansen är lång; och tuff och sen till helgen skippar du det korta backinslaget om du är sliten. Viktigare att få in långpasset.",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-11",
+        "weekDay": "Tuesday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Lugn distans!",
+        "details": [
+          {
+            "name": "Easy run",
+            "distance": "6 km",
+            "time": "34-35 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-12",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-13",
+        "weekDay": "Thursday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Snabbdistanspass. Känns allt bra, kan du sporrars av att pressa tiden, och förhoppningsvis går det lite snabbare nu än i början på vårt träningsprogram. Målbild runt 5.00 min/km i fart.\n\nTänk dock på helheten i din träning där inget enskilt pass får bli för hårt. Sliten; Spring igenom utan tidsambition, och framförallt låt kroppen komma in i passet genom en lite softare inledning på din 7 km snabbdistans.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2 km",
+            "time": "11-12 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x30m",
+            "time": "10 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "2x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Fast Distance Run",
+            "distance": "7 km",
+            "time": "35-37 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-14",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-15",
+        "weekDay": "Saturday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Extrapass som du bara lägger in i din helhet om du känner dig pigg, och du känner att du svarat bra på programmets träning. Lugn distans på 3+3 km där du stannar till under rundan (i förslaget efter 3 km och distansen skriven som uppvämning och nedjogg) ) och lägger in 5x100 meters kort backe med spänstigt steg.\n\nTa lite vila uppe/nere (5-10 s) och ha lugn jogg nerför också som din vila.\n\nFokus att få till lite tryck uppför utan att bli riktigt trött!\n\nBra kombo med långpasset OM du är pigg i kroppen i övrigt!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "3 km",
+            "time": "17-18 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Short Slope Run",
+            "distance": "5x100m",
+            "time": "10 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "3 km",
+            "time": "18 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5-10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-16",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Rekordlångt för programmet. Anpassa till din känsla! Korta ner om dt känns för tufft.\n\nTa med dricka; och läge börja testa in din energiplan för maran!",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "30 km",
+            "time": "180-185 min"
+          },
+          {
+            "name": "Dynamic Stretch",
+            "time": "5-10 min"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Träningsvecka 20",
+    "goal": "4 träningspass 48.50 km",
+    "plan": "En vecka där vi sätter fokus på torsdagens intervallpass och men sen lite kortare långpass till helgen för att hålla igång långpasskänslan och samtidigt ge kroppen chans att ta till sig all tuff träning - och vara redo för programmets sista riktigt tuffa veckor inkl våra två längsta långpass. Så kortare nu - för att kunna växla upp ett snäpp till sen.\n\nSpringer du Premiärhalvan på lördag?, ja då gör du om veckan och skippar långpasset och tar loppet som din tuffa träning denna helg!\n\nTorsdagens fartpass skulle du kunna lägga på tisdag, så kör du bara lugn jogg på torsdagen inför loppet!",
+    "trainingDays": [
+      {
+        "date": "2023-04-17",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "En vecka där vi sätter fokus på torsdagens intervallpass och men sen lite kortare långpass till helgen för att hålla igång långpasskänslan och samtidigt ge kroppen chans att ta till sig all tuff träning - och vara redo för programmets sista riktigt tuffa veckor inkl våra två längsta långpass. Så kortare nu - för att kunna växla upp ett snäpp till sen.\n\nSpringer du Premiärhalvan på lördag?, ja då gör du om veckan och skippar långpasset och tar loppet som din tuffa träning denna helg!\n\nTorsdagens fartpass skulle du kunna lägga på tisdag, så kör du bara lugn jogg på torsdagen inför loppet!",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-18",
+        "weekDay": "Tuesday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Lugn distans på ca 8km för att bara hålla känsla och volym i träningen. Ha med dig att veckans avslutning kommer bli tuff, så en lugn \"underhållande¨\" start på veckan räcker bra.",
+        "details": [
+          {
+            "name": "Easy run",
+            "distance": "8 km",
+            "time": "46-48 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-19",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-20",
+        "weekDay": "Thursday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Idag ska vi springa en intervallstege där vi ökar på farten ju kortare intervallen blir. Först värmer vi upp som vanligt med lugn distansjogg som tar dig till din intervallsträcka. Ha som mål ta dig till en sträcka/runda där du kan få in 3 minuters löpning i intervallfart utan alltför stor kupering.\n\nEfter den uppvärmande lugna löpningen kör du först lite rörlighet och därefter lägger vi in veckans löpskolning. Kör dina övningar som du gillar, och med ett rörelseuttag anpassat till dig och din vana vid löpskolningen. Avrunda sedan uppvärmningen med två pulshöjande koordinationslopp och sen 1-2 minuters vila innan start på intervalldelen.\n\nVi kör ett intervall-upplägg lite anpassat så du skulle kunna köra detta tillsammans med någon/några löpkompisar även om ni är på olika nivå. För då kan du/ni springa ”fram/tillbaks” på samma sträcka då intervallstegen vi ska köra hela tiden upprepar en intervallängd två gånger.(Fram + tillbaks kommer göra att ni hela tiden hamnar på samma ställe efter varannan intervall oavsett nivå)\n\nKör du själv eller med en kompis du är jämn med gällande fart kan du/ni givetvis köra passet framåt på en runda om det känns mer stimulerande än fram/tillbaks upplägget.\n\nOavsett upplägg, är målbilden att du jobbar med högre fart ju kortare intervalltid/sträcka. Ha dock med dig att du på den inledande 3 minuters tar det ”lagom” så du hittar rätt i passet.\n\nVi samma vila genom hela passet på 1 minuts stående/gående mellan varje intervall.\n\nUpplägget på intervallstegen blir:\n\nIntervallstegen: 2 x 3 min – 2 x 2 min – 2 x 1 min följt av 2 x 2 min – 2 x 1 min\n\n12 + 6 minuter, totalt 18 minuters intervalltid. (Hinner ca 4 km)\n\nRiktfarter:\n\n3 minuters: 4.39 min/km hinner ca 645m\n\n2 minuters: 4.25 min/km hinner ca 450m\n\n1 minuters: 4.15 min/km hinner ca 235m\n\nEfter intervalldelen avrundar du som vanligt med nedjogg och stretch.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2.5 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x30m"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "2x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Interval Run",
+            "distance": "Totalt ca 4 km",
+            "time": "2x3-2x2-2x1-2x2-2x1 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-21",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-22",
+        "weekDay": "Saturday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Lugn bara komma ut och springa pass. Egentid eller en pratstund med någon kompis.",
+        "details": [
+          {
+            "name": "Easy Run",
+            "distance": "6 km",
+            "time": "35-36 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-23",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Lugnt långpass - med lite kortare distans för att ge lite andrum innan vi går vidare med två till riktigt långa långpass i slutfasen in mot maran.\n\n26 km i din för dagen bekväma långpassfart - håller igång allt - och ger kroppen chans suga upp all tuff träning!\n\nTa med drick ut på passet, och har du möjlighet - testa av att ta energi någon gång under passet för att \"träna\" på det inför maran och för att ha bra energinivå under passet!",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "26 km",
+            "time": "156-162 min"
+          },
+          {
+            "name": "Dynamic Stretch",
+            "time": "5-10 min"
+          }
+        ]
+      }
+    ]
   }
 ]
