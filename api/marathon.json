@@ -2834,5 +2834,153 @@
         ]
       }
     ]
+  },
+  {
+    "id": 21,
+    "name": "Träningsvecka 21",
+    "goal": "3 träningspass 45 km",
+    "plan": "Träningsprogrammet kör vidare, och om du är sliten sedan senaste tidens tuffa träning, kan det vara läge \"pulsera ner denna veckan\".\n\nFör att göra veckan något lättare kan du ta bort eller korta ner pass i och sen förhoppningsvis blir du då både sugen på och mottaglig för ett riktigt långt pass på söndag - ett pass som är veckans fokuspass förutsatt att du inte är \"för sliten\".\n\nOm allt flyter på, ja då kör du får du såklart köra på veckan fullt ut; och då kan ett bra backpass passa in för både löpstyrkan, löptekniken och konditionsträningen!",
+    "trainingDays": [
+      {
+        "date": "2023-04-24",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Träningsprogrammet kör vidare, och om du är sliten sedan senaste tidens tuffa träning, kan det vara läge \"pulsera ner denna veckan\".\n\nFör att göra veckan något lättare kan du ta bort eller korta ner pass i och sen förhoppningsvis blir du då både sugen på och mottaglig för ett riktigt långt pass på söndag - ett pass som är veckans fokuspass förutsatt att du inte är \"för sliten\".\n\nOm allt flyter på, ja då kör du får du såklart köra på veckan fullt ut; och då kan ett bra backpass passa in för både löpstyrkan, löptekniken och konditionsträningen!",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-25",
+        "weekDay": "Tuesday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Uppvärmning följt av fem serier med femton/femton som vi haft en gång tidigare. Löpning i snabb men kontrollerad fart 15 sekunder och sedan vila 15 sekunder. Detta upprepar du alltså 5 gånger i varje serie.\n\nTotalt 5 serier i dagens pass och vilan mellan varje serie är på 1-2 minuters stå/går-runt vila. Troligen får du ihop runt 1,5 km men det viktiga är som tidigare INTE volymen utan att du jobbar med fart och steget som är fokus. Spring så fort du kan med tanke på att du ska starta direkt efter 15 sekunder igen. Kör fram/tillbaks eller framåt på en sträcka.\n\nAvrunda dagens pass med veckan styrka och grundlig rörlighet.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2.5 km",
+            "time": "14-15 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Coordination Race",
+            "distance": "1x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Short Interval Run",
+            "time": "5x15/15"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-26",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-27",
+        "weekDay": "Thursday",
+        "type": "Hill Run",
+        "image": "hill",
+        "description": "Idag är planen att vi ska springa en kombinationsvariant med både några långa men även korta backar. För volym till passet tar vi en distansuppvärmning på 3 km. Sen löpskolningen innan backstart. I backen kör vi på antal istället för tid men gör ett kort överslag att det tar runt 17-18 minuter och blir minst 2 km totalt. Upplägget blir 3x60 sekunders backar, följt av 4x40 sekunders och avslut i backen med 4x20 sekunders backar. Tiden angiven i uppförslöpningen och vilan mellan varje backe är lätt jogg ner för backen och 5-10 sekunders ståvila vid vändningarna \"uppe\" och \"nere\". Försök få till ett upplägg där de långa backarna går i i en fart där du kan springa \"fint\" och utan att du blir helt slut. Jobba tuffare på 40 sekunders backen och sen på 20 sekunders hoppas jag backen är såpass kort att du kan spänsta uppför med bra tryck. Valet av backe utgår från att du ska klara lutningen på långbacken, så välj inte \"för brant\" backe.",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "3 km",
+            "time": "17-18 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x30m",
+            "time": "5 min"
+          },
+          {
+            "name": "Hill Run",
+            "distance": "3 km",
+            "time": "17-18 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-28",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-29",
+        "weekDay": "Saturday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-04-30",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Rekordlångt långpass. 31 km om allt flyter på\n\n- Viktigt att vara lyhörd på signalerna; sliten ja då kortar du ner dagens långpass. Dricka, under och efter och energi under och efter passet!!",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "31 km",
+            "time": "181-190 min"
+          },
+          {
+            "name": "Dynamic Stretch",
+            "time": "5-10 min"
+          }
+        ]
+      }
+    ]
   }
 ]
