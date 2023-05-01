@@ -2982,5 +2982,152 @@
         ]
       }
     ]
+  },
+  {
+    "id": 22,
+    "name": "Träningsvecka 22",
+    "goal": "4 träningspass 41 km",
+    "plan": "Mellanvecka med fart och återhämtande (?) långpass.\n\nFokus ge kroppen något lugnare träning och att få in korta intervaller (utan fart som riskerar någon skavank). Långpasskänslan är såklart bra att behålla - men coachen tänker att det år vara kortare så du kan ladda för efterföljande veckas längsta långpass",
+    "trainingDays": [
+      {
+        "date": "2023-05-01",
+        "weekDay": "Monday",
+        "type": "Rest Day",
+        "image": "rest",
+        "description": "Mellanvecka med fart och återhämtande (?) långpass.\n\nFokus ge kroppen något lugnare träning och att få in korta intervaller (utan fart som riskerar någon skavank). Långpasskänslan är såklart bra att behålla - men coachen tänker att det år vara kortare så du kan ladda för efterföljande veckas längsta långpass",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-05-02",
+        "weekDay": "Tuesday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Kort lugn distans och styrka får inleda veckan. Du kommer ju få långt på söndag; så nöj dig med 5 km idag!!",
+        "details": [
+          {
+            "name": "Easy Run",
+            "distance": "5 km",
+            "time": "29-30 min"
+          },
+          {
+            "name": "Running Strength",
+            "time": "15-30 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "10 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-05-03",
+        "weekDay": "Wednesday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-05-04",
+        "weekDay": "Thursday",
+        "type": "Interval Run",
+        "image": "fast",
+        "description": "Kortintervallerna känner du igen. Sista gången där du kör 15 stycken 200 meters.\n\nMålbild snäppet snabbare än senast om du har en bra dag. Så en bit under 4.00 tempo och alltså under 48 sekunder per 200 meter.\n\nVilan håller vi kvar vid 45 s mellan intervallerna och 90 s mellan serierna.\n\nFlyt, men ändå lite tryck i steget på sista serien. Tillåt dig bli trött....om du har en ok dag!",
+        "details": [
+          {
+            "name": "Warm up",
+            "distance": "2 km",
+            "time": "11-12 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Running Technique",
+            "distance": "2x30m",
+            "time": "10 min"
+          },
+          {
+            "name": "Coordination Run",
+            "distance": "2x80m",
+            "time": "3 min"
+          },
+          {
+            "name": "Interval Run",
+            "distance": "3x5x200m",
+            "time": "22 min"
+          },
+          {
+            "name": "Cool Down",
+            "distance": "2 km",
+            "time": "12 min"
+          },
+          {
+            "name": "Stretching",
+            "time": "5 min"
+          }
+        ]
+      },
+      {
+        "date": "2023-05-05",
+        "weekDay": "Friday",
+        "type": "Rest Day",
+        "image": "rest",
+        "details": [
+          {
+            "name": "Rest Day"
+          }
+        ]
+      },
+      {
+        "date": "2023-05-06",
+        "weekDay": "Saturday",
+        "type": "Easy Run",
+        "image": "easy",
+        "description": "Testa maraupplägget, med en kort jogg, rörlighet och två lätta koordinationer dagen innan långt pass! Se om detta känns bra eller om tex helvilan dagen som du haft vid andra långpass gav/ger dig bättre effekt! Då vet du hur du ska göra när det är dags...",
+        "details": [
+          {
+            "name": "Easy Run",
+            "distance": "3 km",
+            "time": "17-18 min"
+          },
+          {
+            "name": "Dynamic Movement",
+            "time": "5 min"
+          },
+          {
+            "name": "Coordination Run",
+            "distance": "2x50m",
+            "time": "3 min"
+          },
+        ]
+      },
+      {
+        "date": "2023-05-07",
+        "weekDay": "Sunday",
+        "type": "Long Run",
+        "image": "long",
+        "description": "Programmet bryter av med ett lite kortare långpass. Om du ett långpass kan kännas kort?\n\nPasset underhåller din långpass känsla, men ger förhoppningsvis kroppen chans ta till sig all träning.\n\nCoach Szalkai vill att detta lite kortare långpass nu ger dig en liten \"buffert\" både mentalt och fysisk inför programmets kommande sista tuffa del - innan nedtrappningen börjar mot maran som nu bara är mindre än 4 veckor bort.\n\nSå lugn grundfart och lite kortare, men såklart med vanliga långpass-råden där dricka/energi ingår och att du är noga efter passet med torra kläder och ny energi in så du inte öppnar upp för att dra på dig någon onödig förkylning nu!",
+        "details": [
+          {
+            "name": "Long Run",
+            "distance": "26 km",
+            "time": "156-160 min"
+          },
+          {
+            "name": "Dynamic Stretch",
+            "time": "5-10 min"
+          }
+        ]
+      }
+    ]
   }
 ]
