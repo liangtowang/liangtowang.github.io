@@ -3129,5 +3129,578 @@
         ]
       }
     ]
-  }
+  },
+	{
+		"id": 23,
+		"name": "Träningsvecka 23",
+		"goal": "4 träningspass 61 km",
+		"plan": "En bra vecka med riktigt tufft avslut. Målet är att klämma in en 34 km runda till helgen.\n\n– Bra för många mentalt att ha med sig, men har du kört bra långpass tidigare står du absolut inte och faller med söndagens pass, utan är du sliten är det helt ok att korta ner. Lördagens pass kan du också stå över om du vill och känner att det behövs för att jobba mot + 30k dagen efter.\n\nI övrigt jobbar vi på med lite fart i veckan genom torsdagens kortbacken och ett marafartpass som inledning som du kan korta ner till 5-8 km om 10 km känns långt just för dagen.",
+		"trainingDays": [
+			{
+				"date": "2023-05-08",
+				"weekDay": "Monday",
+				"type": "Rest Day",
+				"image": "rest",
+				"description": "En bra vecka med riktigt tufft avslut. Målet är att klämma in en 34 km runda till helgen.\n\n– Bra för många mentalt att ha med sig, men har du kört bra långpass tidigare står du absolut inte och faller med söndagens pass, utan är du sliten är det helt ok att korta ner. Lördagens pass kan du också stå över om du vill och känner att det behövs för att jobba mot + 30k dagen efter.\n\nI övrigt jobbar vi på med lite fart i veckan genom torsdagens kortbacken och ett marafartpass som inledning som du kan korta ner till 5-8 km om 10 km känns långt just för dagen.",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-09",
+				"weekDay": "Tuesday",
+				"type": "Marathon Pace Run",
+				"image": "fast",
+				"description": "Marafartpasset en sista gång i vår långa variant. Lagom tufft, och är du sliten, ta bort eller lätta upp till en lugn 10-12 km runda. Prioritera att du får in backen med lite spänstigt steg på torsdag och sen att du är laddad till programmets längsta långpass kommande söndag.",
+				"details": [
+					{
+						"name": "Warm Up",
+						"distance": "1 km",
+						"time": "6 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Marathon Pace Run",
+						"distance": "10 km",
+						"time": "56 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "1 km",
+						"time": "6 min"
+					},
+					{
+						"name": "Running Strength",
+						"time": "15-30 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-10",
+				"weekDay": "Wednesday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-11",
+				"weekDay": "Thursday",
+				"type": "Hill Run",
+				"image": "hill",
+				"description": "Värm upp som vanligt med jogg, rörlighet och löpskolningsövningarna.\n\nBacken ska vara en \"lite brantare variant\" men du ska kunna springa med bra steg och orka runt 20-25 sekunder i uppförslöpningen och på det förnimma lite mjölksyra i benen på \"toppen\". Ta några (5-10) sekunders vila både vid din kortbackes vändpunkt och innan start på nästa backe. Fokusera på ett bra steg med bra driv. Jobba bra med lite snabbare armföring och bra knäuppdrag om det kommer någorlunda naturligt för dig. Inga helt ovana rörelser nu...\n\nViktigt att varva ner med lugn jogg och stretch!",
+				"details": [
+					{
+						"name": "Warm up",
+						"distance": "3 km",
+						"time": "17-18 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Running Technique",
+						"distance": "2x30m",
+						"time": "10 min"
+					},
+					{
+						"name": "Hill Run",
+						"distance": "3 km",
+						"time": "18 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "3 km",
+						"time": "18 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5-10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-12",
+				"weekDay": "Friday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-13",
+				"weekDay": "Saturday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lätt extrapass som verkligen är extra. Ger givetvis bra effekt med morgondagens pass; men passera inga skade eller överträningsgränser nu för att få in detta passet. Bara för dig som känner att du suger upp all träning just nu! Prioritera morgondagen...",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "6 km",
+						"time": "34-35 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-14",
+				"weekDay": "Sunday",
+				"type": "Long Run",
+				"image": "long",
+				"description": "Programmets längsta långpass!\n\n- Riktigt långt, och ofrånkomligt över 3 timmar. DIN LUGNA FART, och ok att sänka ytterligare ett snäpp i fart än vad du brukar för att klara distansen!\n\nSe till att du laddat in med lite extra kolhydrater dagen innan, och ta med dricka ut på passet. (testa gärna sportdrycken om du inte hunnit gjort det tidigare) Testa dina tänkta tävlingsskor, och se att dom funkar med fötterna hela vägen.\n\nExtremt viktigt att du är noggrann efter passet, med energi, dricka och torra kläder så du inte i det läge vi är nu drar på dig någon onödig förkylning.\n\n-Se till att du får någon timmes vila efter passet, och inte behöver göra så mycket innan kroppen hunnit hämta hem lite grann iallafall!",
+				"details": [
+					{
+						"name": "Long Run",
+						"distance": "34 km",
+						"time": "198-211 min"
+					},
+					{
+						"name": "Dynamic Stretch",
+						"time": "5-10 min"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 24,
+		"name": "Träningsvecka 24",
+		"goal": "3 träningspass 39 km",
+		"plan": "Nu börjar vår nedtrappning inför årets ASICS Stockholm Marathon.\n\nNu gäller det mer att börja hitta flyt och rytmen än att \"gå framåt\" så mycket på de enskilda passen.\n\nHar du lyckats följa programmet i stora drag, tror jag du ligger bra till och nu tjänar mycket på att börja minska ner träningen.\n\nInleder med några säkert välbehövliga lugna dagar, efter förra veckans tuffa helhet och tuffa långpass. Om du vill kan du gärna korta ner tisdagspasset till en ännu kortare lugn jogg.\n\nVeckans tuffa pass blir snabbdistansen. Där kan du gå på tufft om allt känns ok.\n\nLångpass i lugn fart, men för dom som känner att kroppen svarat bra senaste tidens träning kan lägga in en bra fartökning i passet.\n\nSista chansen också att i långpass momentet testa marans sportdryck. -Så har du inte gjort det tidigare; testa nu och se om det funkar; gäller även skor och kläder. Testa av det du ska ha på maran!\n\nLycka till med veckan!",
+		"trainingDays": [
+			{
+				"date": "2023-05-15",
+				"weekDay": "Monday",
+				"type": "Rest Day",
+				"image": "rest",
+				"description": "Nu börjar vår nedtrappning inför årets ASICS Stockholm Marathon.\n\nNu gäller det mer att börja hitta flyt och rytmen än att \"gå framåt\" så mycket på de enskilda passen.\n\nHar du lyckats följa programmet i stora drag, tror jag du ligger bra till och nu tjänar mycket på att börja minska ner träningen.\n\nInleder med några säkert välbehövliga lugna dagar, efter förra veckans tuffa helhet och tuffa långpass. Om du vill kan du gärna korta ner tisdagspasset till en ännu kortare lugn jogg.\n\nVeckans tuffa pass blir snabbdistansen. Där kan du gå på tufft om allt känns ok.\n\nLångpass i lugn fart, men för dom som känner att kroppen svarat bra senaste tidens träning kan lägga in en bra fartökning i passet.\n\nSista chansen också att i långpass momentet testa marans sportdryck. -Så har du inte gjort det tidigare; testa nu och se om det funkar; gäller även skor och kläder. Testa av det du ska ha på maran!\n\nLycka till med veckan!",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-16",
+				"weekDay": "Tuesday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lätt distans och sista styrkan fullt ut; nästa vecka blir det mindre styrka i din nedtrappning träningsmässigt och upptrappning formmässigt mot maran.",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "6 km",
+						"time": "29-30 min"
+					},
+					{
+						"name": "Running Strength",
+						"time": "15-30 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-17",
+				"weekDay": "Wednesday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-18",
+				"weekDay": "Thursday",
+				"type": "Fast Run",
+				"image": "fast",
+				"description": "Snabbdistans på 5 km. Det kan vara ett tufft riktigt tufft pass men med fokus på flyt i löpningen. Känner du mer för tröskelfart väljer du det. Marafart kan också räcka...Låt dagsform avgöra och ha med dig att det lilla sista sparar vi att plocka ur kroppen till maran.\n\n- Ni som är med i TSM Running kan köra snabbdistansen på \"Milspåret\", antingen 5 eller 10 km som är officiellt testlopp för TSM Running.",
+				"details": [
+					{
+						"name": "Warm up",
+						"distance": "2 km",
+						"time": "11-12 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Condition Race Run",
+						"distance": "2x60m",
+						"time": "3 min"
+					},
+					{
+						"name": "Fast Distance Run",
+						"distance": "5 km",
+						"time": "25-26 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "2 km",
+						"time": "12 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5-10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-19",
+				"weekDay": "Friday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-20",
+				"weekDay": "Saturday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-21",
+				"weekDay": "Sunday",
+				"type": "Long Run",
+				"image": "long",
+				"description": "Programmets och kanske ditt sista långpass innan maran, blir ett 24 km pass i mestadels lugn långpassfart. Under ett avsnitt över ca 4 km kan du öka upp din fart till klart under din tänkta maratontävlingsfart för att få en sista test och pusha din långpassmotor!\n\nLägg in din farthöjning efter ca 60 minuters löpning och försök spring fortare under ca 22 minuter. Målbild i fart runt 5.30 min/km.\n\nÄr du sliten och kroppen inte svarar; spring igenom lugnt hela vägen.\n\nSom alltid viktigt dricka, och energi och mer vätska även efteråt för bra och viktig återhämtning!\n\nGällande om detta är ditt sista långpass innan maran kan du faktiskt om du missat många långpass, lägga in ett kort lugnt långpass med en vecka kvar till loppet istället för angiven träning. (Då tar bort söndagens upplägg där som finns i programmet).",
+				"details": [
+					{
+						"name": "Long Run",
+						"distance": "24 km",
+						"time": "140-144 min"
+					},
+					{
+						"name": "Dynamic Stretch",
+						"time": "5-10 min"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "Träningsvecka 25",
+		"goal": "4 träningspass 23.9 km",
+		"plan": "Ett snäpp till ner i volym för att än mer ge kroppen chans att skapa en formtopp. Två av veckans pass innehåller för formen bra kvalite-aspekter.\n\nSyreupptagning, uthållighet i hög fart och flyt via kortintervaller på torsdagen. Spänst och löpteknik via backen och lite kort maraflyt där också i veckans avslutningspass.\n\nFör att hålla igång känslan lägger vi till två lättare distanspass, där du enkelt kan plocka bort lördagspasset om du vet med dig att löpvila brukar ge bra effekt direkt till lätta ben. Men om du känner; ok att jogga på... Mentalt; börja så smått se fram mot hela träningsuppläggets mål. Bara en vecka bort!!\n\nStort lycka till med veckan, det börjar närma sig!!",
+		"trainingDays": [
+			{
+				"date": "2023-05-22",
+				"weekDay": "Monday",
+				"type": "Rest Day",
+				"image": "rest",
+				"description": "Ett snäpp till ner i volym för att än mer ge kroppen chans att skapa en formtopp. Två av veckans pass innehåller för formen bra kvalite-aspekter.\n\nSyreupptagning, uthållighet i hög fart och flyt via kortintervaller på torsdagen. Spänst och löpteknik via backen och lite kort maraflyt där också i veckans avslutningspass.\n\nFör att hålla igång känslan lägger vi till två lättare distanspass, där du enkelt kan plocka bort lördagspasset om du vet med dig att löpvila brukar ge bra effekt direkt till lätta ben. Men om du känner; ok att jogga på... Mentalt; börja så smått se fram mot hela träningsuppläggets mål. Bara en vecka bort!!\n\nStort lycka till med veckan, det börjar närma sig!!",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-23",
+				"weekDay": "Tuesday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lätt distans på \"bara\" 5km kompletterat med två lätta koordinationslopp och programmets sista styrka där vi även lättar upp. - Allt för att framkalla en lätt känsla! Träning men mindre!!",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "5 km",
+						"time": "29-30 min"
+					},
+					{
+						"name": "Condition Race Run",
+						"distance": "2x60m",
+						"time": "3 min"
+					},
+					{
+						"name": "Running Strength",
+						"time": "10-15 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-24",
+				"weekDay": "Wednesday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-25",
+				"weekDay": "Thursday",
+				"type": "Fast Run",
+				"image": "fast",
+				"description": "Vanlig uppvärmning innan kvalité, inkl löpskolningen. 2x30m; 4 övningar; Låg Skip-Hög Skip-Mångsteg-Hälkick varje. - Kortintervallpass, där vi nu minskar längden något på vår intervall och kör 3x4x200m, med 45 sek vila mellan intervallerna och 90 sekunder mellan serierna. Dvs 4 intervaller med 45 sek vila, och sen 90 sek vila innan du kör 4 till osv. Riktfart är att runt 45-47 sek per 200m(3.45-3.55 tempo), Viktigt dock mer flyt/harmoni är att pressa max. Med 12 intervaller hinner du få bra träning både muskulärt och för konditionen! Varva ner lugnt med jogg/stretch.",
+				"details": [
+					{
+						"name": "Warm up",
+						"distance": "2.5 km",
+						"time": "14-15 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Running Technique",
+						"distance": "2x30m",
+						"time": "10 min"
+					},
+					{
+						"name": "Condition Race Run",
+						"distance": "2x80m",
+						"time": "3 min"
+					},
+					{
+						"name": "Interval Run",
+						"distance": "3x4x200m",
+						"time": "24 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "2 km",
+						"time": "12 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-26",
+				"weekDay": "Friday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-27",
+				"weekDay": "Saturday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lugn valfri kort distans. Endast för er som tycker det skulle vara skönt komma ut på en liten runda. Om du inte kan få in backen/kort tröskel imorgon; lägger du den här idag.",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "4 km",
+						"time": "23-24 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5-10 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-28",
+				"weekDay": "Sunday",
+				"type": "Long Run",
+				"image": "long",
+				"description": "Vi \"bockar av passen\", och här kommer ett sista spänstgivande backpass tillsammans med kort tröskelflyt. Förutom att du kommer jobba med bra steg, underhåller backen alltid konditionen på ett suveränt sätt och med tröskeln får du flyta på i lite \"sub marafart\" Uppvärmningsjogg på 2km, sen mini löpskolningen i motlutet. 1x20m; Låg Skip-Hög Skip-Mångsteg-Hälkick varje. Sen kortbacken, med fokus bra steg och bli \"lagom trött\". 8-10 backar som tar runt 25 sekunder uppför, och lätt gång/jogg nerför. Ta vilotid \"nere\" så steget uppför blir bra!! Efter backen vilar du lite och om det behövs förflyttar du dig med lätt jogg till en sträcka där du kan flyta på i sub marafart under 2 km. Ungefär som fartökningen på långpasset, men utan att det ligger i ett långpass. Hitta flytet och känns att maran snart äntligen är här!!",
+				"details": [
+					{
+						"name": "Warm Up",
+						"distance": "2 km",
+						"time": "12 min"
+					},
+					{
+						"name": "Running Technique",
+						"distance": "1x20m"
+					},
+					{
+						"name": "Hill Run",
+						"distance": "2 km",
+						"time": "12-14 min"
+					},
+					{
+						"name": "Threshold Run",
+						"distance": "2 km",
+						"time": "11 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "2 km",
+						"time": "12 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5-10 min"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "Träningsvecka 26",
+		"goal": "4 träningspass 59.10 km",
+		"plan": "Veckans träning är helt riktad mot att optimera dig mentalt och fysiskt till lördag. Ett pass flytintervaller och lätt underhållande distans. Både intervallerna och onsdagens distanspass kan ingå i en helhet i din kolhydratladdning. Kolhydratladdningen kan se lite olika ut. Enklast är att \"bara\" genom från och med onsdag äta och dricka extra kolhydratrik kost/vätska fram till och med fredag. En lite mer \"avancerad\" variant blir att på tisdag och onsdag morgon tömma kroppen lite lätt på kolhydrater innan själva inlagringen startar på onsdag. - Det går till så att du under tisdag riktar om din kost till att innehålla lite kolhydrater (ät sallad, protein och fett istället) samtidigt som du kör ditt intervallpass. Tanken är då att musklerna töms på kolhydrater, och sen startar du onsdagen med ett löppass innan frukost (morgonjogg) som även det \"tömmer\". En teori är att de tömda musklerna reagerar på tömningen med att klara lagra in lite extra energi. Jag tycker själva tömningen även har en mental aspekt genom att man säger till kroppen att du närmar sig något speciellt; MARAN! - Efter onsdagspasset startar din laddning genom att du nu börjar rikta om kosten till att innehålla mycket kolhydrater. Ät lite extra vid varje måltid, men överät inte. Komplettera med extra mellanmål under onsdag,torsdag och fredag och unna dig något gott kolhydratinnehåll! Komplettera även \"ätandet\" med att dricka hela tiden så den extra energin kan lagras i dina muskler. Laddning sker onsdag, torsdag och fredag, sen väl på tävlingsdagen ska du vara färdigladdad.OBS; kör ingen tömning om du har någon förkylningskänning eller känner dg känsig; då kör du bara laddningen och riskerar inte bli sjuk vad tömningen som ju initialt gör dig mer mottaglig för baciller etc) Om du kunnat följa träningsplanen hyfsat ska du ha med dig att du är BRA förberedd. - Stort lycka till med veckan och sen givetvis med loppet!! /coach Szalkai",
+		"trainingDays": [
+			{
+				"date": "2023-05-29",
+				"weekDay": "Monday",
+				"type": "Rest Day",
+				"image": "rest",
+				"description": "Veckans träning är helt riktad mot att optimera dig mentalt och fysiskt till lördag. Ett pass flytintervaller och lätt underhållande distans. Både intervallerna och onsdagens distanspass kan ingå i en helhet i din kolhydratladdning. Kolhydratladdningen kan se lite olika ut. Enklast är att \"bara\" genom från och med onsdag äta och dricka extra kolhydratrik kost/vätska fram till och med fredag. En lite mer \"avancerad\" variant blir att på tisdag och onsdag morgon tömma kroppen lite lätt på kolhydrater innan själva inlagringen startar på onsdag. - Det går till så att du under tisdag riktar om din kost till att innehålla lite kolhydrater (ät sallad, protein och fett istället) samtidigt som du kör ditt intervallpass. Tanken är då att musklerna töms på kolhydrater, och sen startar du onsdagen med ett löppass innan frukost (morgonjogg) som även det \"tömmer\". En teori är att de tömda musklerna reagerar på tömningen med att klara lagra in lite extra energi. Jag tycker själva tömningen även har en mental aspekt genom att man säger till kroppen att du närmar sig något speciellt; MARAN! - Efter onsdagspasset startar din laddning genom att du nu börjar rikta om kosten till att innehålla mycket kolhydrater. Ät lite extra vid varje måltid, men överät inte. Komplettera med extra mellanmål under onsdag,torsdag och fredag och unna dig något gott kolhydratinnehåll! Komplettera även \"ätandet\" med att dricka hela tiden så den extra energin kan lagras i dina muskler. Laddning sker onsdag, torsdag och fredag, sen väl på tävlingsdagen ska du vara färdigladdad.OBS; kör ingen tömning om du har någon förkylningskänning eller känner dg känsig; då kör du bara laddningen och riskerar inte bli sjuk vad tömningen som ju initialt gör dig mer mottaglig för baciller etc) Om du kunnat följa träningsplanen hyfsat ska du ha med dig att du är BRA förberedd. - Stort lycka till med veckan och sen givetvis med loppet!! /coach Szalkai",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-05-30",
+				"weekDay": "Tuesday",
+				"type": "Interval Run",
+				"image": "fast",
+				"description": "Ett sista fartpass för kropp och knopp. Kan kännas lite segt, speciellt om du idag \"går runt\" på kolhydratfattigare kost.\n\n- Försök ändå fokusera på flytet i din löpning, och spring dig trött, men absolut inte för hårt. Du ska ha resurser sparade efter passet, dessa sparar du till lördag.\n\nSyftet med passet är att behålla löpkänslan och att intervallerna ger kroppen både muskulärt och centralt (hjärta lungor) en bra \"underhållande effekt\".\n\nPasset då; Två serier med 4 st 200m eller 45 sekundersintervaller. 2x4x200m eller 2x4x45-50 sekunder. Vilan är 45 sek mellan intervallerna och 90 sekunder efter 4:e intervallen.\n\nLätt, lätt löpskolning i din uppvärmning, med låg skip, mellanhög skip och hälkick.\n\nViktigt att du varvar ner lugnt, och stretchar ut musklerna.",
+				"details": [
+					{
+						"name": "Warm Up",
+						"distance": "2.5 km",
+						"time": "14-15 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Condition Race Run",
+						"distance": "2x60m",
+						"time": "3 min"
+					},
+					{
+						"name": "Interval Run",
+						"distance": "2x3x200m",
+						"time": "27 min"
+					},
+					{
+						"name": "Cool Down",
+						"distance": "2 km",
+						"time": "12 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5 min"
+					}
+				]
+			},
+			{
+				"date": "2023-05-31",
+				"weekDay": "Wednesday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lätt distanslöpning 9km idag, eller om du följer kolhydrat-laddningsupplägget en \"morgonjogg\" på 9km. Om du aldrig sprungit innan frukost tidigare och testar på det nu, tänk på att ta det riktigt lugnt innan du blir varm i musklerna och kommit igång. Helt ok att springa passet senare på dagen, och därefter starta din kolhydratladdning mot maran!",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "9 km",
+						"time": "54-56 min"
+					},
+					{
+						"name": "Stretching",
+						"time": "5 min"
+					}
+				]
+			},
+			{
+				"date": "2023-06-01",
+				"weekDay": "Thursday",
+				"type": "Rest Day",
+				"image": "rest",
+				"details": [
+					{
+						"name": "Rest Day"
+					}
+				]
+			},
+			{
+				"date": "2023-06-02",
+				"weekDay": "Friday",
+				"type": "Easy Run",
+				"image": "easy",
+				"description": "Lätt jogg eller helvila. Joggen är bara för dig som känner att kroppen och knoppen behöver lufta sig lite. Inte så stor praktisk betydelse mer än just för känslan. Du kan ju känna sig lite tung av kolhydratladdningen och då kan en kort jogg kännas skönt inte minst mentalt. Vill du lägger du in lätt rörlighet och två korta flytkoordinationer i bekvämt snabb fart.",
+				"details": [
+					{
+						"name": "Easy Run",
+						"distance": "3 km",
+						"time": "17-18 min"
+					},
+					{
+						"name": "Dynamic Movement",
+						"time": "5 min"
+					},
+					{
+						"name": "Condition Race Run",
+						"distance": "2x50m",
+						"time": "3 min"
+					}
+				]
+			},
+			{
+				"date": "2023-06-03",
+				"weekDay": "Saturday",
+				"type": "Race Day",
+				"image": "easy",
+				"description": "Nu är vi framme vid programmets slutmål.\n\nÄntligen ska du få ut all träning du lagt in, och jag tror absolut att om du följt programmet hyfsat kommer det gå riktigt bra!!\n\nMen det är ett tufft jobb som måste göras, och det är du inställd på!\n\nStart 12.00 eller 12.10, så jag tycker att du äter din vanliga frukost, men kanske inte med så mycket fibrer om du brukar ha fiberfrukost. Onödigt att det ska ligga skumpa i magen!\n\nKompletterat gärna frukosten med någon extra kolhydrat.\n\nKanske lite sportdryck inkl salter på tidiga förmiddagen, speciellt om det är varmt!\n\nSen om du är van att äta nära inpå långpasset kan du även ta något lätt extra vid 10.00-10.30; därefter kan matenergi vänta till efter/under loppet.\n\nSe till att allt är klart, med skor, nummerlapp etc.\n\nVärm upp lite lätt innan start på stället i din startfålla eller en kort jogg innan du går in i startfållan. Drick gärna vatten fram till strax innan start, därefter när du är igång kan du ta sportdryck om du vet att det funkar med din mage.\n\nStarten går; stressa inte. Du hinner, stress gör av med energi!\n\nHitta ditt lite tuffare långpasstempo (eller medelhårda distanstempo), och dela upp loppet i mindre avsnitt, både mentalt och fysiskt.\n\nByggnader och kompisar kan vara uppdelningen eller helt enkelt varje vätskekontroll!\n\nTa vätskan redan från första kontroll.\n\nDU KOMMER KLARA DET om du är hel och frisk och lyckats följa programmet någorlunda.\n\nHar du följt tiderna hyfsat på passen så finns även 3.59 eller snabbare inom dig om de yttre förutsättningarna för löpning är ok på tävlingsdagen.\n\nVisst är det tufft, det måste du vara inställd på att det inte kommer av sig självt utan att du måste jobba när det tar emot.\n\nTa hjälp av publik, medtävlar och besegra eventuella svackor!! Ändra steget; jobba extra med armarna om du kommer in i någon svacka!!\n\nTänk positivt, och tänk att det är nu all träning ska \"ut\"!!\n\nVi ses på Stadion.\n\nSTORT LYCKA TILL från coach Anders Szalkai.",
+				"details": [
+					{
+						"name": "Warm Up",
+						"time": "10-15 min"
+					},
+					{
+						"name": "Racing 42.2 km",
+						"time": "3.59h or better"
+					}
+				]
+			}
+		]
+	}
 ]
