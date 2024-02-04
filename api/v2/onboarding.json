@@ -1,22 +1,22 @@
 [
   {
     "name": "Run injury free",
-    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/onboarding/run.png",
+    "image": "run",
     "info": "Learn how to run fast and run long"
   },
   {
     "name": "Eat sleep run",
-    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/onboarding/eat.png",
+    "image": "eat",
     "info": "Fuel your body before and after a run"
   },
   {
     "name": "Shiny new shoes",
-    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/onboarding/gear.png",
+    "image": "gear",
     "info": "Get the best gears to boost your run"
   },
   {
     "name": "Make it fun",
-    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/onboarding/fun.png",
+    "image": "fun",
     "info": "Amuse your friends with running stories"
   }
 ]
