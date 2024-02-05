@@ -1,21 +1,21 @@
 [
   {
-    "name": "Run injury free",
+    "name": "Injury free",
     "image": "run",
     "info": "Learn how to run fast and run long"
   },
   {
-    "name": "Eat sleep run",
+    "name": "Fuel right",
     "image": "eat",
     "info": "Fuel your body before and after a run"
   },
   {
-    "name": "Shiny new shoes",
+    "name": "Gear up",
     "image": "gear",
     "info": "Get the best gears to boost your run"
   },
   {
-    "name": "Make it fun",
+    "name": "Have fun",
     "image": "fun",
     "info": "Amuse your friends with running stories"
   }
