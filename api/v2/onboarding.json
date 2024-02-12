@@ -1,22 +1,22 @@
 [
   {
     "name": "Injury free",
-    "image": "run",
+    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/run.png",
     "info": "Learn how to run fast and run long"
   },
   {
     "name": "Fuel right",
-    "image": "eat",
+    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/eat.png",
     "info": "Fuel your body before and after a run"
   },
   {
     "name": "Gear up",
-    "image": "gear",
+    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/gear.png",
     "info": "Get the best gears to boost your run"
   },
   {
     "name": "Have fun",
-    "image": "fun",
+    "image": "https://raw.githubusercontent.com/liangtowang/liangtowang.github.io/main/img/fun.png",
     "info": "Amuse your friends with running stories"
   }
 ]
