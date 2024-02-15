@@ -1,0 +1,101 @@
+[
+  {
+    "name": "3.00 hour",
+    "image": "raceDay",
+    "session": 139,
+    "distance": 1750,
+    "timeMin": 5,
+    "timeMax": 10,
+    "distancePerWeek": 67,
+    "info": "Adidas Stockholm Marathon 2024 - 3.00 Hours",
+    "endPoint": 300
+  },
+  {
+    "name": "3.15 hour",
+    "image": "raceSpecific",
+    "session": 118,
+    "distance": 1580,
+    "timeMin": 4,
+    "timeMax": 9,
+    "distancePerWeek": 60,
+    "info": "Adidas Stockholm Marathon 2024 - 3.15 Hours",
+    "endPoint": 315
+  },
+  {
+    "name": "3.30 hour",
+    "image": "speed",
+    "session": 111,
+    "distance": 1412,
+    "timeMin": 4,
+    "timeMax": 8,
+    "distancePerWeek": 54,
+    "info": "Adidas Stockholm Marathon 2024 - 3.30 Hours",
+    "endPoint": 330
+  },
+  {
+    "name": "3.45 hour",
+    "image": "tapering",
+    "session": 104,
+    "distance": 1230,
+    "timeMin": 3.5,
+    "timeMax": 7.5,
+    "distancePerWeek": 47,
+    "info": "Adidas Stockholm Marathon 2024 - 3.45 Hours",
+    "endPoint": 345
+  },
+  {
+    "name": "4.00 hour",
+    "image": "hill",
+    "session": 96,
+    "distance": 1140,
+    "timeMin": 3,
+    "timeMax": 7.5,
+    "distancePerWeek": 47,
+    "info": "Adidas Stockholm Marathon 2024 - 4.00 Hours",
+    "endPoint": 400
+  },
+  {
+    "name": "4.15 hour",
+    "image": "easy",
+    "session": 93,
+    "distance": 1053,
+    "timeMin": 3,
+    "timeMax": 7.5,
+    "distancePerWeek": 40,
+    "info": "Adidas Stockholm Marathon 2024 - 4.15 Hours",
+    "endPoint": 410
+  },
+  {
+    "name": "4.30 hour",
+    "image": "recovery",
+    "session": 91,
+    "distance": 980,
+    "timeMin": 2.5,
+    "timeMax": 7,
+    "distancePerWeek": 37,
+    "info": "Adidas Stockholm Marathon 2024 - 4.30 Hours",
+    "endPoint": 430
+  },
+  {
+    "name": "5.00 hour",
+    "image": "base",
+    "session": 88,
+    "distance": 850,
+    "timeMin": 2,
+    "timeMax": 7,
+    "distancePerWeek": 32,
+    "info": "Adidas Stockholm Marathon 2024 - 5.00 Hours",
+    "endPoint": 500
+  },
+  {
+    "name": "6.00 hour",
+    "image": "afterRace",
+    "session": 80,
+    "distance": 679,
+    "timeMin": 2,
+    "timeMax": 7,
+    "distancePerWeek": 28,
+    "info": "Adidas Stockholm Marathon 2024 - 6.00 Hours",
+    "endPoint": 600
+  }
+]
