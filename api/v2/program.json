@@ -22,8 +22,7 @@
         "weekDay":"Tuesday",
         "type":"Easy Run",
         "image":"easy",
-        "description":"The program's first training day will be an easy distance run. We are aiming for 6km, at your leisurely distance pace. Run as it feels natural to you, if it's 33 or 36 minutes, that's fine. However, the program specifies 34-35 minutes as a guideline, but thus nothing that you absolutely have to keep. Run so that you could talk throughout the round then you have the right level! After the run, you stretch out the running muscles. Just as good to introduce the stretch as a routine right from the start of training!
-        ​",
+        "description":"The program's first training day will be an easy distance run. We are aiming for 6km, at your leisurely distance pace. Run as it feels natural to you, if it's 33 or 36 minutes, that's fine. However, the program specifies 34-35 minutes as a guideline, but thus nothing that you absolutely have to keep. Run so that you could talk throughout the round then you have the right level! After the run, you stretch out the running muscles. Just as good to introduce the stretch as a routine right from the start of training!​",
         "details":[
           {
             "name":"Easy Run",
@@ -942,8 +941,7 @@
         "weekDay":"Monday",
         "type":"Rest Day",
         "image":"rest",
-        "description":"Good three-session week where our short intervals return so that you can work with a different step than at distance/threshold and so that you can work a little on your fitness development. 12 x 200 meters straight will be this week's speed session.\n\nBut before that we run distance and strength on Tuesday and then we work up the long session to a half marathon on Sunday!\n\nSo really long on Sunday, but at exactly your leisurely long session pace. Hope everything feels good and you are charged for a new step in your training.
-        ​",
+        "description":"Good three-session week where our short intervals return so that you can work with a different step than at distance/threshold and so that you can work a little on your fitness development. 12 x 200 meters straight will be this week's speed session.\n\nBut before that we run distance and strength on Tuesday and then we work up the long session to a half marathon on Sunday!\n\nSo really long on Sunday, but at exactly your leisurely long session pace. Hope everything feels good and you are charged for a new step in your training.​",
         "details":[
           {
             "name":"Rest Day"
@@ -2822,8 +2820,7 @@
         "weekDay":"Sunday",
         "type":"Long Run",
         "image":"long",
-        "description":"Calm long run - with a slightly shorter distance to give some breathing space before we move on with two more really long long runs in the final phase towards the marathon.\n\n26 km at your comfortable long run speed for the day - keeps everything going - and gives the body a chance to absorb all tough training!\n\nBring a drink to the session, and if you have the opportunity - try taking energy at some point during the session to \"train\" it before the marathon and to have a good energy level during the session
-        ​!",
+        "description":"Calm long run - with a slightly shorter distance to give some breathing space before we move on with two more really long long runs in the final phase towards the marathon.\n\n26 km at your comfortable long run speed for the day - keeps everything going - and gives the body a chance to absorb all tough training!\n\nBring a drink to the session, and if you have the opportunity - try taking energy at some point during the session to \"train\" it before the marathon and to have a good energy level during the session!",
         "details":[
           {
             "name":"Long Run",
@@ -2990,8 +2987,7 @@
     "id":22,
     "name":"Training week 22",
     "goal":"4 training sessions 41 km",
-    "plan":"Intermediate week with speed and recovery long session.\n\nFocus on giving the body a slightly calmer training and getting in short intervals (without speed that risks any damage). The feeling of long workouts is of course good to maintain - but the coach intends to make it shorter this year so you can recharge for the following week's longest long workouts
-    ​",
+    "plan":"Intermediate week with speed and recovery long session.\n\nFocus on giving the body a slightly calmer training and getting in short intervals (without speed that risks any damage). The feeling of long workouts is of course good to maintain - but the coach intends to make it shorter this year so you can recharge for the following week's longest long workouts​",
     "trainingDays":[
       {
         "date":"2023-05-01",
