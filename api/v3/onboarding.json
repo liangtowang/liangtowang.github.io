@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Injury free",
+    "image": "run",
+    "info": "Learn how to run fast and run long"
+  },
+  {
+    "name": "Fuel right",
+    "image": "eat",
+    "info": "Fuel your body before and after a run"
+  },
+  {
+    "name": "Gear up",
+    "image": "gear",
+    "info": "Get the best gears to boost your run"
+  },
+  {
+    "name": "Have fun",
+    "image": "fun",
+    "info": "Amuse your friends with running stories"
+  }
+]
