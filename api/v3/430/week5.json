@@ -1,0 +1,115 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "The first week of new year and of course we are training as before precisely so that the new year will be a really good running year!\n\nNo news really but you recognize yourself; continuity is the watchword and for continuity both calmer and tougher are important. So this week a calm start followed by good threshold and long run again."
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 10,
+    "time": 100,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 10,
+        "time": 60
+      },
+      {
+        "name": "Running Strength Training",
+        "time": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 9,
+    "time": 71,
+    "description": "We continue with threshold Thursday, and now develop the session a little more with an even longer continuous run. A total of 30 minutes again, but according to the model, the speed bits are 12-10-8 minutes or if you drive on a distance meter about 2 km1.85 km1.5 km. We take a 2-minute walk or a certain amount of calm jogging as a rest between each threshold section.\n\nStart the first 12 minutes of the threshold soft, and then work on a little harder. Target picture that you maintain approximately 5.25 min/km on the 12 minute timer, 5.15-5.20 speed on the 10 minute threshold and then you can allow yourself to drop the threshold speed a little and faster than your threshold on the second half of the 8 minute, so maybe down to 5.05-5.10 min/km at the end of the 8-minute run.\n\nThe speeds assume that the winter is ok with you and if you start from effort, you make sure that the 12-minute run feels adequate (a little faster than distance running) and then you dare to get tired in the final 8-minute run .\n\nThen unwind as usual with a leisurely jog and stretch.",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "info": "2 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distance": 5.5,
+        "time": 30
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 40,
+    "description": "Extra runes are offered. Remove if it feels like it might be too much for you or if you don't have the time.​",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "time": 35
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 20,
+    "time": 132,
+    "description": "Calm long run where we approach the half-marathon limit! Bring drinks, and adjust your speed according to the surface and the feeling in your body. Calm should be calm just for you and just today. If you started with shorter long runs than what the program indicated, you can still run a few kilometers shorter even now.",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 20,
+        "time": 122
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  }
+]

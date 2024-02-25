@@ -1,0 +1,99 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "The beginning of the week should be really calm, and the fartlek in particular is a good session to have in a week that should be calmer because your feeling and your body completely control how hard or how calm the session will be. But keep in mind that Monday to Saturday should be \"recovery\" but still maintain everything we built! Listen to your body, because programs unfortunately don't know how it feels to you. Keep in mind that a quiet week is now followed by tough training in the coming weeks!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 75,
+    "description": "Easy SHORT distance, supplemented with strength for you who follow the strength of the program.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "time": 35
+      },
+      {
+        "name": "Running Strength Training",
+        "time": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Fartlek Run",
+    "image": "fartlek",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "info": "3 x 80m"
+      },
+      {
+        "name": "Fartlek Run",
+        "distance": 6,
+        "time": 33
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 21,
+    "time": 138,
+    "description": "21 calm km on the long run today. Find your speed and remember that the time out on the run is more important than chasing average speed. Find your rhythm and drink regularly throughout the session!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 21,
+        "time": 128
+      },
+      {
+        "name": "Dynamic Stretching",
+        "time": 10
+      }
+    ]
+  }
+]

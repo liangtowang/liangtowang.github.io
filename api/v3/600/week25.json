@@ -1,0 +1,145 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "One more step down in volume to give the body even more chance to create a top shape. Two of this week's sessions contain good quality aspects for the form.\n\nOxygen uptake, endurance at high speed and flow via short intervals on Thursday. Flexible and running technique via the hill and some short marathon flow there as well in the week's final session.\n\nTo keep the feeling going, we add two lighter distance sessions, where you can easily remove the Saturday session if you know that running rest usually gives a good effect directly to light legs. But if you feel; ok to jog on... Mentally; slowly begin to look forward to the goals of the entire training plan. Only one week away!!\n\nGood luck with the week, it's getting close!!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 58,
+    "description": "Easy distance of \"only\" 5km supplemented with two easy coordination runs and the last strength of the program where we also lighten up. - Everything to evoke a light feeling! Exercise but less!!",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "time": 30
+      },
+      {
+        "name": "Coordination Run",
+        "info": "2 x 60m",
+        "time": 3
+      },
+      {
+        "name": "Running Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "description": "Usual warm-up before quality, including running training. 2x30m; 4 exercises; Low Skip-High Skip-Multistep-Heel Kick each. - Short interval sessions, where we now reduce the length of our interval slightly and run 3x4x200m, with 45 sec rest between intervals and 90 seconds between series. That is, 4 intervals with 45 sec rest, and then 90 sec rest before you run 4 more, etc. Target speed is around 45-47 sec per 200m (3.45-3.55 pace), Important, however, more flow/harmony is to push max. With 12 intervals, you have time to get good training both muscularly and for fitness! Relax calmly with jogging/stretching.",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 2.5,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "info": "2 x 30m",
+        "time": 10
+      },
+      {
+        "name": "Coordination Run",
+        "info": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Short Interval Run",
+        "distance": 1.6,
+        "info": "3 x 4 x 200m",
+        "time": 24
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 4,
+    "time": 34,
+    "description": "Calm any short distance. Only for those of you who think it would be nice to go out for a little round. If you can't get the hill/short threshold in tomorrow; put it here today.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 4,
+        "time": 24
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 8,
+    "time": 59,
+    "description": "We \"check off the runes\", and here comes a last resilience-giving back run together with short threshold flow. In addition to working with good strides, the hill always maintains your fitness in a superb way and with the threshold you can float on in a little \"sub marathon\" Warm-up jog of 2km, then the mini running training in the opposite slope. 1x20m; Low Skip-High Skip-Multistep-Heel Kick each. Then the short hill, with a focus on good strides and getting \"fairly tired\". 8-10 slopes that take around 25 seconds up, and easy walking/jogging down. Take rest time \"down\" so the step up will be good!! After the hill you rest a bit and if necessary you move with a light jog to a stretch where you can float at sub marathon speed for 2 km. Much like the speed increase on the long run, but without it being in a long run. Find the flow and feel that the passion is finally here!!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Running Technique",
+        "info": "1 x 20m"
+      },
+      {
+        "name": "Short Hill Run",
+        "distance": 2,
+        "time": 14
+      },
+      {
+        "name": "Threshold Run",
+        "distance": 2,
+        "time": 11
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  }
+]
