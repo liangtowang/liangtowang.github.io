@@ -9,38 +9,56 @@
     "weekDay": "Tuesday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 6,
-    "time": 45,
+    "distance": 10,
+    "time": 58,
     "description": "The program's first training day will be an easy distance run. We are aiming for 6km, at your leisurely distance pace. Run as it feels natural to you, if it's 33 or 36 minutes, that's fine. However, the program specifies 34-35 minutes as a guideline, but thus nothing that you absolutely have to keep. Run so that you could talk throughout the round then you have the right level! After the run, you stretch out the running muscles. Just as good to introduce the stretch as a routine right from the start of training!​",
     "details": [
       {
         "name": "Easy Run",
-        "distance": 6,
-        "time": 35
+        "distance": 10,
+        "timeMin": 45,
+        "timeMax": 48
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
   {
     "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 50,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 37,
+        "timeMax": 40
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
   },
   {
     "weekDay": "Thursday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 6,
-    "time": 45,
+    "distance": 10,
+    "time": 68,
     "description": "Calm distance that builds the foundation, but then we also supplement with something called a coordination race; which I want to include in order to easily activate your running muscles without pressure and stress somewhat differently than via distance and long-distance running. \n\nThe coordination races are slightly faster running over 60-100 meters, where we run with good technique, work on speed in a gentle way. We will have the moment in the future, but usually in the warm-up before quality running. \n\nTry to be with the moment, without pressing or stressing and risking stretching. The rest between your coordinations is a leisurely walk back to the starting point. \n\nToday we introduce this with 3 x 80-100 meters. If you don't have a distance, take 5x20 seconds for simplicity's sake (without it being your speed). \n\nRun nice and high; see yourself as a nicely running elite runner....with an active front foot. \n\nNOTE; if it is very wintry and slippery, you wait to introduce the coordination races.",
     "details": [
       {
         "name": "Easy Run",
-        "distance": 6,
-        "time": 35
+        "distance": 10,
+        "timeMin": 45,
+        "timeMax": 48
       },
       {
         "name": "Dynamic Movement",
@@ -48,7 +66,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "3 x 80-100 m"
+        "info": "3 x 100m"
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -59,25 +82,46 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 85,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 37,
+        "timeMax": 40
+      },
+      {
+        "name": "Running Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      }
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 17,
-    "time": 114,
+    "distance": 21,
+    "time": 107,
     "description": "The program kicks off with a long run straight away. However, today's session assumes that you had some running earlier in your autumn training and not just since the program started on Tuesday. If you feel that 17km is too far, shorten it to as far as feels good.\n\nCalm, nice pace, preferably a little slower than your distance running. Guideline speed is 5.50-6.00 min per km, but you should therefore take your leisurely pace and then it just gives your time over 17km. Stretch easily after the session, and feel free to bring drinks with you to the session already now, even if the time out today does not require liquid.\n\nIf you bring the liquid with you now, you immediately establish a good routine that you have take advantage when the long runes get longer!",
     "details": [
       {
         "name": "Long Run",
-        "distance": 17,
-        "time": 104
+        "distance": 21,
+        "timeMin": 98,
+        "timeMax": 102
       },
       {
-        "name": "Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "time": 5
       }
     ]
   }
