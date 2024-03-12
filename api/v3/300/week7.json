@@ -7,24 +7,39 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 6,
-    "time": 75,
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 12,
+    "time": 78,
     "description": "Easy SHORT distance, supplemented with strength for you who follow the strength of the program.",
     "details": [
       {
-        "name": "Easy Run",
-        "distance": 6,
-        "time": 35
+        "name": "Warm up",
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Short Interval Run",
+        "distanceInfo": "2 x 10 x 300m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -35,13 +50,16 @@
   },
   {
     "weekDay": "Thursday",
-    "type": "Fartlek Run",
-    "image": "fartlek",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 12,
+    "time": 65,
     "details": [
       {
         "name": "Warm up",
         "distance": 2,
-        "time": 12
+        "timeMin": 9,
+        "timeMax": 10
       },
       {
         "name": "Dynamic Movement",
@@ -49,17 +67,17 @@
       },
       {
         "name": "Coordination Run",
-        "info": "3 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
-        "name": "Fartlek Run",
-        "distance": 6,
+        "name": "Threshold Run",
+        "distance": 8,
         "time": 33
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "time": 10
       },
       {
         "name": "Stretching",
@@ -74,25 +92,46 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 66,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 23,
+        "timeMax": 26
+      },
+      {
+        "name": "Running Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 21,
-    "time": 138,
-    "description": "21 calm km on the long run today. Find your speed and remember that the time out on the run is more important than chasing average speed. Find your rhythm and drink regularly throughout the session!",
+    "distance": 25,
+    "time": 130,
+    "description": "25 calm km on the long run today. Find your speed and remember that the time out on the run is more important than chasing average speed. Find your rhythm and drink regularly throughout the session!",
     "details": [
       {
         "name": "Long Run",
-        "distance": 21,
-        "time": 128
+        "distance": 25,
+        "timeMin": 116,
+        "timeMax": 120
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
