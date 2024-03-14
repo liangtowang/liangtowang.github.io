@@ -2,40 +2,59 @@
   {
     "weekDay": "Monday",
     "type": "Rest Day",
-    "image": "rest",
-    "description": "3 sessions a week, which should be slightly easier even if the amount is still good.\n\nHill and marathon this week and then the long session continues to a full 26 km now; provided that everything feels good to you.\n\nSo a very good week even if for some of you it probably feels like a little bit.."
+    "image": "rest"
   },
   {
     "weekDay": "Tuesday",
-    "type": "Hill Run",
-    "image": "hill",
-    "distance": 9,
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 13,
     "time": 75,
-    "description": "The long back run returns with the same setup as last week, but we increase it by 5 more minutes on the hill itself.\n\nWarm-up jog, mobility and then the running training over 2x20m before the back run start;\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick every\n\nOn the hill focus on good steps; drive with the whole step and push off right from the \"toes\". RUN \"FINE\", as if someone is pulling your body \"upward on a string\" without losing the power forward...Difficult, but run!!\n\nThe hill gives, regardless of step, technique, a good workout for your steps and technique and also good cardio training!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Running Technique",
-        "info": "2 x 30m",
-        "time": 10
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
       },
       {
-        "name": "Long Hill Run",
-        "distance": 4,
-        "time": 25
+        "name": "Fast Run",
+        "distance": 8,
+        "timeMin": 31,
+        "timeMax": 33
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 8,
+    "time": 46,
+    "details": [
+      {
+        "name": "Morning Run",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
       },
       {
         "name": "Stretching",
@@ -44,44 +63,42 @@
     ]
   },
   {
-    "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
-  },
-  {
     "weekDay": "Thursday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
-    "distance": 12,
-    "time": 113,
-    "description": "You recognize the marathon run and the strength. A bit faster than the distance and your rhythm to the marathon!​",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 11,
+    "time": 80,
+    "description": "You recognize the hill run.",
     "details": [
       {
         "name": "Warm up",
-        "distance": 1,
-        "time": 6
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Marathon Pace Run",
-        "distance": 10,
-        "time": 56
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m"
+      },
+      {
+        "name": "Long Hill Run",
+        "distance": 5,
+        "timeMin": 23,
+        "timeMax": 25
       },
       {
         "name": "Cool Down",
-        "distance": 1,
-        "time": 6
-      },
-      {
-        "name": "Running Strength Training",
-        "time": 30
+        "distance": 3,
+        "time": 15
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -92,25 +109,48 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 65,
+    "description": "Easy distance and the strength of the week here.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 23,
+        "timeMax": 25
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 26,
-    "time": 167,
-    "description": "26 km at your leisurely pace for the day. The distance and the time out is the tough part, and not the speed. Drink along and energy and fluids after your roughly 2.5 hours today.",
+    "distance": 30,
+    "time": 153,
+    "description": "30 km at your leisurely pace for the day. The distance and the time out is the tough part, and not the speed. Drink along and energy and fluids after roughly 2.5 hours today.",
     "details": [
       {
         "name": "Long Run",
-        "distance": 26,
-        "time": 157
+        "distance": 30,
+        "timeMin": 140,
+        "timeMax": 143
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
