@@ -2,8 +2,7 @@
   {
     "weekDay": "Monday",
     "type": "Rest Day",
-    "image": "rest",
-    "description": "Now we are almost halfway through the program towards the marathon. Hope everything feels ok, because here comes another tough week. TWO qualitative sessions and a record long session. If you are tired, you remove the Saturday session and if we are going to prioritize one of the quality sessions, this week will be the threshold session if you had a slope last week. If you remove the hill, make sure the running training is kept alive during one of the other sessions."
+    "image": "rest"
   },
   {
     "weekDay": "Tuesday",
@@ -14,26 +13,26 @@
     "description": "Long hill and running training that you still have the feeling for the setup from last week?!\n\nWarm up with a distance jog to a hill you know. The hill should not be \"too steep\" but nicely runnable all the way.\n\nAfter the warm-up, you do some light mobility and then at the beginning of \"your hill\" you do running training before the hill session itself.\n\nRunning training exercises run you on a 20 meter stretch up your hill. Rest once down. We increase to 2x20 meters of all the exercises or if you think it's a lot, you choose exercise 2-4-5.\n\n1x20m of:\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick every\n\nAfter the heel kick you have got your heart rate up a bit and can start your \"hill\".\n\nFocus on finding the right pace and running \"just right for the hill\".\n\nThe goal is to have approx. 60 seconds in the uphill. (50-70 seconds ok). You run nicely and controlled uphill, and get a little tired. Stop and rest for a few seconds at the \"top\" or where you turn, then jog down leisurely to the start. Repeat and run a total of 17-19 minutes on the hill. In the \"total time\" you include both the run up and the jog down and also the small rest time at the top. (keep the clock rolling).",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "timeMin": 14,
         "timeMax": 15
       },
       {
-        "name": "Dynamic movement",
+        "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Running technique",
+        "name": "Running Technique",
         "distanceInfo": "1 x 30m"
       },
       {
-        "name": "Long hill run",
+        "name": "Long Hill Run",
         "distance": 4,
         "time": 20
       },
       {
-        "name": "Cool down",
+        "name": "Cool Down",
         "distance": 3,
         "time": 15
       },
@@ -58,21 +57,21 @@
     "description": "3x10 minutes with 1.5 minutes standing/light jogging rest. Direction as before Around 5.25 min/km and then gives 10 minutes Around 1.8 km. You don't need to push harder than before, but the training unit is the one that will develop you!\n\nAs always, the feeling is more important than the target speed so find your speed between comfortable and uncomfortable quickly!!​",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "timeMin": 14,
         "timeMax": 15
       },
       {
-        "name": "Dynamic movement",
+        "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Coordination run",
+        "name": "Coordination Run",
         "distanceInfo": "2 x 80m"
       },
       {
-        "name": "Short interval run",
+        "name": "Short Interval Run",
         "distanceInfo": "20 x 200m"
       },
       {
@@ -101,13 +100,13 @@
     "description": "Easy distance and the strength of the week here.",
     "details": [
       {
-        "name": "Easy run",
+        "name": "Easy Run",
         "distance": 5,
         "timeMin": 23,
         "timeMax": 25
       },
       {
-        "name": "Running strength training",
+        "name": "Running Strength Training",
         "timeMin": 15,
         "timeMax": 30
       },
@@ -132,7 +131,7 @@
         "timeMax": 125
       },
       {
-        "name": "Dynamic stretch",
+        "name": "Dynamic Stretch",
         "timeMin": 5,
         "timeMax": 10
       }
