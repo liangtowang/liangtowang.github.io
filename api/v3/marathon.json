@@ -15,7 +15,7 @@
       {
         "title": "Race Specific",
         "headline": "What is race-specific running?\n\nRace-specific running is running that best prepares you for the specific demands of your race. To be successful at the marathon, you must develop not only a strong aerobic engine but also build an incredibly resilient skeletal-muscular system that can carry you for 26.2 miles at top speed.\n\nMarathon-specific training includes significant amounts of miles done in environments similar to that you will experience on race day. Conditions you should practice on include: flat vs. hilly routes, trying to match the weather, time of day, etc.\n\nThe race-specific quality phase combines long runs with workouts run at or near your goal marathon pace. Spending six to twelve weeks in this phase will condition your body to run your goal pace for 26.2 miles.\n\nWhy focus on race-specific training?\n\nMost marathoners simply do not have enough strength and resiliency in their bodies to go the full length of the marathon at the top speed their aerobic engine will allow.\n\nShorter events like 5K to Half Marathon rely heavily on your aerobic engine and natural talent, but in the marathon it is impossible to succeed without putting in race-specific work.\n\nThe marathon is a battle of attrition for most athletes. Your limiting factor is not how fast your legs can move or how fast you can process oxygen like in the shorter events. In the marathon, your limiting factor is most likely your resilience to sheer muscular fatigue and breakdown.\n\nIn the race-specific quality phase of training, you will focus on building your physical resilience so you can go the distance at your goal pace.",
-        "image": "raceSpecific"
+        "image": "specific"
       },
       {
         "title": "Tapering",
@@ -25,12 +25,12 @@
       {
         "title": "Race Day",
         "headline": "After a successful training season and a restful taper, your marathon will mostly run itself. Excellence on race day simply comes down to proper planning, believing in yourself, believing in your training, and running with smart tactics.\n\nSimple Mental Strategy for Racing – The Three C’s\n\nThree C’s... Comfortable, Confident, Compete\n\nRunning is physical, but success is mental. The difference between finishing a race strong and proud versus crumbling at the end rarely comes down to physical limitations, but instead lies in your mental game.\n\nIt is rare and arguably downright impossible to push yourself to your absolute limit in a race, so having a mental approach to racing and giving it equal weight to your physical preparation is of utmost importance.\n\nMy favorite mental strategy for most distance running events is to break the race down into three parts. In each part, your mental energy should be spent focusing on just one word: Comfortable, Confident, or Compete.",
-        "image": "raceDay"
+        "image": "race"
       },
       {
         "title": "After Race",
         "headline": "After your goal race, take planned time off and truly shut down your season.\n\nAs competitive runners seeking personal bests, we are constantly looking for ways to improve. One easy way to get better in running that athletes often overlook and undervalue is to take a significant break after their season’s goal race.\n\nCompetitive adult runners, especially marathoners, typically divide their year into two main seasons. An example of this would be peaking for the Boston Marathon in April, followed by the Chicago Marathon in October. This hypothetical runner will try to be in top shape on the exact day of these two races. To reach this peak, they will go through three to six months of progressively harder training before each marathon.\n\nRunners aim to be in their top physical condition just before the end of a season, but this peak is delicate and can only be maintained for a short window of time. The excessive miles and intensity required to reach an athlete’s peak will place significant stress on them. While you must do your best to maintain your health with good recovery habits, the stress from running at your peak training can only be managed for so long. This high level of stress is ultimately relieved through the taper and only then can a top performance come out of you on race day.\n\nRegardless of the outcome of your season’s goal race, it is essential to take time off from running afterward. Taking significant rest after a peak performance allows the body to fully heal and benefit long-term from all of the hard work put in during the training season. Rushing too quickly back into running after a peak performance will likely result in performance stagnation, mental burnout, or injury.",
-        "image": "afterRace"
+        "image": "after"
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "title": "Speed Run",
         "headline": "Speed workouts, also known as interval training, consists of short bursts of high-intensity running followed by periods of recovery jog or walk. They usually are not the most enjoyable type of run, but they are the most effective in building speed and running efficiency.\n\nHow fast you should run varies depending on your background and what you goals are. Here are some tips to consider.\n\nFocus on your breathing.\n\nIn your run, focus on how heavy your breathing feels. If your breathing feels too heavy to even speak, then it may be better to slow down.\n\nUse time, not miles.\n\nFocus on how long it takes your to finish a run rather than the distance. After doing this, you will notice that you will naturally get faster and be able to run more distance.\n\nListen to your body.\n\nIf you think that you are running too fast, then you most likely are. Pushing yourself too far, may lead to an injury. Don’t try to force yourself, and listen to what pace your body feels more comfortable with.\n\nHeart rate.\n\nIt is important to make sure that when you are running, your heart rate does not go above your normal threshold. Constantly going above your maximum heart rate can lead to a more difficult recovery if injured.",
-        "image": "fast"
+        "image": "speed"
       },
       {
         "title": "Hill Run",
