@@ -7,14 +7,14 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Pace Run",
+    "image": "pace",
     "distance": 16,
     "time": 84,
     "description": "Easy distance running supplemented strength!\n\nStrength with the same setup as last week for those of you who don't run your own strength.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 1,
         "time": 5
       },
@@ -57,7 +57,7 @@
         "timeMax": 38
       },
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "timeMin": 15,
         "timeMax": 30
       },
@@ -76,7 +76,7 @@
     "description": "30 minutes threshold running divided into 3x10 minutes with 1.5 minutes standing/light jogging rest. Target speed Around 5.25 min/km and then gives 10 minutes Around 1.8 km.\n\nFind the speed where you are at or just below the speed where the body starts to accumulate lactic acid.\n\nThe idea is therefore that you should find a pace that you can hold without going completely out. As always, the feeling is more important than the direction, especially if the weather/surface is not favorable and since the week should be somewhat \"calmer\", it is also important that the session is not too hard for you in terms of speed and effort.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
         "timeMin": 9,
         "timeMax": 10
@@ -124,7 +124,7 @@
         "timeMax": 25
       },
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "time": 10
       },
       {

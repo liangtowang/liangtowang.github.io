@@ -13,7 +13,7 @@
     "time": 73,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
         "timeMin": 9,
         "timeMax": 10
@@ -46,13 +46,13 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Morning Jogging",
+    "type": "Morning Run",
     "image": "morning",
     "distance": 8,
     "time": 51,
     "details": [
       {
-        "name": "Morning Jogging",
+        "name": "Morning Run",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -66,13 +66,13 @@
   },
   {
     "weekDay": "Thursday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Pace Run",
+    "image": "pace",
     "distance": 14,
     "time": 74,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 1,
         "time": 5
       },
@@ -120,7 +120,7 @@
         "timeMax": 25
       },
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "timeMin": 15,
         "timeMax": 30
       },

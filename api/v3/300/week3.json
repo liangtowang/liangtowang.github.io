@@ -7,14 +7,14 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Pace Run",
+    "image": "pace",
     "distance": 10,
     "time": 56,
     "description": "Calm speed and a Round of 6 km followed by the strength of the program if you do not have your own strength in connection with another session in your Training week",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
         "time": 10
       },
@@ -53,7 +53,7 @@
     "description": "Just like last week, the program has a threshold run for you. If you didn't drive the run last week and feel unsure about the layout, go back and check the text there. How the layout will be a little different today compared to last week. Just like then, however, you start with a short distance warm-up and some mobility. If you want, you can also run a light pulse-raising coordination run, but make sure that the warm-up is just a warm-up. The structure of the threshold training today will be threshold runs with a slightly longer running time than last time. Run 6 x 5 minutes, and take a slightly longer jog/walk rest than last time with 45 seconds rest now between each threshold section. A total of 30 minutes threshold time, and target speed if you want it even if your feeling is most important (comfortably tired!) will be like last week Around 5.20-5.25 min/km which gives you Around 5.5 km in total and a little over 900 meters per 5 minute episode. If you don't have a speed indication or you drive by feel 6 x 5 minutes at your comfortable fast speed with a 45 second rest. Relax with a gentle jog and a little stretching, and you have another good basic workout!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
         "timeMin": 12,
         "timeMax": 13
@@ -89,14 +89,14 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Morning Jogging",
+    "type": "Morning Run",
     "image": "morning",
     "distance": 10,
     "time": 62,
     "description": "Voluntary Christmas gift with a morning jog starts Christmas Eve. It's a tradition here in the program. But don't feel pressure, if you don't get your training, you're just done. ...and of course Merry Christmas from Coach Szalkai​",
     "details": [
       {
-        "name": "Morning Jogging",
+        "name": "Morning Run",
         "distance": 19,
         "timeMin": 48,
         "timeMax": 52

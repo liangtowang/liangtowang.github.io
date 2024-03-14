@@ -8,7 +8,7 @@
   {
     "weekDay": "Tuesday",
     "type": "Progressive Speed Run",
-    "image": "fast",
+    "image": "speed",
     "distance": 12,
     "time": 66,
     "description": "Feel your marathon pace in the distance workout today. 1 km calmly at first and then the goal is a full 10 km at your intended marathon pace; if everything feels ok and the surface/temperature is suitable for running.\n\nDoesn't want the body; then you take 10-12 km at your leisurely pace for the day.",
@@ -40,13 +40,13 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Easy Run",
-    "image": "easy",
+    "type": "Morning Run",
+    "image": "morning",
     "distance": 16,
     "time": 109,
     "details": [
       {
-        "name": "Morning Jogging",
+        "name": "Morning Run",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -62,7 +62,7 @@
         "timeMax": 38
       },
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "time": 15
       },
       {
@@ -113,18 +113,18 @@
   },
   {
     "weekDay": "Friday",
-    "type": "Morning Jogging",
+    "type": "Morning Run",
     "image": "morning",
     "distance": 6,
     "time": 45,
     "details": [
       {
-        "name": "Morning Jogging",
+        "name": "Morning Run",
         "distance": 6,
         "time": 30
       },
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "time": 10
       },
       {
@@ -140,14 +140,14 @@
   },
   {
     "weekDay": "Sunday",
-    "type": "Marathon Crunch Run",
-    "image": "marathonPace",
+    "type": "Long Run",
+    "image": "long",
     "distance": 26,
     "time": 135,
     "description": "Today we're going to run a new element of the program that the coach calls \"marathon crunches\", and it simply means that instead of a regular long run, you must accumulate long run volume by running many \"calm\" 1 km intervals.\n\nIn the long run volume that is created, we also count up and down by 2-3 km.\n\nSo start the session with a few kilometers of leisurely running. Stop and do some mobility for your joints/ligaments and running muscles. If you want, you can also include some simple and softening running training exercises. Then you're ready to start your 1 km intervals.\n\nA target speed might be to run around 25-35 seconds faster in minutes per kilometer than your normal long run pace. In order to get an optimal setup, you can advantageously start the first 1 km intervals a little slower/calmer than the specified \"guide speed\", so maybe \"only\" 20 seconds faster than the long run pace, in order to then have the capacity to increase the speed a little afterwards and that the last The 1 km intervals will be the fastest - even though you then have the most volume in your legs.\n\nWe adjust the number of intervals based on how long the intervals take, so the faster the runner, the more intervals.\n\nSo for you with 4:00 as a time goal today we aim to run 16 x 1 km and the target speed after you get started will be Around 5:35 down to 5:25 min/km if we start from 6:00 min/km at long run pace.\n\nThe rest between every \"marathon tussle\" you take a 45-60 second standing/walking rest.\n\nEven if it's not a long session, you will be out for a long time with ups and downs, so feel free to bring a drink with you during the session, and especially today when you want to run faster, it may be time to drink energy at some of the rests or some energy gel. (or whatever you like)\n\nMentally; don't think about how many you have left at the beginning, but focus on your running technique, to run relaxed but still \"active\", because now you should have a slightly more active step than your normal long-run step. After a while, there are \"only\" a few intervals left, and then you can start counting down!\n\nAfter the last intervals, exhale before finishing the session with a few kilometers of calm deceleration and finished easy mobility for the running muscles that have had to work!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "time": 15
       },
