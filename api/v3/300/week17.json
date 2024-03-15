@@ -7,14 +7,14 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Fast Run",
-    "image": "fast",
+    "type": "Speed Run",
+    "image": "speed",
     "distance": 12,
     "time": 71,
     "description": "Start today's session with a warm-up distance at a leisurely pace of around 2.5 km, followed by short softening mobility. Then a running training component with some exercises over 2 x 30 meters. Also feel free to do some coordination to get your pulse and speed up before the interval part starts.\n\nThe layout of the interval session will be 200 meter intervals, divided into series with 4 intervals in each series. The rest is 30 seconds of \"standing rest\" between intervals, and then you take 60 seconds of standing/walking rest between each set. The goal picture will be 16 intervals in total, so 4 x 4 x 200 meters.\n\nReally short rest today, which means that the speed should not be pressured or high, but the short rest ensures a good conditioning effect and transfer to your marathon pace will be included supermarginal :)\n\nThe program (and you) should continue to focus on foundational cardio training, but the goal is of course also to get your legs moving without risking injuries through running too fast.\n\nRun through the session with \"one gear left\" , and focus on your technique. Good stately posture and active step. Let the drive of the arms help with the speed without being tempted to sprint for the sake of it!\n\nTarget speed around 4.10-4.15 min/km, which gives around 50-51 seconds per 200 meters.\n\nEnd the session as usual with jogging mobility.",
     "details": [
       {
-        "name": "Progressive Fast Run",
+        "name": "Progressive Speed Run",
         "distance": 10,
         "timeMin": 43,
         "timeMax": 46
