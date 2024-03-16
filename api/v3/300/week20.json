@@ -8,7 +8,7 @@
     "description": "Calm distance of approx. 8km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
     "details": [
       {
-        "name": "Morning run",
+        "name": "Morning Run",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -113,7 +113,6 @@
   },
   {
     "weekDay": "Saturday",
-
     "type": "Easy Run",
     "image": "easy",
     "distance": 10,
