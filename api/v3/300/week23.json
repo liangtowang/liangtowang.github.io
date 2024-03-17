@@ -7,14 +7,15 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 17,
     "time": 134,
     "description": "Calm distance of approx. 8 km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 39,
         "timeMax": 41
@@ -73,7 +74,8 @@
         "info": "2 x 30m"
       },
       {
-        "name": "Short Hill Run",
+        "name": "Hill Run",
+        "style": "Short hill",
         "distance": 3,
         "time": 20
       },

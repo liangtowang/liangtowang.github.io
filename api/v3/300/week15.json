@@ -27,13 +27,14 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 16,
     "time": 124,
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -78,15 +79,15 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
-        "distanceInfo": "8 x 1 km"
+        "info": "8 x 1 km"
       },
       {
         "name": "Cool Down",
@@ -139,7 +140,8 @@
     "description": "Today we run a long session with an element of speed again. So no increase in time or kilometer length, but instead the focus is on getting in a speed section. If you already feel from the beginning of the session that it might be tough with speed today, then you skip the long speed section (the km parts) and only run the initial 30-45-60 seconds to change steps in your long session.\n\nStart up the long run at your usual speed and roll on to about half the distance of today's total distance goal. Decide where the speed element is based on where it fits into your round. The speed portion begins with 30 seconds of fast running, 1 minute easy, 45 seconds fast, 1 minute easy, 60 seconds fast and then 2 minutes easy. On these speed parts, the focus is that you should work with good technique and speed up your legs and get your heart rate up a bit. The layout should be your comfortably fast speed and no focus here to have any heading speed. Run with feeling, and run nicely. \n\nCome up to the step and try to run with a proud posture, and you will engage unused muscle power.\n\nAfter 2 minutes of calm basic speed after the 60 second speed increase comes the main speed part where there will be a few kilometer speed parts.\n\nThe speed parts will be 3 km1 km1 km.\n\nGuided speeds:\n\n3 km 5.30-5.35 min/km.\n\n1 km 5.10-5.15 min/km.\n\nBetween each km speed increase part, 2 minutes of calm long-run basic speed or even calmer applies . (If you need to, you can walk a little bit in the 2 minute \"rest part\") On the last speed increase part, you can increase it even harder in the last minute of the km speed part. But not so fast that you risk injury.\n\nAfter finishing the speed part, you take a 3-minute really calm jog or walk where you can take the opportunity to drink. However, do not stop for too long, but then start up again to your usual long-run base speed and then complete the long run so that you reach the day's distance goal.",
     "details": [
       {
-        "name": "Progressive Long Run",
+        "name": "Long Run",
+        "style": "Progressive",
         "distance": 26,
         "timeMin": 118,
         "timeMax": 124

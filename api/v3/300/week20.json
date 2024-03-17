@@ -9,6 +9,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -44,7 +45,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
@@ -83,15 +84,15 @@
       },
       {
         "name": "Running Technique",
-        "disntaceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
         "name": "Interval Run",
-        "distanceInfo": 7,
+        "distance": 7,
         "timeInfo": "2 x (3-2-1) min"
       },
       {

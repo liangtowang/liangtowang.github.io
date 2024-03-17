@@ -8,6 +8,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -38,11 +39,11 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 20m"
+        "info": "2 x 20m"
       },
       {
         "name": "Hill Run",
-        "timeInfo": "5x60s - 5x40s - 5x20s"
+        "info": "5x60s - 5x40s - 5x20s"
       },
       {
         "name": "Cool Down",
@@ -82,11 +83,12 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
-        "distanceInfo": "2 x 10 x 200m"
+        "name": "Interval Run",
+        "style": "Short interval",
+        "info": "2 x 10 x 200m"
       },
       {
         "name": "Cool Down",
@@ -124,7 +126,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
         "name": "Fast Run",

@@ -7,13 +7,14 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 17,
     "time": 134,
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -29,8 +30,9 @@
         "timeMax": 38
       },
       {
-        "name": "Short Hill Run",
-        "distanceInfo": "5 x 100m",
+        "name": "Hill Run",
+        "style": "Short hill",
+        "info": "5 x 100m",
         "timeMin": 5,
         "timeMax": 10
       },
@@ -47,14 +49,15 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Easy Run",
-    "image": "easy",
+    "type": "Morning Run",
+    "image": "morning",
     "distance": 12,
     "time": 66,
     "description": "This week's extra session. Prioritize the long session tomorrow if you think it will be too tough with two sessions in a row or if you cannot find training time on the weekend for both sessions. But if there is time, the body is ok; run a nice quiet half hour that builds further foundation towards your mara!​",
     "details": [
       {
-        "name": "Easy Run",
+        "name": "Morning Run",
+        "style": "Jogging",
         "distance": 12,
         "timeMin": 57,
         "timeMax": 61
@@ -85,15 +88,17 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
-        "name": "Long Interval Run",
+        "name": "Interval Run",
+        "style": "Long interval",
         "distanceInfo": "3 x (2 x 850m)",
         "timeInfo": "3 x (2 x 3 min)"
       },
       {
-        "name": "Short Interval Run",
+        "name": "Interval Run",
+        "style": "Short interval",
         "distanceInfo": "3 x (4 x 200m)",
         "timeInfo": "3 x (4 x 40s)"
       },
@@ -153,8 +158,9 @@
         "time": 15
       },
       {
-        "name": "Progressive Long Run",
-        "distanceInfo": "22 x 1000 m"
+        "name": "Long Run",
+        "style": "Progressive",
+        "info": "22 x 1000 m"
       },
       {
         "name": "Cool Down",

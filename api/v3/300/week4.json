@@ -25,10 +25,11 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
+        "name": "Interval Run",
+        "style": "Short interval",
         "distanceInfo": "3 x 5 x 200m",
         "timeInfo": "3 x 5 x 40s"
       },
@@ -55,7 +56,7 @@
     "image": "threshold",
     "distance": 12,
     "time": 67,
-    "description": "Today, the goal is to develop the threshold run a notch for you who drive!\n\nAs before, you should find the speed between comfortable and uncomfortable fast, or if we start from talking pace, you should be able to say a sentence now and then, but not speak the whole the time...\n\nWe aim for 3 x 10 minute threshold, or if you start from distance it will be 3 x 1.8-1.9 km as the target speed is around 5.20-5.25 min/km.\n\nWe take a 60-second walk/light jog rest between the threshold sections. If you want/need to take a standing rest so that it feels comfortably tough, take a full standing rest.\n\nBut rather slow down the pace so you can walk/jog between each threshold section.\n\nThen you will also keep the heat better :) Relax with calm jogging.\n\nDo you have a New Year's run in your plan? Yes, then of course you remove today's threshold and replace it with the race on New Year's Eve!",
+    "description": "Today, the goal is to develop the threshold run a notch for you who drive!\n\nAs before, you should find the speed between comfortable and uncomfortable fast, or if we start from talking pace, you should be able to say a sentence now and then, but not speak the whole the time...\n\nWe aim for 3 x 10 minute threshold, or if you start from distance it will be 3 x 2.5 km as the target speed is around 5.20-5.25 min/km.\n\nWe take a 60-second walk/light jog rest between the threshold sections. If you want/need to take a standing rest so that it feels comfortably tough, take a full standing rest.\n\nBut rather slow down the pace so you can walk/jog between each threshold section.\n\nThen you will also keep the heat better :) Relax with calm jogging.\n\nDo you have a New Year's run in your plan? Yes, then of course you remove today's threshold and replace it with the race on New Year's Eve!",
     "details": [
       {
         "name": "Warm Up",
@@ -69,7 +70,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",

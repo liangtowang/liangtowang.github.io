@@ -14,7 +14,7 @@
     "description": "Easy SHORT distance, supplemented with strength for you who follow the strength of the program.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "timeMin": 14,
         "timeMax": 15
@@ -25,11 +25,12 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
-        "distanceInfo": "2 x 10 x 300m"
+        "name": "Interval Run",
+        "style": "Short interval",
+        "info": "2 x 10 x 300m"
       },
       {
         "name": "Cool Down",
@@ -56,7 +57,7 @@
     "time": 65,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
         "timeMin": 9,
         "timeMax": 10
@@ -67,7 +68,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",

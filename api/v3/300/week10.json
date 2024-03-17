@@ -25,7 +25,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
@@ -53,6 +53,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -98,10 +99,11 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
+        "name": "Interval Run",
+        "style": "Short interval",
         "distance": 8,
         "timeInfo": "2 x (5-4-3-2-1) min"
       },
@@ -132,6 +134,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 6,
         "time": 30
       }
@@ -143,7 +146,7 @@
     "image": "long",
     "distance": 26,
     "time": 135,
-    "description": "We increase the long run by 1 km. Take your leisurely pace, and walk or jog as you drink after about every 20 minutes. Stretch lightly after the session. If you are tired from the recent training, you can shorten it somewhat, but try to be out for at least 1 hour and 45 minutes and take a slightly slower pace instead.",
+    "description": "Take your leisurely pace, and walk or jog as you drink after about every 20 minutes. Stretch lightly after the session. If you are tired from the recent training, you can shorten it somewhat, but try to be out for at least 2 hours and take a slightly slower pace instead.",
     "details": [
       {
         "name": "Long Run",

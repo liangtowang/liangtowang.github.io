@@ -24,7 +24,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Marathon Pace Run",
@@ -87,11 +87,11 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
-        "distanceInfo": "10 x 1 km"
+        "info": "10 x 1 km"
       },
       {
         "name": "Cool Down",

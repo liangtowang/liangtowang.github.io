@@ -24,11 +24,11 @@
       },
       {
         "name": "Running Technique",
-        "disntaceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
@@ -49,14 +49,15 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 20,
     "time": 145,
     "description": "Calm distance of approx. 10km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 10,
         "timeMin": 47,
         "timeMax": 51

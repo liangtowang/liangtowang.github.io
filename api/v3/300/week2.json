@@ -3,7 +3,7 @@
     "weekDay": "Monday",
     "type": "Rest Day",
     "image": "rest",
-    "description": "The training has started and we continue with 3 training sessions this week as well, but develop the training by adding a \"general strength session\" in connection with Tuesday's run.\n\nRegarding the strength, it is a session that will return regularly every week. Running is a bit one-sided, and partly to improve our performance during running and partly to prevent wear and tear injuries, it is good to have a general strength session every week to \"balance up\" the body's muscle groups.\n\nDo you have natural strength through something other own session in the week, you can count it \"as your strength\" and remove the program's strength.\n\nDeveloping the training, we also do it on Thursday where the goal is for you to run a threshold session. Comfortable fast running, slightly faster than your distance; but don't push even though we divide 30 minutes into 10 interval parts. So NOT intervals, but just a few notches faster than your distance pace with regular rest. So an EASY run :)\n\nWe add 1 km to the long run, so the target there is 18 km at your leisurely pace. But shorten this if it feels too mastic for you in your start-up!"
+    "description": "The training has started and we continue with 5 training sessions this week as well, but develop the training by adding a \"general strength session\" in connection with Tuesday's run.\n\nRegarding the strength, it is a session that will return regularly every week. Running is a bit one-sided, and partly to improve our performance during running and partly to prevent wear and tear injuries, it is good to have a general strength session every week to \"balance up\" the body's muscle groups.\n\nDo you have natural strength through something other own session in the week, you can count it \"as your strength\" and remove the program's strength.\n\nDeveloping the training, we also do it on Thursday where the goal is for you to run a threshold session. Comfortable fast running, slightly faster than your distance; but don't push even though we divide 30 minutes into 10 interval parts. So NOT intervals, but just a few notches faster than your distance pace with regular rest. So an EASY run :)\n\nWe add 1 km to the long run, so the target there is 18 km at your leisurely pace. But shorten this if it feels too mastic for you in your start-up!"
   },
   {
     "weekDay": "Tuesday",
@@ -11,7 +11,7 @@
     "image": "easy",
     "distance": 10,
     "time": 58,
-    "description": "6km at your leisurely distance speed, supplemented with strength training. If you have \"your own strength training\" in connection with another session in the week, you take it as your strength. But if you don't have a strength training session, I think it would be good if you could incorporate the strength of the program once a week. The goal of the strength is that it should help you get a good posture in your running and that it is injury-preventive in the long run. Here is a suggestion for a simple strength program that you can do at home. But of course you can compose your own strength. The focus will be on exercises for the torso (stomach/back).\n\nThe running strength exercises are described on the link \"Running strength\" End the strength session with a thorough stretch. It's good to have a \"scheduled stretching session\" at least once a week.",
+    "description": "10 km at your leisurely distance speed, supplemented with strength training. If you have \"your own strength training\" in connection with another session in the week, you take it as your strength. But if you don't have a strength training session, I think it would be good if you could incorporate the strength of the program once a week. The goal of the strength is that it should help you get a good posture in your running and that it is injury-preventive in the long run. Here is a suggestion for a simple strength program that you can do at home. But of course you can compose your own strength. The focus will be on exercises for the torso (stomach/back).\n\nThe running strength exercises are described on the link \"Running strength\" End the strength session with a thorough stretch. It's good to have a \"scheduled stretching session\" at least once a week.",
     "details": [
       {
         "name": "Easy Run",
@@ -45,7 +45,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "3 x 100m"
+        "info": "3 x 100m"
       }
     ]
   },
@@ -71,7 +71,7 @@
       {
         "name": "Threshold Run",
         "distance": 7.5,
-        "timeInfo": "10 x 3 min"
+        "info": "10 x 3 min"
       },
       {
         "name": "Cool Down",

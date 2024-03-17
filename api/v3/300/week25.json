@@ -11,7 +11,7 @@
     "image": "pace",
     "distance": 10,
     "time": 54,
-    "description": "Easy distance of \"only\" 5km supplemented with two easy coordination runs and the last strength of the program where we also lighten up. - Everything to evoke a light feeling! Exercise but less!!",
+    "description": "Easy distance of \"only\" 8 km supplemented with two easy coordination runs and the last strength of the program where we also lighten up. - Everything to evoke a light feeling! Exercise but less!!",
     "details": [
       {
         "name": "Warm Up",
@@ -45,6 +45,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -83,7 +84,8 @@
         "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
+        "name": "Interval Run",
+        "style": "Short interval",
         "info": "5 x 4 x 200m"
       },
       {
@@ -123,14 +125,14 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       }
     ]
   },
   {
     "weekDay": "Sunday",
-    "type": "Long Run",
-    "image": "long",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 11,
     "time": 71,
     "description": "We \"check off the runes\", and here comes a last resilience-giving back run together with short threshold flow. In addition to working with good strides, the hill always maintains your fitness in a superb way and with the threshold you can float on in a little \"sub marathon\" Warm-up jog of 2km, then the mini running training in the opposite slope. 1x20m; Low Skip-High Skip-Multistep-Heel Kick each. Then the short hill, with a focus on good strides and getting \"fairly tired\". 8-10 slopes that take around 25 seconds up, and easy walking/jogging down. Take rest time \"down\" so the step up will be good!! After the hill you rest a bit and if necessary you move with a light jog to a stretch where you can float at sub marathon speed for 2 km. Much like the speed increase on the long run, but without it being in a long run. Find the flow and feel that the passion is finally here!!",
@@ -150,7 +152,8 @@
         "info": "1 x 30m"
       },
       {
-        "name": "Short Hill Run",
+        "name": "Hill Run",
+        "style": "Short hill",
         "info": "10 x 100m"
       },
       {

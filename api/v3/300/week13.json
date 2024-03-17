@@ -24,10 +24,11 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "1 x 30m"
+        "info": "1 x 30m"
       },
       {
-        "name": "Long Hill Run",
+        "name": "Hill Run",
+        "style": "Long hill",
         "distance": 4,
         "time": 20
       },
@@ -68,11 +69,12 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "info": "2 x 80m"
       },
       {
-        "name": "Short Interval Run",
-        "distanceInfo": "20 x 200m"
+        "name": "Interval Run",
+        "style": "Short interval",
+        "info": "20 x 200m"
       },
       {
         "name": "Cool down",

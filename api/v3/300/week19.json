@@ -7,8 +7,8 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 16,
     "time": 113,
     "details": [
@@ -34,11 +34,12 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
-        "name": "Short Hill Run",
-        "distanceInfo": "10 x 100m"
+        "name": "Hill Run",
+        "style": "Short hill",
+        "info": "10 x 100m"
       },
       {
         "name": "Cool Down",
@@ -83,7 +84,7 @@
     "image": "fast",
     "distance": 13,
     "time": 73,
-    "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 7 km fast distance.",
+    "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 8 km fast distance.",
     "details": [
       {
         "name": "Warm Up",
@@ -97,10 +98,10 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
-        "name": "Fast Run",
+        "name": "Tempo Run",
         "distance": 8,
         "timeMin": 30,
         "timeMax": 31

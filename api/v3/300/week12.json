@@ -7,14 +7,15 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Progressive Speed Run",
+    "type": "Speed Run",
     "image": "speed",
     "distance": 12,
     "time": 66,
     "description": "Feel your marathon pace in the distance workout today. 1 km calmly at first and then the goal is a full 10 km at your intended marathon pace; if everything feels ok and the surface/temperature is suitable for running.\n\nDoesn't want the body; then you take 10-12 km at your leisurely pace for the day.",
     "details": [
       {
-        "name": "Progressive Speed Run",
+        "name": "Speed Run",
+        "style": "Progressive",
         "distance": 10,
         "timeMin": 43,
         "timeMax": 46
@@ -25,7 +26,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "5 x 100m"
+        "info": "5 x 100m"
       },
       {
         "name": "Cool Down",
@@ -40,13 +41,14 @@
   },
   {
     "weekDay": "Wednesday",
-    "type": "Morning Run",
-    "image": "morning",
+    "type": "Cross Training",
+    "image": "cross",
     "distance": 16,
     "time": 109,
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -81,7 +83,7 @@
     "description": "Two new elements in the training program in today's session.\n\nThe main element \"Long hill\"\n\nRunning strength and the technique element running training.\n\nWarm up with a distance jog to a hill you know. The slope should not be \"too steep\" but nicely runnable all the way. If it is \"wintery ground\" you can adapt accordingly and run calmly and also do the run training calmly.\n\nAfter the warm-up, you do some light mobility and then at the beginning of \"your hill\" you do running training before the hill session itself .\n\nRunning training exercises you run on a 20 meter stretch up your hill. Rest once down. We start by doing one round of each exercise, \"just introducing\" the movement pattern.\n\n1x20m av:\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick each\n\n(see video for the execution)\n\nAfter the heel kick, your heart rate has picked up a bit and you can start your \"hill\".\n\nFocus on finding the right pace and running \"right on the hill\".\n\nThe goal is to have about 60 seconds in the climb. (50-70 seconds ok). You run nicely and controlled uphill, and get a little tired. Stop and rest for a few seconds at the \"top\" or where you turn, then jog down leisurely to the start. Repeat and run a total of 17-19 minutes on the hill. In the \"total time\" you include both the run up and the jog down and also the small rest time at the top. (keep the clock ticking).\n\nUnwind calmly as usual and stretch your muscles thoroughly because the running training and the hill have surely \"contracted\" your muscles a little extra.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "timeMin": 14,
         "timeMax": 15
@@ -92,10 +94,11 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "1 x 30m"
+        "info": "1 x 30m"
       },
       {
-        "name": "Long Hill Run",
+        "name": "Hill Run",
+        "style": "Long hill",
         "distance": 4,
         "time": 20
       },
@@ -120,6 +123,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 6,
         "time": 30
       },

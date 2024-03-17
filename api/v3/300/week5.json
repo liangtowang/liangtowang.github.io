@@ -54,12 +54,12 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Threshold Run",
         "distance": 7.5,
-        "timeInfo": "12-10-8 min"
+        "info": "12-10-8 min"
       },
       {
         "name": "Cool Down",
@@ -98,7 +98,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m",
+        "info": "2 x 80m",
         "time": 3
       },
       {
@@ -119,7 +119,7 @@
     "image": "long",
     "distance": 24,
     "time": 120,
-    "description": "Calm long run where we approach the half-marathon limit! Bring drinks, and adjust your speed according to the surface and the feeling in your body. Calm should be calm just for you and just today. If you started with shorter long runs than what the program indicated, you can still run a few kilometers shorter even now.",
+    "description": "Calm long run where we pass the half-marathon limit! Bring drinks, and adjust your speed according to the surface and the feeling in your body. Calm should be calm just for you and just today. If you started with shorter long runs than what the program indicated, you can still run a few kilometers shorter even now.",
     "details": [
       {
         "name": "Long Run",

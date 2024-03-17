@@ -23,7 +23,7 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "info": "1 x 80m"
       },
       {
         "name": "Fast Run",
@@ -52,6 +52,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 8,
         "timeMin": 38,
         "timeMax": 41
@@ -82,10 +83,11 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 30m"
+        "info": "2 x 30m"
       },
       {
-        "name": "Long Hill Run",
+        "name": "Hill Run",
+        "style": "Long hill",
         "distance": 5,
         "timeMin": 23,
         "timeMax": 25
