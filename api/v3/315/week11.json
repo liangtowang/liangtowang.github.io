@@ -7,43 +7,79 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 6,
-    "time": 75,
+    "type": "Pace Run",
+    "image": "pace",
+    "distance": 12,
+    "time": 69,
     "description": "Easy distance running supplemented strength!\n\nStrength with the same setup as last week for those of you who don't run your own strength.",
     "details": [
       {
-        "name": "Easy Run",
-        "distance": 6,
-        "time": 35
+        "name": "Warm Up",
+        "distance": 1,
+        "time": 5
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Marathon Pace Run",
+        "distance": 10,
+        "timeMin": 45,
+        "timeMax": 46
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "timeMin": 5,
+        "timeMax": 6
       },
       {
         "name": "Stretching",
-        "time": 10
+        "time": 5
       }
     ]
   },
   {
     "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 86,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretching",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
   },
   {
     "weekDay": "Thursday",
-    "type": "Threshold Run",
-    "image": "threshold",
-    "distance": 9.9,
-    "time": 75,
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 10,
+    "time": 71,
     "description": "30 minutes threshold running divided into 3x10 minutes with 1.5 minutes standing/light jogging rest. Target speed Around 5.25 min/km and then gives 10 minutes Around 1.8 km.\n\nFind the speed where you are at or just below the speed where the body starts to accumulate lactic acid.\n\nThe idea is therefore that you should find a pace that you can hold without going completely out. As always, the feeling is more important than the direction, especially if the weather/surface is not favorable and since the week should be somewhat \"calmer\", it is also important that the session is not too hard for you in terms of speed and effort.",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 2.5,
+        "name": "Warm Up",
+        "distance": 3,
         "time": 15
       },
       {
@@ -52,22 +88,24 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "1 x 30m"
       },
       {
-        "name": "Threshold Run",
-        "distance": 5.4,
-        "time": 30
+        "name": "Hill Run",
+        "style": "Long hill",
+        "distance": 4,
+        "time": 20
       },
       {
         "name": "Cool Down",
-        "distance": 2,
-        "time": 12
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -78,25 +116,45 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 51,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 24,
+        "timeMax": 26
+      },
+      {
+        "name": "Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Dynamic Stretching",
+        "time": 10
+      }
+    ]
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 24,
-    "time": 157,
+    "distance": 27,
+    "time": 152,
     "description": "Really long today. Calm speed that you adapt to the surface and weather, so that it feels calm just for you. Ok to shorten 1-2 km without affecting \"that you would fall behind\". Take drinks with you on the session, and be careful with dry clothes and quick energy/fluid intake after you finish the session.",
     "details": [
       {
         "name": "Long Run",
-        "distance": 24,
-        "time": 147
+        "distance": 27,
+        "timeMin": 135,
+        "timeMax": 142
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

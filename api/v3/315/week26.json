@@ -7,15 +7,15 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Interval Run",
-    "image": "interval",
-    "distance": 6.1,
-    "time": 67,
+    "type": "Cross Training",
+    "image": "cross",
+    "distance": 8,
+    "time": 62,
     "description": "A final speed session for body and bud. Can feel a bit tough, especially if today you \"walk around\" on a low-carbohydrate diet.\n\nTry to focus on the flow of your run, and run tired, but certainly not too hard. You must have resources saved after the session, you save these for Saturday.\n\nThe purpose of the session is to maintain the feeling of running and that the intervals give the body both muscularly and centrally (heart lungs) a good \"entertaining effect\".\n\nThe session then; Two series with 4 200m or 45 second intervals. 2x4x200m or 2x4x45-50 seconds. The rest is 45 seconds between the intervals and 90 seconds after the 4th interval.\n\nEasy, easy running training in your warm-up, with low skip, medium high skip and heel kick.\n\nIt is important that you cool down calmly, and stretch out the muscles.",
     "details": [
       {
         "name": "Warm Up",
-        "distance": 2.5,
+        "distance": 3,
         "time": 15
       },
       {
@@ -24,38 +24,38 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 60m",
-        "time": 3
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
-        "distance": 1.6,
-        "info": "2 x 4 x 200m",
-        "time": 27
+        "distanceInfo": "8 x 300m"
       },
       {
         "name": "Cool Down",
-        "distance": 2,
-        "time": 12
+        "distance": 2.5,
+        "time": 13
       },
       {
         "name": "Stretching",
-        "time": 5
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
   {
     "weekDay": "Wednesday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 8,
-    "time": 61,
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 13,
+    "time": 73,
     "description": "Easy distance running 9km today, or if you follow the carbohydrate-loading scheme a \"morning jog\" of 9km. If you've never run before breakfast before and are trying it now, remember to take it really easy before you warm up your muscles and get started. It's perfectly fine to run the session later in the day, and then start your carbohydrate load towards the marathon!",
     "details": [
       {
-        "name": "Easy Run",
-        "distance": 8,
-        "time": 56
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 13,
+        "timeMin": 64,
+        "timeMax": 68
       },
       {
         "name": "Stretching",
@@ -73,13 +73,14 @@
     "type": "Easy Run",
     "image": "easy",
     "distance": 3,
-    "time": 26,
+    "time": 23,
     "description": "Light jogging or complete rest. The jog is only for you who feel that the body and the bud need to air out a little. Not so great practical significance more than just for the feeling. You can feel a little heavy from the carbohydrate load and then a short jog can feel good, not least mentally. If you want, you add light mobility and two short movement coordinations at a comfortably fast speed.",
     "details": [
       {
         "name": "Easy Run",
         "distance": 3,
-        "time": 18
+        "timeMin": 15,
+        "timeMax": 16
       },
       {
         "name": "Dynamic Movement",
@@ -87,28 +88,61 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 50m",
-        "time": 3
+        "distanceInfo": "1 x 80m"
       }
     ]
   },
   {
     "weekDay": "Saturday",
     "type": "Race Day",
-    "image": "marathonPace",
-    "distance": 42,
-    "time": 255,
+    "image": "race",
+    "distance": 44,
+    "time": 213,
     "description": "Now we are at the final goal of the program.\n\nFinally you will get all the training you put in, and I absolutely believe that if you have followed the program properly it will go really well!!\n\nBut it is a tough job that must be done, and you are set for it!\n\nStart 12.00 or 12.10, so I think you eat your usual breakfast, but maybe not with so much fiber if you usually have fiber breakfast. No need for there to be lumps in the stomach!\n\nFeel free to supplement breakfast with some extra carbohydrate.\n\nMaybe a little sports drink including salt in the early morning, especially if it's hot!\n\nThen if you are used to eating close to the long run, you can also take something light extra at 10.00-10.30; then food energy can wait until after/during the race.\n\nMake sure everything is ready, with shoes, number tag etc.\n\nWarm up a little before the start in the place in your starting line or a short jog before entering the starting line. Feel free to drink water until just before the start, then when you're up and running you can take a sport drink if you know it works for your stomach.\n\nThe start goes; do not stress. You'll make it, stress kills energy!\n\nFind your slightly tougher long run pace (or medium hard distance pace), and break the race into smaller sections, both mentally and physically.\n\nBuildings and buddies can be the split or simply every fluid check !\n\nTake the liquid right from the first check.\n\nYOU WILL DO IT if you are whole and healthy and have managed to follow the program reasonably well.\n\nIf you have followed the time decently on the sessions, 3.59 or faster is also within you if they the external conditions for running are OK on the day of the competition.\n\nOf course it is tough, you have to be prepared that it does not come by itself but that you have to work when it takes.\n\nTake help from the audience, fellow competitors and defeat any slumps!! Change step; work extra with your arms if you get into a slump!!\n\nThink positively, and think that now is the time for all the training to \"get out\"!!\n\nSee you at the Stadium.\n\nGOOD LUCK from coach Anders Szalkai.",
     "details": [
       {
         "name": "Warm Up",
-        "time": 15
+        "distanceInfo": "1-2 km",
+        "timeMin": 5,
+        "timeMax": 11
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Racing",
         "distance": 42.2,
-        "time": 240
+        "time": 195
       }
     ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 3,
+    "time": 21,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Sonday",
+    "type": "Rest Day",
+    "image": "rest"
   }
 ]

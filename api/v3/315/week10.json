@@ -7,58 +7,17 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Threshold Run",
+    "image": "threshold",
     "distance": 11,
-    "time": 108,
+    "time": 70,
     "description": "Slightly longer distance sessions which, after a short warm-up, should be the marathon speed for the program's time goal. (or your time goal). Long session overall, but hopefully not a session where you are completely exhausted (because you shouldn't be) so you have the strength to supplement with strength, if you don't have your own strength.",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 1,
-        "time": 6
-      },
-      {
-        "name": "Dynamic Movement",
-        "time": 5
-      },
-      {
-        "name": "Marathon Pace Run",
-        "distance": 9,
-        "time": 52
-      },
-      {
-        "name": "Cool Down",
-        "distance": 1,
-        "time": 6
-      },
-      {
-        "name": "Running Strength Training",
-        "time": 30
-      },
-      {
-        "name": "Stretching",
-        "time": 10
-      }
-    ]
-  },
-  {
-    "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
-  },
-  {
-    "weekDay": "Thursday",
-    "type": "Interval Run",
-    "image": "interval",
-    "distance": 8.8,
-    "time": 65,
-    "description": "Today, the idea is that we will run long intervals. We warm up as usual with calm distance speed, easy mobility and coordination runs before the start of the interval. You then run on relatively flat ground either a measured distance of 800 meters or the time indicated on the watch or based on the watch's distance meter. The goal is to have clearly higher speed than during your distance running, and it should be a relatively tough session. It's important that you don't run too fast in the first intervals, because then it will easily become an inharmonious session with lactic acid in the legs right from the start. Start in time, and aim for the last intervals to be your fastest. We aim to complete a full 6 intervals, if it feels too much, take one or two intervals less. Rest 1 minute stationary between each interval. So the training in short; 6x800 meters or 6 x 3.45 with 1 minute rest. (guideline speed Around 4.45 min/km) We will increase the speed slightly on the intervals later in the program. Wind down with a leisurely run and then finish with a good stretch for the running muscles. The goal is to have clearly higher speed than during your distance running, and it should be a relatively tough session. It's important that you don't run too fast in the first intervals, because then it will easily become an inharmonious session with lactic acid in the legs right from the start. Start in time, and aim for the last intervals to be your fastest. We aim to complete a full 6 intervals, if it feels too much, take one or two intervals less. Rest 1 minute stationary between each interval. So the training in short; 6x800 meters or 5x3.45 with 1 minute rest. (guideline speed Around 4.45 min/km) We will increase the speed slightly on the intervals later in the program. Wind down with a leisurely run and then finish with a good stretch for the running muscles.",
-    "details": [
-      {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 9,
+        "timeMax": 10
       },
       {
         "name": "Dynamic Movement",
@@ -66,23 +25,88 @@
       },
       {
         "name": "Coordination Run",
-        "time": 3,
-        "info": "2 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
-        "name": "Long Interval Run",
-        "distance": 4.8,
-        "time": 28,
-        "info": "6 x 800 m"
+        "name": "Threshold Run",
+        "distance": 7,
+        "timeInfo": "3 x 10 min"
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 8,
+    "time": 76,
+    "details": [
+      {
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
         "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 11,
+    "time": 80,
+    "description": "Today, the idea is that we will run long intervals. We warm up as usual with calm distance speed, easy mobility and coordination runs before the start of the interval. You then run on relatively flat ground either a measured distance of 800 meters or the time indicated on the watch or based on the watch's distance meter. The goal is to have clearly higher speed than during your distance running, and it should be a relatively tough session. It's important that you don't run too fast in the first intervals, because then it will easily become an inharmonious session with lactic acid in the legs right from the start. Start in time, and aim for the last intervals to be your fastest. We aim to complete a full 6 intervals, if it feels too much, take one or two intervals less. Rest 1 minute stationary between each interval. So the training in short; 6x800 meters or 6 x 3.45 with 1 minute rest. (guideline speed Around 4.45 min/km) We will increase the speed slightly on the intervals later in the program. Wind down with a leisurely run and then finish with a good stretch for the running muscles. The goal is to have clearly higher speed than during your distance running, and it should be a relatively tough session. It's important that you don't run too fast in the first intervals, because then it will easily become an inharmonious session with lactic acid in the legs right from the start. Start in time, and aim for the last intervals to be your fastest. We aim to complete a full 6 intervals, if it feels too much, take one or two intervals less. Rest 1 minute stationary between each interval. So the training in short; 6x800 meters or 5x3.45 with 1 minute rest. (guideline speed Around 4.45 min/km) We will increase the speed slightly on the intervals later in the program. Wind down with a leisurely run and then finish with a good stretch for the running muscles.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 10,
+        "timeMax": 11
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distance": 7,
+        "timeInfo": "2 x (5-4-3-2-1) min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -95,18 +119,24 @@
     "weekDay": "Saturday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 7,
-    "time": 46,
-    "description": "Light extra distance for a little more volume in your volume week and to get a really good muscular training effect on the weekend session.\n\nIf 4 sessions a week are too much, this is the session you remove, the same if you are tired. Then you rest today and focus on a good 23 km session tomorrow.",
+    "distance": 8,
+    "time": 81,
     "details": [
       {
-        "name": "Easy Run",
-        "distance": 7,
-        "time": 41
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
       },
       {
-        "name": "Dynamic Movement",
-        "time": 5
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
       }
     ]
   },
@@ -114,18 +144,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 22,
-    "time": 147,
-    "description": "We increase the long run by 1 km. Take your leisurely pace, and walk or jog as you drink after about every 20 minutes. Stretch lightly after the session. If you are tired from the recent training, you can shorten it somewhat, but try to be out for at least 1 hour and 45 minutes and take a slightly slower pace instead.",
+    "distance": 25,
+    "time": 141,
+    "description": "Take your leisurely pace, and walk or jog as you drink after about every 20 minutes. Stretch lightly after the session. If you are tired from the recent training, you can shorten it somewhat, but try to be out for at least 2 hours and take a slightly slower pace instead.",
     "details": [
       {
         "name": "Long Run",
-        "distance": 22,
-        "time": 137
+        "distance": 25,
+        "timeMin": 125,
+        "timeMax": 131
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

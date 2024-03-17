@@ -2,21 +2,72 @@
   {
     "weekDay": "Monday",
     "type": "Rest Day",
-    "image": "rest",
-    "description": "New week and new challenges, where the weekend will be really tough if you run according to the program to the fullest.\n\nCombining a fast distance (all Competition/Premiärmilen) with a long session the next day is tough and actually a bit \"over course\".\n\nSo don't hesitate to modify the plan, shorten Sunday's long session to around 70-90 minutes, you drive hard on Saturday. Tune in with both the feeling in your body and how you feel mentally about the challenge.\n\nIf the coach is to guide the weekend's setup a bit, it will be:\n\n1. Everything feels great and you are not tired; yes, test the program's layout!\n\n2. Have you driven well with long sessions during the year; yes then you can focus on fast distance/races and then take Sunday as it comes with rest or shorter long sessions.\n\n3. If you haven't gotten in as many long runs so far this year, then you prioritize running long distances for the weekend. Same if you like to really have regular long sessions; then of course you choose to run long this weekend as well!\n\nBut the training week doesn't just consist of the weekend, but work as well as you can in the week leading up to the weekend, and hopefully with a little spring in the air!"
+    "image": "rest"
   },
   {
     "weekDay": "Tuesday",
-    "type": "Fartlek Run",
-    "image": "fartlek",
-    "distance": 10,
-    "time": 105,
+    "type": "Speed Run",
+    "image": "Speed",
+    "distance": 11,
+    "time": 58,
+    "details": [
+      {
+        "name": "Speed Run",
+        "style": "Progressive",
+        "distance": 10,
+        "timeMin": 44,
+        "timeMax": 47
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "timeMin": 5,
+        "timeMax": 6
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 76,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 30,
+        "timeMax": 31
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 78,
     "description": "You let your body control the speed game and it's perfectly okay to let the session be easy.\n\nYou are welcome to \"cheat a little\" with the speed, and just flow through with small speed variations. Aim for shorter bursts of speed, from 30 seconds up to 2 minutes, but don't push too hard. Sometimes it can be nice to just float, and now feels like a good position, at least from the program's perspective. Complete with a full round of strength after the run.",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 2,
-        "time": 12
+        "name": "Warm Up",
+        "distance": 2.5,
+        "timeMin": 12,
+        "timeMax": 13
       },
       {
         "name": "Dynamic Movement",
@@ -24,67 +75,24 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "2 x 20m"
       },
       {
-        "name": "Fartlek Run",
-        "distance": 6,
-        "time": 33
-      },
-      {
-        "name": "Cool Down",
-        "distance": 2,
-        "time": 12
-      },
-      {
-        "name": "Running Strength Training",
-        "time": 30
-      },
-      {
-        "name": "Stretching",
-        "time": 10
-      }
-    ]
-  },
-  {
-    "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
-  },
-  {
-    "weekDay": "Thursday",
-    "type": "Hill Run",
-    "image": "hill",
-    "distance": 7.6,
-    "time": 74,
-    "description": "A short back run as a break from all distance/amount.\n\n– Good to shift the step a little and reach muscles you may not always activate so well in your running but which are good to keep moving so they can be activated when fatigue sets in longer runs!!\n\nWarm up with a leisurely distance run to your short hill.\n\nThe hill should provide a nice counterslope, but no steeper than you can run with good strides uphill for 20-30 seconds.\n\nA little softening movement when you arrive at the hill. Light running training, preferably in the opposite direction on the hill.\n\nThe short hill means that you run fast for 20-30 seconds up the hill. The rest between hills is a leisurely jog down, combined with a few seconds of standing rest at the top/turn and below the hill before starting the next hill.\n\nRun with good pressure and try to maintain a good technical run. Drive so hard that you just feel a little lactic acid on top. It is important, however, that you run the first hill uphill a little more calmly, so you don't start with shock lactic acid in your legs. See the first slope as part of the warm-up. Find your pace and rhythm uphill. Run with a total time of around 15 minutes on the hill, all time including both running up/down and the standing short rest.\n\nAfter the hill run, it is as usual important that you wind down with a leisurely jog followed by stretching.\n\nAre you running the ASICS Premiärmilen or investing in a really tough training weekend; then you shorten the day to 5-8 short 20-30 s slopes with good steps!",
-    "details": [
-      {
-        "name": "Warm up",
-        "distance": 3,
-        "time": 19
-      },
-      {
-        "name": "Dynamic Movement",
-        "time": 5
-      },
-      {
-        "name": "Running Technique",
-        "info": "2 x 20m"
-      },
-      {
-        "name": "Short Hill Run",
-        "time": 15
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "2 x 10 x 200m",
+        "timeInfo": "2 x 10 x 40-42s"
       },
       {
         "name": "Cool Down",
-        "distance": 2,
-        "time": 15
+        "distance": 2.5,
+        "timeMin": 12,
+        "timeMax": 13
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -97,14 +105,14 @@
     "weekDay": "Saturday",
     "type": "Fast Run",
     "image": "fast",
-    "distance": 12,
-    "time": 79,
+    "distance": 15,
+    "time": 88,
     "description": "Fast distance on the schedule today, and for those of you who live in the Stockholm area, you can use a virtual Premiärmilen as your training.\n\nIf you don't run the race, it is \"enough\" to run an 8 km fast distance, and you are welcome to use your test race round as you had previously in the program and see what you have \"above your test 5km\" and then add 3km directly to your 5th.\n\nTarget down to 5.05-5.10 speed, a little slower if the body doesn't really want it. In any case, as always, a harmonious start, but then you are welcome to mobilize mental strength to run really hard.",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 2,
-        "time": 12
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 15
       },
       {
         "name": "Dynamic Movement",
@@ -112,22 +120,24 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "2 x 80m"
       },
       {
-        "name": "Fast Distance Run",
-        "distance": 8,
-        "time": 42
+        "name": "Fast Run",
+        "distance": 10,
+        "timeMin": 42,
+        "timeMax": 44
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 10,
+        "timeMax": 11
       },
       {
         "name": "Stretching",
-        "time": 5
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -135,18 +145,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 22,
-    "time": 146,
+    "distance": 25,
+    "time": 139,
     "description": "A shorter long session today, because the program's layout is based on the idea that today's long session should come in combination with a tougher fast distance yesterday.\n\nDid you not run a little harder yesterday, and everything feels ok today, of course you can extend the session a bit if you want; or you still do \"only\" 22 km and give your body a somewhat calmer weekend!",
     "details": [
       {
         "name": "Long Run",
-        "distance": 22,
-        "time": 136
+        "distance": 25,
+        "timeMin": 125,
+        "timeMax": 129
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

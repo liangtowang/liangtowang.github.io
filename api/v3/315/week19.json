@@ -9,42 +9,13 @@
     "weekDay": "Tuesday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 6,
-    "time": 75,
-    "description": "Easy distance run!",
+    "distance": 8,
+    "time": 74,
     "details": [
       {
-        "name": "Easy run",
-        "distance": 6,
-        "time": 35
-      },
-      {
-        "name": "Running Strength Training",
-        "time": 30
-      },
-      {
-        "name": "Stretching",
-        "time": 10
-      }
-    ]
-  },
-  {
-    "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
-  },
-  {
-    "weekDay": "Thursday",
-    "type": "Fast Run",
-    "image": "fast",
-    "distance": 11,
-    "time": 84,
-    "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 7 km fast distance.",
-    "details": [
-      {
-        "name": "Warm up",
-        "distance": 2,
-        "time": 12
+        "name": "Warm Up",
+        "distance": 4,
+        "time": 20
       },
       {
         "name": "Dynamic Movement",
@@ -52,27 +23,88 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m",
-        "time": 10
+        "distanceInfo": "2 x 30m"
+      },
+      {
+        "name": "Hill Run",
+        "style": "Short hill",
+        "distanceInfo": "10 x 100m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 10,
+    "time": 96,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 10,
+        "timeMin": 48,
+        "timeMax": 51
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 13,
+    "time": 77,
+    "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 8 km fast distance.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "1 x 80m"
       },
       {
-        "name": "Fast Distance Run",
-        "distance": 7,
-        "time": 37
+        "name": "Fast Run",
+        "distance": 8,
+        "timeMin": 33,
+        "timeMax": 34
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 10,
+        "timeMax": 11
       },
       {
         "name": "Stretching",
-        "time": 5
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -83,33 +115,24 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Hill Run",
-    "image": "hill",
-    "distance": 7,
-    "time": 61,
-    "description": "Extra sessions that you only include in your total if you feel energetic, and you feel that you responded well to the program's training. Calm distance of 3+3 km where you stop during the round (in the proposal after 3 km and the distance is written as warm-up and jog down) ) and put in a 5x100 meter short hill with a springy step.\n\nTake a little rest up/down (5 -10s) and have a calm jog downhill as your rest as well.\n\nFocus on getting a little pressure uphill without getting really tired!\n\nGood combo with the long session IF you are physically fit in general!",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 51,
+    "description": "This week's extra session. Prioritize the long session tomorrow if you think it will be too tough with two sessions in a row or if you cannot find training time on the weekend for both sessions. But if there is time, the body is ok; run a nice quiet half hour that builds further foundation towards your mara!​",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 3,
-        "time": 18
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 24,
+        "timeMax": 26
       },
       {
-        "name": "Dynamic Movement",
-        "time": 5
+        "name": "Strength Training",
+        "time": 15
       },
       {
-        "name": "Short Slope Run",
-        "info": "5 x 100m",
-        "time": 10
-      },
-      {
-        "name": "Cool Down",
-        "distance": 3,
-        "time": 18
-      },
-      {
-        "name": "Stretching",
+        "name": "Dynamic Stretch",
         "time": 10
       }
     ]
@@ -118,18 +141,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 30,
-    "time": 195,
+    "distance": 33,
+    "time": 180,
     "description": "A record for the program. Adapt to your feeling! Shorten it if it feels too tough.\n\nBring drinks; and time to start testing your energy plan for the marathon!",
     "details": [
       {
-        "name": "Easy pace long run",
-        "distance": 30,
-        "time": 185
+        "name": "Long Run",
+        "distance": 33,
+        "timeMin": 165,
+        "timeMax": 170
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
