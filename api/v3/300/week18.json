@@ -88,7 +88,7 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m"
+        "distanceInfo": "2 x 30m"
       },
       {
         "name": "Interval Run",
@@ -153,14 +153,13 @@
     "description": "Today, the session that the coach calls \"marathon thousand\" returns. We had it in the program at the end of February, and now we are running again and also adding two \"Marathon tweens\".\n\nThe run means that you must accumulate long-run volume by running many \"calm\" 1 km intervals. In the long-run volume that is created, we also include a warm-up of 2-3 km and a cool-down of 2-3 km.\n\nSo start the session with a leisurely run for a few kilometers. Stop and do some mobility for your joints/ligaments and running muscles. If you want, you can also include some simple and softening running training exercises. Then you're ready to start your 1 km intervals.\n\nThe goal is to run around 30-40 seconds faster in minutes per kilometer than your normal long run pace.\n\nOptimize your setup by starting the first 1 km intervals a little slower/calmer than the specified \"guide speed\", so that you can then increase the speed a little later and that the last 1 km interval will be the fastest - even though you then have the most volume in your legs.\n\nFor you with a fast 4:00 who time goal is the goal of 18 x 1 km and the target speed after you get started will be around 5:30-5:20 min/km if we start from 6:00 at a long run pace.\n\nThe rest between each \"Maraton tussing\" you take 60 seconds standing /walking rest.\n\nBring drinks out on the run, and maybe even some energy gel. (or anything else you like with energy)\n\nMental; think positively and that you actually get to rest, which you don't get during the long session as regularly as now. Take it one step at a time, and look forward to the feeling you get when you've done 18 reps!\n\nAfter the 18th interval, you exhale before finishing the session with a few kilometers of calm deceleration and finished easy mobility for the running muscles that have had to work!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "time": 15
       },
       {
-        "name": "Long Run",
-        "style": "Progressive",
-        "info": "22 x 1000 m"
+        "name": "Marathon Crunch Run",
+        "distanceInfo": "22 x 1000 m"
       },
       {
         "name": "Cool Down",

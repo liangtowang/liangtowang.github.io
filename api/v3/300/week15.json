@@ -79,15 +79,15 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m"
+        "distanceInfo": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
-        "info": "8 x 1 km"
+        "distanceInfo": "8 x 1 km"
       },
       {
         "name": "Cool Down",

@@ -39,11 +39,11 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 20m"
+        "distanceInfo": "2 x 20m"
       },
       {
         "name": "Hill Run",
-        "info": "5x60s - 5x40s - 5x20s"
+        "timeInfo": "5x60s - 5x40s - 5x20s"
       },
       {
         "name": "Cool Down",
@@ -83,12 +83,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
         "style": "Short interval",
-        "info": "2 x 10 x 200m"
+        "distanceInfo": "2 x 10 x 200m"
       },
       {
         "name": "Cool Down",
@@ -126,7 +126,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Fast Run",

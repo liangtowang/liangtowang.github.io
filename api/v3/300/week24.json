@@ -51,12 +51,12 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m"
+        "distanceInfo": "2 x 30m"
       },
       {
         "name": "Hill Run",
         "style": "Short hill",
-        "info": "10 x 100m"
+        "distanceInfo": "10 x 100m"
       },
       {
         "name": "Cool Down",
@@ -84,7 +84,7 @@
     "description": "Fast distance of 8 km. It can be a tough, really tough session, but with a focus on fluidity in running. If you feel more like threshold speed, choose it. Marathon speed can also be enough...Let the day's form decide and keep in mind that we save the last bit to pick out the body for the marathon.\n\nThose of you who are part of TSM Running can run the fast distance on the \"Milspåret\", either 5 or 10 km which is the official test run for TSM Running.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
         "timeMin": 14,
         "timeMax": 15
@@ -95,7 +95,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Tempo Run",
@@ -125,7 +125,7 @@
     "description": "Easy distance and last strength fully; next week there will be less strength in your deceleration in terms of training and escalation in terms of form towards the marathon.",
     "details": [
       {
-        "name": "Easy run",
+        "name": "Easy Run",
         "distance": 5,
         "timeMin": 23,
         "timeMax": 25
@@ -156,7 +156,7 @@
     "description": "The program's and perhaps your last long run before the marathon, will be a 24 km run at mostly calm long run speed. During a section over about 4 km, you can increase your speed to well below your intended marathon race speed to get a final test and push your long-run motor!\n\nEnter your speed increase after about 60 minutes of running and try to run faster for about 22 minutes . Finish image at a speed of around 5.30 min/km.\n\nIf you are tired and your body is not responding; run calmly all the way through.\n\nAs always important drink, and energy and more fluids even afterwards for good and important recovery!\n\nRegarding if this is your last long session before the marathon, you can actually if you missed many long sessions, put in a short leisurely long session with a week to go before the race instead of specified training. (Then removes Sunday's schedule where it is in the program).",
     "details": [
       {
-        "name": "Long run",
+        "name": "Long Run",
         "style": "Progressive",
         "distance": 26,
         "timeMin": 116,

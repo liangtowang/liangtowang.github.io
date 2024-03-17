@@ -25,12 +25,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
         "style": "Short interval",
-        "info": "2 x 10 x 300m"
+        "distanceInfo": "2 x 10 x 300m"
       },
       {
         "name": "Cool Down",
@@ -68,7 +68,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",

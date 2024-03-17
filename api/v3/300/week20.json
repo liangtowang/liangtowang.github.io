@@ -45,7 +45,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
@@ -84,11 +84,11 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m"
+        "distanceInfo": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
@@ -147,7 +147,7 @@
     "description": "Calm long run - with a slightly shorter distance to give some breathing space before we move on with two more really long long runs in the final phase towards the marathon.\n\n26 km at your comfortable long run speed for the day - keeps everything going - and gives the body a chance to absorb all tough training!\n\nBring a drink to the session, and if you have the opportunity - try taking energy at some point during the session to \"train\" it before the marathon and to have a good energy level during the session!",
     "details": [
       {
-        "name": "Long run",
+        "name": "Long Run",
         "distance": 26,
         "timeMin": 121,
         "timeMax": 125

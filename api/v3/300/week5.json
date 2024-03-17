@@ -54,12 +54,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
         "distance": 7.5,
-        "info": "12-10-8 min"
+        "timeInfo": "12-10-8 min"
       },
       {
         "name": "Cool Down",

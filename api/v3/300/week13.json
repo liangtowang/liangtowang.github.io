@@ -24,7 +24,7 @@
       },
       {
         "name": "Running Technique",
-        "info": "1 x 30m"
+        "distanceInfo": "1 x 30m"
       },
       {
         "name": "Hill Run",
@@ -69,12 +69,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
         "style": "Short interval",
-        "info": "20 x 200m"
+        "distanceInfo": "20 x 200m"
       },
       {
         "name": "Cool down",

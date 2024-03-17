@@ -81,12 +81,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
         "style": "Short interval",
-        "info": "5 x 4 x 200m"
+        "distanceInfo": "5 x 4 x 200m"
       },
       {
         "name": "Cool Down",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "distanceInfo": "2 x 80m"
       }
     ]
   },
@@ -149,12 +149,12 @@
       },
       {
         "name": "Running Technique",
-        "info": "1 x 30m"
+        "distanceInfo": "1 x 30m"
       },
       {
         "name": "Hill Run",
         "style": "Short hill",
-        "info": "10 x 100m"
+        "distanceInfo": "10 x 100m"
       },
       {
         "name": "Threshold Run",

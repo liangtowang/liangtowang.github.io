@@ -25,7 +25,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "5 x 100m"
+        "distanceInfo": "5 x 100m"
       },
       {
         "name": "Cool Down",
@@ -64,7 +64,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 20m"
+        "distanceInfo": "2 x 20m"
       },
       {
         "name": "Hill Run",
