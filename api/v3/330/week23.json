@@ -7,27 +7,26 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Tempo Run",
-    "image": "tempo",
-    "distance": 17,
-    "time": 134,
-    "description": "Calm distance of approx. 8 km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 67,
+    "description": "Easy extra run that really is extra. Of course gives good effect with tomorrow's run; but run no injury or overtraining limits now to get this run. Only for those of you who feel like you're soaking up all the training right now! Prioritize tomorrow...",
     "details": [
       {
-        "name": "Tempo Run",
-        "distance": 10,
-        "timeMin": 50,
-        "timeMax": 55
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 31,
+        "timeMax": 32
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
       },
       {
         "name": "Strength Training",
         "timeMin": 15,
         "timeMax": 30
-      },
-      {
-        "name": "Dynamic Stretch",
-        "timeMin": 10,
-        "timeMax": 15
       }
     ]
   },
@@ -41,13 +40,14 @@
     "type": "Hill Run",
     "image": "hill",
     "distance": 10,
-    "time": 98,
+    "time": 82,
     "description": "Warm up as usual with jogging, mobility and the running training exercises.\n\nThe hill should be a \"slightly steeper version\" but you should be able to run with good strides and be able to last around 20-25 seconds in the uphill and feel a little lactic acid in your legs on top\". Take a few (5-10) seconds of rest both at the turning point of your short hill and before starting the next hill. Focus on a good step with good drive. Work well with slightly faster arm movements and good knee assignments if it comes reasonably naturally to you. No completely unfamiliar movements now...\n\nImportant to unwind with a calm jog and stretch!",
     "details": [
       {
         "name": "Warm Up",
         "distance": 3,
-        "time": 15
+        "timeMin": 21,
+        "timeMax": 22
       },
       {
         "name": "Dynamic Movement",
@@ -55,24 +55,25 @@
       },
       {
         "name": "Running Technique",
-        "distanceInfo": "2 x 30m"
+        "distanceInfo": "2 x 30m",
+        "time": 10
       },
       {
         "name": "Hill Run",
         "style": "Short hill",
-        "distance": 4,
-        "timeMin": 20,
-        "timeMax": 22
-      },
-      {
-        "name": "Threshold Run",
-        "distanceInfo": "5 x 5 min"
+        "distance": 2,
+        "timeMin": 16,
+        "timeMax": 17
       },
       {
         "name": "Cool Down",
-        "distance": 3,
-        "timeMin": 15,
-        "timeMax": 16
+        "distance": 4,
+        "timeMin": 21,
+        "timeMax": 23
+      },
+      {
+        "name": "Stretching",
+        "time": 5
       }
     ]
   },
@@ -83,41 +84,22 @@
   },
   {
     "weekDay": "Saturday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 4,
-    "time": 29,
-    "description": "Easy extra run that really is extra. Of course gives good effect with tomorrow's run; but run no injury or overtraining limits now to get this run. Only for those of you who feel like you're soaking up all the training right now! Prioritize tomorrow...",
-    "details": [
-      {
-        "name": "Easy Run",
-        "distance": 4,
-        "timeMin": 20,
-        "timeMax": 21
-      },
-      {
-        "name": "Dynamic Movement",
-        "time": 5
-      },
-      {
-        "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
-      }
-    ]
+    "type": "Rest Day",
+    "image": "rest"
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 37,
-    "time": 205,
+    "distance": 36,
+    "time": 210,
     "description": "The program's longest long session!\n\nReally long, and inevitably over 3 hours. YOUR CALM SPEED, and it's ok to slow down a notch more than you usually do to complete the distance!\n\nMake sure you load up with some extra carbohydrates the day before, and bring drinks with you on the run. (feel free to try the sports drink if you haven't done it before) Test your intended competition shoes, and see that they work with your feet all the way.\n\nIt is extremely important that you are careful after the session, with energy, drink and dry clothes so that you do not the situation we're in now will catch you with an unnecessary cold.\n\n-Make sure you get an hour's rest after the session, and don't have to do so much before the body has had time to recover a little at least!",
     "details": [
       {
         "name": "Long Run",
-        "distance": 37,
-        "timeMin": 185,
-        "timeMax": 195
+        "distance": 36,
+        "timeMin": 192,
+        "timeMax": 200
       },
       {
         "name": "Stretching",

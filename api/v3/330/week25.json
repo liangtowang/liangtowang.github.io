@@ -10,24 +10,25 @@
     "type": "Pace Run",
     "image": "pace",
     "distance": 10,
-    "time": 57,
+    "time": 62,
     "description": "Easy distance of \"only\" 10 km supplemented with two easy coordination runs and the last strength of the program where we also lighten up. - Everything to evoke a light feeling! Exercise but less!!",
     "details": [
       {
         "name": "Warm Up",
-        "distance": 1,
-        "time": 5
+        "distance": 2,
+        "timeMin": 10,
+        "timeMax": 11
       },
       {
         "name": "Marathon Pace Run",
-        "distance": 8,
-        "timeMin": 36,
-        "timeMax": 37
+        "distance": 6,
+        "timeMin": 29,
+        "timeMax": 30
       },
       {
         "name": "Cool Down",
-        "distance": 1,
-        "time": 5
+        "distance": 2,
+        "time": 11
       },
       {
         "name": "Stretching",
@@ -45,14 +46,14 @@
     "weekDay": "Thursday",
     "type": "Interval Run",
     "image": "interval",
-    "distance": 10,
-    "time": 75,
+    "distance": 9,
+    "time": 74,
     "description": "Usual warm-up before quality, including running training. 2x30m; 4 exercises; Low Skip-High Skip-Multistep-Heel Kick each. - Short interval sessions, where we now reduce the length of our interval slightly and run 3x4x200m, with 45 sec rest between intervals and 90 seconds between series. That is, 4 intervals with 45 sec rest, and then 90 sec rest before you run 4 more, etc. Target speed is around 45-47 sec per 200m (3.45-3.55 pace), Important, however, more flow/harmony is to push max. With 12 intervals, you have time to get good training both muscularly and for fitness! Relax calmly with jogging/stretching.",
     "details": [
       {
         "name": "Warm Up",
         "distance": 3,
-        "time": 15
+        "time": 16
       },
       {
         "name": "Dynamic Movement",
@@ -60,18 +61,19 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "distanceInfo": "3 x 80m",
+        "time": 5
       },
       {
         "name": "Interval Run",
         "style": "Short interval",
-        "distanceInfo": "5 x 4 x 200m"
+        "distanceInfo": "5 x 3 x 200m",
+        "time": 22
       },
       {
         "name": "Cool Down",
         "distance": 3,
-        "timeMin": 15,
-        "timeMax": 16
+        "time": 16
       },
       {
         "name": "Stretching",
@@ -89,15 +91,14 @@
     "weekDay": "Saturday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 5,
-    "time": 54,
+    "distance": 4,
+    "time": 30,
     "description": "Calm any short distance. Only for those of you who think it would be nice to go out for a little round. If you can't get the hill/short threshold in tomorrow; put it here today.",
     "details": [
       {
         "name": "Easy Run",
-        "distance": 5,
-        "timeMin": 24,
-        "timeMax": 26
+        "distance": 4,
+        "time": 22
       },
       {
         "name": "Dynamic Movement",
@@ -105,15 +106,8 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
-      },
-      {
-        "name": "Strength Training",
-        "time": 10
-      },
-      {
-        "name": "Stretching",
-        "time": 10
+        "distanceInfo": "2 x 80m",
+        "time": 3
       }
     ]
   },
@@ -121,14 +115,15 @@
     "weekDay": "Sunday",
     "type": "Cross Training",
     "image": "cross",
-    "distance": 11,
-    "time": 71,
+    "distance": 9.2,
+    "time": 45,
     "description": "We \"check off the runes\", and here comes a last resilience-giving back run together with short threshold flow. In addition to working with good strides, the hill always maintains your fitness in a superb way and with the threshold you can float on in a little \"sub marathon\" Warm-up jog of 2km, then the mini running training in the opposite slope. 1x20m; Low Skip-High Skip-Multistep-Heel Kick each. Then the short hill, with a focus on good strides and getting \"fairly tired\". 8-10 slopes that take around 25 seconds up, and easy walking/jogging down. Take rest time \"down\" so the step up will be good!! After the hill you rest a bit and if necessary you move with a light jog to a stretch where you can float at sub marathon speed for 2 km. Much like the speed increase on the long run, but without it being in a long run. Find the flow and feel that the passion is finally here!!",
     "details": [
       {
         "name": "Warm Up",
-        "distance": 4,
-        "time": 20
+        "distance": 3.5,
+        "timeMin": 18,
+        "timeMax": 19
       },
       {
         "name": "Dynamic Movement",
@@ -141,21 +136,17 @@
       {
         "name": "Hill Run",
         "style": "Short hill",
-        "distanceInfo": "10 x 100m"
+        "distanceInfo": "8 x 100m"
       },
       {
         "name": "Threshold Run",
-        "distanceInfo": "2 x 1.5 km",
-        "timeInfo": "2 x 6.5 min"
+        "distance": 2.1,
+        "time": 10
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 10
-      },
-      {
-        "name": "Stretching",
-        "time": 5
+        "time": 11
       }
     ]
   }

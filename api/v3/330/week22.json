@@ -7,16 +7,16 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Pace Run",
-    "image": "pace",
-    "distance": 16,
-    "time": 88,
-    "description": "We continue with threshold Thursday, and now develop the session a little more with an even longer continuous run. A total of 30 minutes again, but according to the model, the speed bits are 12-10-8 minutes or if you drive on a distance meter about 2 km1.85 km1.5 km. We take a 2-minute walk or a certain amount of calm jogging as a rest between each threshold section.\n\nStart the first 12 minutes of the threshold soft, and then work on a little harder. Target picture that you maintain approximately 5.25 min/km on the 12 minute timer, 5.15-5.20 speed on the 10 minute threshold and then you can allow yourself to drop the threshold speed a little and faster than your threshold on the second half of the 8 minute, so maybe down to 5.05-5.10 min/km at the end of the 8-minute run.\n\nThe speeds assume that the winter is ok with you and if you start from effort, you make sure that the 12-minute run feels adequate (a little faster than distance running) and then you dare to get tired in the final 8-minute run .\n\nThen unwind as usual with a leisurely jog and stretch.",
+    "type": "Tempo Run",
+    "image": "tempo",
+    "distance": 9,
+    "time": 72,
     "details": [
       {
-        "name": "Warm Up",
-        "distance": 1,
-        "time": 5
+        "name": "Tempo Run",
+        "distance": 8,
+        "timeMin": 40,
+        "timeMax": 44
       },
       {
         "name": "Dynamic Movement",
@@ -24,83 +24,57 @@
       },
       {
         "name": "Coordination Run",
-        "distanceInfo": "1 x 80m"
+        "distanceInfo": "6 x 80m",
+        "time": 8
       },
       {
-        "name": "Marathon Pace Run",
-        "distance": 14,
-        "timeMin": 64,
-        "timeMax": 65
-      },
-      {
-        "name": "Cool Down",
-        "distance": 1,
-        "timeMin": 5,
-        "timeMax": 6
-      },
-      {
-        "name": "Stretching",
-        "time": 5
+        "name": "Strength Training",
+        "time": 15
       }
     ]
   },
   {
     "weekDay": "Wednesday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 10,
-    "time": 96,
-    "description": "Calm distance of approx. 10km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
-    "details": [
-      {
-        "name": "Easy Run",
-        "distance": 10,
-        "timeMin": 48,
-        "timeMax": 51
-      },
-      {
-        "name": "Strength Training",
-        "timeMin": 15,
-        "timeMax": 30
-      },
-      {
-        "name": "Stretching",
-        "timeMin": 10,
-        "timeMax": 15
-      }
-    ]
+    "type": "Rest Day",
+    "image": "rest"
   },
   {
     "weekDay": "Thursday",
     "type": "Interval Run",
     "image": "interval",
-    "distance": 10,
-    "time": 75,
+    "distance": 9,
+    "time": 84,
     "description": "You recognize the short intervals. The last time where you run 15 pieces of 200 meters.\n\nTarget slightly faster than the last time if you have a good day. So a little under 4.00 pace and thus under 48 seconds per 200 meters.\n\nWe keep the rest at 45s between intervals and 90 s between series.\n\nFloat, but still a little pressure in the step on the last series. Allow yourself to be tired....if you have an ok day!",
     "details": [
       {
         "name": "Warm Up",
         "distance": 3,
-        "timeMin": 14,
-        "timeMax": 15
+        "time": 16
       },
       {
         "name": "Dynamic Movement",
         "time": 5
       },
       {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m",
+        "time": 10
+      },
+      {
         "name": "Coordination Run",
-        "distanceInfo": "2 x 80m"
+        "distanceInfo": "3 x 80m",
+        "time": 5
       },
       {
         "name": "Interval Run",
-        "distanceInfo": "4 x 5 x 200m"
+        "style": "Short interval",
+        "distanceInfo": "3 x 5 x 200m",
+        "time": 22
       },
       {
         "name": "Cool Down",
         "distance": 3,
-        "timeMin": 15,
-        "timeMax": 16
+        "time": 16
       },
       {
         "name": "Stretching",
@@ -114,20 +88,24 @@
     "type": "Morning Run",
     "image": "morning",
     "distance": 8,
-    "time": 53,
+    "time": 78,
     "description": "Try the marathon setup, with a short jog, mobility and two light coordinations the day before a long session! See if this feels good or if, for example, the complete rest day that you had during other long sessions gave/gives you a better effect! Then you know what to do when the time comes...",
     "details": [
       {
         "name": "Morning Run",
         "style": "Jogging",
         "distance": 8,
-        "timeMin": 40,
+        "timeMin": 42,
         "timeMax": 43
       },
       {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
         "name": "Stretching",
-        "timeMin": 5,
-        "timeMax": 10
+        "time": 5
       }
     ]
 
@@ -141,29 +119,18 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 29,
-    "time": 155,
+    "distance": 28,
+    "time": 173,
     "description": "The program breaks off with a slightly shorter long session. If a long session can feel short?\n\nThe session maintains your long session feeling, but hopefully gives the body a chance to absorb all the training.\n\nCoach Szalkai wants this slightly shorter long session to now give you a small \"buffer\" both mentally and physically before the upcoming last tough part of the program - before the tapering starts towards the marathon, which is now only less than 4 weeks away.\n\nSo calm base speed and a little shorter, but of course with the usual long-run advice where drink/energy is included and that you be careful after the session with dry clothes and new energy in so you don't open up to catching an unnecessary cold now!",
     "details": [
       {
-        "name": "Warm Up",
-        "distance": 3,
-        "timeMin": 15,
-        "timeMax": 16
+        "name": "Long Run",
+        "distance": 28,
+        "timeMin": 158,
+        "timeMax": 163
       },
       {
-        "name": "Marathon Crunch Run",
-        "distanceInfo": "23 x 1 km",
-        "timeInfo": "About 145 min"
-      },
-      {
-        "name": "Cool Down",
-        "distance": 3,
-        "timeMin": 15,
-        "timeMax": 17
-      },
-      {
-        "name": "Stretching",
+        "name": "Dynamic Stretch",
         "timeMin": 5,
         "timeMax": 10
       }

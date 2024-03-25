@@ -139,10 +139,5 @@
         "time": 5
       }
     ]
-  },
-  {
-    "weekDay": "Sonday",
-    "type": "Rest Day",
-    "image": "rest"
   }
 ]
