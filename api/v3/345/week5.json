@@ -10,16 +10,18 @@
     "type": "Easy Run",
     "image": "easy",
     "distance": 10,
-    "time": 100,
+    "time": 97,
     "details": [
       {
         "name": "Easy Run",
         "distance": 10,
-        "time": 60
+        "timeMin": 55,
+        "timeMax": 57
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -36,14 +38,15 @@
     "weekDay": "Thursday",
     "type": "Threshold Run",
     "image": "threshold",
-    "distance": 9,
-    "time": 71,
+    "distance": 10,
+    "time": 76,
     "description": "We continue with threshold Thursday, and now develop the session a little more with an even longer continuous run. A total of 30 minutes again, but according to the model, the speed bits are 12-10-8 minutes or if you drive on a distance meter about 2 km1.85 km1.5 km. We take a 2-minute walk or a certain amount of calm jogging as a rest between each threshold section.\n\nStart the first 12 minutes of the threshold soft, and then work on a little harder. Target picture that you maintain approximately 5.25 min/km on the 12 minute timer, 5.15-5.20 speed on the 10 minute threshold and then you can allow yourself to drop the threshold speed a little and faster than your threshold on the second half of the 8 minute, so maybe down to 5.05-5.10 min/km at the end of the 8-minute run.\n\nThe speeds assume that the winter is ok with you and if you start from effort, you make sure that the 12-minute run feels adequate (a little faster than distance running) and then you dare to get tired in the final 8-minute run .\n\nThen unwind as usual with a leisurely jog and stretch.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Dynamic Movement",
@@ -51,21 +54,23 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m"
+        "disntaceInfo": "2 x 80m"
       },
       {
         "name": "Threshold Run",
-        "distance": 5.5,
-        "time": 30
+        "distance": 6,
+        "timeInfo": "12-10-8 min"
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Stretching",
-        "time": 5
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -78,18 +83,19 @@
     "weekDay": "Saturday",
     "type": "Easy Run",
     "image": "easy",
-    "distance": 6,
-    "time": 40,
+    "distance": 7,
+    "time": 50,
     "description": "Extra runes are offered. Remove if it feels like it might be too much for you or if you don't have the time.​",
     "details": [
       {
         "name": "Easy Run",
-        "distance": 6,
-        "time": 35
+        "distance": 7,
+        "time": 40
       },
       {
-        "name": "Stretching",
-        "time": 5
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -97,18 +103,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 20,
-    "time": 132,
-    "description": "Calm long run where we approach the half-marathon limit! Bring drinks, and adjust your speed according to the surface and the feeling in your body. Calm should be calm just for you and just today. If you started with shorter long runs than what the program indicated, you can still run a few kilometers shorter even now.",
+    "distance": 21,
+    "time": 131,
+    "description": "Calm long run where we pass the half-marathon limit! Bring drinks, and adjust your speed according to the surface and the feeling in your body. Calm should be calm just for you and just today. If you started with shorter long runs than what the program indicated, you can still run a few kilometers shorter even now.",
     "details": [
       {
         "name": "Long Run",
-        "distance": 20,
-        "time": 122
+        "distance": 21,
+        "timeMin": 118,
+        "timeMax": 121
       },
       {
-        "name": "Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
