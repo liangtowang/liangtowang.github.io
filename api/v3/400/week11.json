@@ -16,11 +16,13 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -42,9 +44,10 @@
     "description": "30 minutes threshold running divided into 3x10 minutes with 1.5 minutes standing/light jogging rest. Target speed Around 5.25 min/km and then gives 10 minutes Around 1.8 km.\n\nFind the speed where you are at or just below the speed where the body starts to accumulate lactic acid.\n\nThe idea is therefore that you should find a pace that you can hold without going completely out. As always, the feeling is more important than the direction, especially if the weather/surface is not favorable and since the week should be somewhat \"calmer\", it is also important that the session is not too hard for you in terms of speed and effort.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
@@ -52,13 +55,13 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
+        "distanceInfo": "2 x 80m",
         "time": 3
       },
       {
         "name": "Threshold Run",
-        "distance": 5.4,
-        "time": 30
+        "distanceInfo": "3 x 1.8 km",
+        "timeInfo": "3 x 10 min"
       },
       {
         "name": "Cool Down",
@@ -92,10 +95,11 @@
       {
         "name": "Long Run",
         "distance": 24,
-        "time": 147
+        "timeMin": 140,
+        "timeMax": 147
       },
       {
-        "name": "Dynamic Stretching",
+        "name": "Dynamic Stretch",
         "time": 10
       }
     ]

@@ -13,9 +13,10 @@
     "time": 69,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Dynamic Movement",
@@ -23,12 +24,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "3 x 80m"
+        "distanceInfo": "3 x 80m"
       },
       {
         "name": "Interval Run",
-        "distance": 2,
-        "info": "2 x 5 x 200m"
+        "style": "Short interval",
+        "distanceInfo": "2 x 5 x 200m"
       },
       {
         "name": "Cool Down",
@@ -37,7 +38,8 @@
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -48,13 +50,13 @@
   },
   {
     "weekDay": "Thursday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Pace Run",
+    "image": "pace",
     "distance": 10,
     "time": 78,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 1,
         "time": 6
       },
@@ -64,12 +66,13 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Marathon Pace Run",
         "distance": 8,
-        "time": 48
+        "timeMin": 43,
+        "timeMax": 48
       },
       {
         "name": "Cool Down",
@@ -78,7 +81,8 @@
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -97,11 +101,13 @@
       {
         "name": "Easy Run",
         "distance": 5,
-        "time": 29
+        "timeMin": 28,
+        "timeMax": 29
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -119,12 +125,15 @@
     "details": [
       {
         "name": "Threshold Long Run",
+        "style": "Threshold run",
         "distance": 20,
-        "time": 123
+        "timeMin": 120,
+        "timeMax": 123
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

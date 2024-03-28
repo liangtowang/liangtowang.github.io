@@ -14,7 +14,7 @@
     "description": "In the phase we are in the program now, you should not be fooled and intimidated by short intervals. It is and should be a session where you \"just\" should be reasonably tired. An \"easy way\" to work on your fitness and oxygen uptake at the same time that you will work a little with your faster muscle fibers. Warm up with light jogging, mobility and some coordination runs. Then our short interval, where we will have a really short rest to keep the speed from getting too high. We run 10 x 200 m or if you run on \"clock\" you take 10 x 50 seconds. The rest is standing for 30 seconds, which means that you should not run too fast, but only a few notches faster than your distance run. Find your rhythm and if you feel that it feels good, you can push a little more in the last 2-3 intervals if you feel like it, but overall a \"just enough run\". Guideline, if you want it, can be a bit over 4.00 min/km in speed. Wind down with a leisurely jog and thoroughly stretch your muscles after you put in the week's running strength. So a great session today with many moments!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
         "time": 12
       },
@@ -24,14 +24,12 @@
       },
       {
         "name": "Coordination Run",
-        "time": 6,
-        "info": "1 x 80 m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Interval Run",
-        "distance": 2,
-        "time": 10,
-        "info": "10 x 200m, 10 x 50s"
+        "distanceInfo": "10 x 200m",
+        "timeInfo": "10 x 50s"
       },
       {
         "name": "Cool Down",
@@ -39,12 +37,14 @@
         "time": 12
       },
       {
-        "name": "Running Strength Training",
-        "time": 20
+        "name": "Strength Training",
+        "timeMin": 10,
+        "timeMax": 20
       },
       {
         "name": "Dynamic Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -62,7 +62,7 @@
     "description": "Today, the goal is to develop the threshold run a notch for you who drive!\n\nAs before, you should find the speed between comfortable and uncomfortable fast, or if we start from talking pace, you should be able to say a sentence now and then, but not speak the whole the time...\n\nWe aim for 3 x 10 minute threshold, or if you start from distance it will be 3 x 1.8-1.9 km as the target speed is around 5.20-5.25 min/km.\n\nWe take a 60-second walk/light jog rest between the threshold sections. If you want/need to take a standing rest so that it feels comfortably tough, take a full standing rest.\n\nBut rather slow down the pace so you can walk/jog between each threshold section.\n\nThen you will also keep the heat better :) Relax with calm jogging.\n\nDo you have a New Year's run in your plan? Yes, then of course you remove today's threshold and replace it with the race on New Year's Eve!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
         "time": 15
       },
@@ -72,13 +72,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
         "distance": 5.5,
-        "time": 30,
-        "info": "3 x 10"
+        "timeInfo": "3 x 10 min"
       },
       {
         "name": "Cool Down",
@@ -107,7 +106,8 @@
       {
         "name": "Morning Run",
         "distance": 4,
-        "time": 25
+        "timeMin": 23,
+        "timeMax": 25
       }
     ]
   },
@@ -121,11 +121,13 @@
       {
         "name": "Long Run",
         "distance": 19,
-        "time": 116
+        "timeMin": 112,
+        "timeMax": 116
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

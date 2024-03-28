@@ -16,16 +16,18 @@
       {
         "name": "Easy Run",
         "distance": 5,
-        "time": 30
+        "timeMin": 29,
+        "timeMax": 30
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 60m",
+        "distanceInfo": "2 x 60m",
         "time": 3
       },
       {
-        "name": "Running Strength Training",
-        "time": 15
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -45,9 +47,10 @@
     "description": "Usual warm-up before quality, including running training. 2x30m; 4 exercises; Low Skip-High Skip-Multistep-Heel Kick each. - Short interval sessions, where we now reduce the length of our interval slightly and run 3x4x200m, with 45 sec rest between intervals and 90 seconds between series. That is, 4 intervals with 45 sec rest, and then 90 sec rest before you run 4 more, etc. Target speed is around 45-47 sec per 200m (3.45-3.55 pace), Important, however, more flow/harmony is to push max. With 12 intervals, you have time to get good training both muscularly and for fitness! Relax calmly with jogging/stretching.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
@@ -55,18 +58,18 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m",
+        "distanceInfo": "2 x 30m",
         "time": 10
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
+        "distanceInfo": "2 x 80m",
         "time": 3
       },
       {
-        "name": "Short Interval Run",
-        "distance": 1.6,
-        "info": "3 x 4 x 200m",
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "3 x 4 x 200m",
         "time": 24
       },
       {
@@ -96,11 +99,13 @@
       {
         "name": "Easy Run",
         "distance": 4,
-        "time": 24
+        "timeMin": 23,
+        "timeMax": 24
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -119,12 +124,14 @@
       },
       {
         "name": "Running Technique",
-        "info": "1 x 20m"
+        "distanceInfo": "1 x 20m"
       },
       {
-        "name": "Short Hill Run",
+        "name": "Hill Run",
+        "style": "Short hill",
         "distance": 2,
-        "time": 14
+        "timeMin": 12,
+        "timeMax": 14
       },
       {
         "name": "Threshold Run",
@@ -138,7 +145,8 @@
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

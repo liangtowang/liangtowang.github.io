@@ -16,11 +16,13 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 36
+        "timeMin": 34,
+        "timeMax": 36
       },
       {
-        "name": "Running Strength Training",
-        "time": 20
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 20
       },
       {
         "name": "Dynamic Stretching",
@@ -42,7 +44,7 @@
     "description": "Just like last week, the program has a threshold run for you. If you didn't drive the run last week and feel unsure about the layout, go back and check the text there. How the layout will be a little different today compared to last week. Just like then, however, you start with a short distance warm-up and some mobility. If you want, you can also run a light pulse-raising coordination run, but make sure that the warm-up is just a warm-up. The structure of the threshold training today will be threshold runs with a slightly longer running time than last time. Run 6 x 5 minutes, and take a slightly longer jog/walk rest than last time with 45 seconds rest now between each threshold section. A total of 30 minutes threshold time, and target speed if you want it even if your feeling is most important (comfortably tired!) will be like last week Around 5.20-5.25 min/km which gives you Around 5.5 km in total and a little over 900 meters per 5 minute episode. If you don't have a speed indication or you drive by feel 6 x 5 minutes at your comfortable fast speed with a 45 second rest. Relax with a gentle jog and a little stretching, and you have another good basic workout!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
         "time": 15
       },
@@ -52,14 +54,12 @@
       },
       {
         "name": "Coordination Run",
-        "time": 6,
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
         "distance": 5.5,
-        "time": 30,
-        "info": "6 x 5 min"
+        "timeInfo": "6 x 5 min"
       },
       {
         "name": "Cool Down",
@@ -88,11 +88,13 @@
       {
         "name": "Morning Run",
         "distance": 7,
-        "time": 43
+        "timeMin": 40,
+        "timeMax": 43
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -107,11 +109,13 @@
       {
         "name": "Long Progressive Run",
         "distance": 18,
-        "time": 109
+        "timeMin": 105,
+        "timeMax": 109
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

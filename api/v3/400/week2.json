@@ -16,11 +16,13 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -42,7 +44,7 @@
     "description": "There is a long way to go before our final goal, so we won't run really tough sessions right now, but we will work from the start with something called threshold running.\n\n\"The threshold concept\" means that you should run around the highest speed you can over the specified distance without accumulating fatigue substances in the muscles. (Often called lactic acid). A bit hard to describe, but if you're above it, it can only be a few notches faster than your distance running and the more you're used to the pace, the closer you can be to your limit and dare to push something more.\n\nSo try to find the position where you lie down for a while and get \"just tired\" like that. Then you will move your threshold a little bit with the help of the training.\n\nSo at the beginning it is better to go a little too slowly than too fast. So comfortably tired!\n\nBefore you start the main part, you take a short calm distance warm-up and some mobility.\n\nThen you are ready for the start and the goal today is to run 10 x 3 minutes threshold. A total of 30 minutes of threshold running. Take a 30 second rest with a light jog or walk between each section.\n\nPlease note that it is just THRESHOLD and not intervals, even though today we are breaking it up into so many shorter runs.\n\nDo you want a target speed and don't just go by feel, a guideline can be around 5.20-5.25 min/km, so slightly faster than your intended marathon pace. That speed will give you around 550 meters per each 3-minute segment.\n\nRewind with a leisurely jog as the end of the session and briefly stretch the running muscles.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
         "time": 15
       },
@@ -53,8 +55,7 @@
       {
         "name": "Threshold Run",
         "distance": 5.5,
-        "time": 35,
-        "info": "10 x 3 min"
+        "timeInfo": "10 x 3 min"
       },
       {
         "name": "Cool Down",
@@ -84,11 +85,13 @@
       {
         "name": "Long Run",
         "distance": 18,
-        "time": 109
+        "timeMin": 106,
+        "timeMax": 109
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

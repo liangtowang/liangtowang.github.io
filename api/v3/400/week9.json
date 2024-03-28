@@ -13,7 +13,7 @@
     "description": "Warm-up and cool-down with 1km. Also do some mobility before the \"start\" of the main part, which will be continued distance running but at a progressively increasing speed if everything feels ok.\n\nStart at a slightly faster pace than your calm distance pace and then gradually increase by feel so that during the the last two kilometers run \"really fast\".\n\nA tough session, but you should only be tired at the end, so still gentle on the psyche. Go by feel, and the target image will be clear during your marathon speed over your 6km. (The program counts on 5.20 on average, with 5.40 first km and then down to 5.00/5.10 at the end)",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 1,
         "time": 6
       },
@@ -32,8 +32,9 @@
         "time": 6
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -55,9 +56,10 @@
     "description": "Today we will run an interval step that first \"goes up\" and then turns around and \"goes down again\". Total 16 minute interval time. First, as usual, a good warm-up. Then when you are ready for the steps which involve 1-2-3-4-3-2-1 minute intervals with 1 minute walking/standing rest between each interval. The goal is to get some speed variation, so the shorter the interval, the faster the speed, and preferably also that the closing 3-2-1 minutes are faster than your opening 1-2-3. So go out easy and have nice harmony up to the 4 minute intervals; and then when it becomes shorter and shorter intervals you can go on again.\n\n1 minutes; Around 4.20 min/km at speed\n\n2 minutes Around 4.30-4.35 min/km at speed\n\n3 minutes Around 4.45 min/km\n\n4 minutes Around 4.50-5.00 min/km\n\nThen a bit faster on the final 3-2-1 min than your initial corresponding interval distances calculated in time.\n\nPlease note that your feeling is more important than direction! Find your find on the run.\n\nExhale and unwind with a few kilometers of leisurely running and a little stretch for your running muscles.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
@@ -69,7 +71,8 @@
       },
       {
         "name": "Interval Run",
-        "time": 16
+        "style": "Short interval",
+        "distance": "1-2-3-4-2-1 min"
       },
       {
         "name": "Cool Down",
@@ -116,12 +119,15 @@
     "details": [
       {
         "name": "Long Run",
+        "style": "Progressive",
         "distance": 22,
-        "time": 136
+        "timeMin": 128,
+        "timeMax": 136
       },
       {
-        "name": "Dynamic Movement",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

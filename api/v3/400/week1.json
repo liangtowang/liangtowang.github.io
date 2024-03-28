@@ -16,11 +16,13 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -40,7 +42,8 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
         "name": "Dynamic Movement",
@@ -48,7 +51,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "3 x 80-100 m"
+        "distanceInfo": "3 x 80-100m"
       }
     ]
   },
@@ -73,11 +76,13 @@
       {
         "name": "Long Run",
         "distance": 17,
-        "time": 104
+        "timeMin": 100,
+        "timeMax": 104
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

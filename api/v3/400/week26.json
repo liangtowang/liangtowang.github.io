@@ -16,7 +16,8 @@
       {
         "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
@@ -24,13 +25,12 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 60m",
+        "distanceInfo": "2 x 60m",
         "time": 3
       },
       {
         "name": "Interval Run",
-        "distance": 1.6,
-        "info": "2 x 4 x 200m",
+        "distanceInfo": "2 x 4 x 200m",
         "time": 27
       },
       {
@@ -55,7 +55,8 @@
       {
         "name": "Easy Run",
         "distance": 8,
-        "time": 56
+        "timeMin": 54,
+        "timeMax": 56
       },
       {
         "name": "Stretching",
@@ -79,7 +80,8 @@
       {
         "name": "Easy Run",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Dynamic Movement",
@@ -87,7 +89,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 50m",
+        "distanceInfo": "2 x 50m",
         "time": 3
       }
     ]
@@ -95,14 +97,15 @@
   {
     "weekDay": "Saturday",
     "type": "Race Day",
-    "image": "marathonPace",
+    "image": "race",
     "distance": 42,
     "time": 255,
     "description": "Now we are at the final goal of the program.\n\nFinally you will get all the training you put in, and I absolutely believe that if you have followed the program properly it will go really well!!\n\nBut it is a tough job that must be done, and you are set for it!\n\nStart 12.00 or 12.10, so I think you eat your usual breakfast, but maybe not with so much fiber if you usually have fiber breakfast. No need for there to be lumps in the stomach!\n\nFeel free to supplement breakfast with some extra carbohydrate.\n\nMaybe a little sports drink including salt in the early morning, especially if it's hot!\n\nThen if you are used to eating close to the long run, you can also take something light extra at 10.00-10.30; then food energy can wait until after/during the race.\n\nMake sure everything is ready, with shoes, number tag etc.\n\nWarm up a little before the start in the place in your starting line or a short jog before entering the starting line. Feel free to drink water until just before the start, then when you're up and running you can take a sport drink if you know it works for your stomach.\n\nThe start goes; do not stress. You'll make it, stress kills energy!\n\nFind your slightly tougher long run pace (or medium hard distance pace), and break the race into smaller sections, both mentally and physically.\n\nBuildings and buddies can be the split or simply every fluid check !\n\nTake the liquid right from the first check.\n\nYOU WILL DO IT if you are whole and healthy and have managed to follow the program reasonably well.\n\nIf you have followed the time decently on the sessions, 3.59 or faster is also within you if they the external conditions for running are OK on the day of the competition.\n\nOf course it is tough, you have to be prepared that it does not come by itself but that you have to work when it takes.\n\nTake help from the audience, fellow competitors and defeat any slumps!! Change step; work extra with your arms if you get into a slump!!\n\nThink positively, and think that now is the time for all the training to \"get out\"!!\n\nSee you at the Stadium.\n\nGOOD LUCK from coach Anders Szalkai.",
     "details": [
       {
         "name": "Warm Up",
-        "time": 15
+        "timeMin": 10,
+        "timeMax": 15
       },
       {
         "name": "Racing",
