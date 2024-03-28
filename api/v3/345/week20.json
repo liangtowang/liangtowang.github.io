@@ -2,49 +2,77 @@
   {
     "weekDay": "Monday",
     "type": "Rest Day",
-    "image": "rest",
-    "description": "A week where we focus on Thursday's interval training and then a slightly shorter long training session for the weekend to keep the long training feeling going and at the same time give the body a chance to absorb all the tough training - and be ready for the last really tough weeks of the program including our two longest training sessions. So shorter now - to be able to gear up a notch to later.\n\nAre you running the Premier Half on Saturday?, well then you change the week and skip the long session and take the race as your tough training this weekend!\n\nThursday's speed session would you be able to sleep on Tuesday, then you just go for a leisurely jog on Thursday before the race!"
+    "image": "rest"
   },
   {
     "weekDay": "Tuesday",
-    "type": "Easy Run",
-    "image": "easy",
-    "distance": 8,
-    "time": 88,
-    "description": "Calm distance of approx. 8km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 12,
+    "time": 87,
+    "description": "We continue with threshold Thursday, and now develop the session a little more with an even longer continuous run. A total of 30 minutes again, but according to the model, the speed bits are 12-10-8 minutes or if you drive on a distance meter about 2 km1.85 km1.5 km. We take a 2-minute walk or a certain amount of calm jogging as a rest between each threshold section.\n\nStart the first 12 minutes of the threshold soft, and then work on a little harder. Target picture that you maintain approximately 5.25 min/km on the 12 minute timer, 5.15-5.20 speed on the 10 minute threshold and then you can allow yourself to drop the threshold speed a little and faster than your threshold on the second half of the 8 minute, so maybe down to 5.05-5.10 min/km at the end of the 8-minute run.\n\nThe speeds assume that the winter is ok with you and if you start from effort, you make sure that the 12-minute run feels adequate (a little faster than distance running) and then you dare to get tired in the final 8-minute run .\n\nThen unwind as usual with a leisurely jog and stretch.",
     "details": [
       {
-        "name": "Easy run",
-        "distance": 8,
-        "time": 48
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 11
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m",
+        "time": 2
+      },
+      {
+        "name": "Threshold Run",
+        "distanceInfo": "8 x 1km",
+        "time": 47
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
   {
     "weekDay": "Wednesday",
-    "type": "Rest Day",
-    "image": "rest"
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 6,
+    "time": 35,
+    "description": "Calm down just come out and run runes. Time on your own or a chat with a friend.",
+    "details": [
+      {
+        "name": "Morning run",
+        "style": "Jogging",
+        "distance": 6,
+        "timeMin": 33,
+        "timeMax": 35
+      }
+    ]
   },
   {
     "weekDay": "Thursday",
     "type": "Interval Run",
     "image": "interval",
-    "distance": 8.5,
-    "time": 77,
+    "distance": 10.1,
+    "time": 90,
     "description": "Today we will run an interval ladder where we increase the speed the shorter the intervals become. First, we warm up as usual with a leisurely distance jog that takes you to your interval distance. Aim to get to a stretch/round where you can get in 3 minutes of interval speed running without too much hilling.\n\nAfter the warm-up calm run, you first do some mobility and then we put in the week's running training. Run your exercises as you like, and with a range of motion adapted to you and your habit of running training. Then round off the warm-up with two pulse-raising coordination runs and then 1-2 minutes of rest before starting the interval part.\n\nWe run an interval-setup a little adapted so that you could run this together with one/some running buddies, even if you are at different levels. Because then you/you can run \"forward/backward\" on the same distance as the interval steps we will run constantly repeat an interval length twice. (Forward + backward will make you always end up in the same place after every second interval regardless of level)\n\nRiding alone or with a friend, you can of course drive the session forward on a lap if it feels more stimulating than the forward/back layout.\n\nRegardless of the layout, the goal is that you work at a higher speed the shorter the interval time/distance. Keep in mind, however, that in the initial 3 minutes you take it \"just right\" so you find the right fit in the session.\n\nWe rest the same throughout the session of 1 minute standing/walking between each interval.\n\nThe layout of the interval steps will be: \n\nThe interval steps: 2 x 3 min – 2 x 2 min – 2 x 1 min followed by 2 x 2 min – 2 x 1 min\n\n12 + 6 minutes, a total of 18 minutes of interval time. (In time approx. 4 km)\n\nDirectional speeds:\n\n3 minutes: 4.39 min/km in time approx. 645m\n\n2 minutes: 4.25 min/km in time approx. 450m\n\n1 minute: 4.15 min/km in time approx. 235m \n\nAfter the interval part, you round off as usual with a downhill jog and stretch.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "time": 14
       },
       {
         "name": "Dynamic Movement",
@@ -52,26 +80,27 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m"
+        "distanceInfo": "2 x 30m"
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "2 x 80m"
       },
       {
         "name": "Interval Run",
-        "distance": 4,
-        "time": 9
+        "distance": 5.6,
+        "timeInfo": "2 x 2 x (3-2-1) min"
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Stretching",
-        "time": 5
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -85,17 +114,23 @@
     "type": "Easy Run",
     "image": "easy",
     "distance": 6,
-    "time": 41,
+    "time": 74,
     "description": "Calm down just come out and run runes. Time on your own or a chat with a friend.",
     "details": [
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 36
+        "timeMin": 33,
+        "timeMax": 34
       },
       {
-        "name": "Dynamic Movement",
-        "time": 5
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
       }
     ]
   },
@@ -103,18 +138,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 26,
-    "time": 172,
+    "distance": 27,
+    "time": 168,
     "description": "Calm long run - with a slightly shorter distance to give some breathing space before we move on with two more really long long runs in the final phase towards the marathon.\n\n26 km at your comfortable long run speed for the day - keeps everything going - and gives the body a chance to absorb all tough training!\n\nBring a drink to the session, and if you have the opportunity - try taking energy at some point during the session to \"train\" it before the marathon and to have a good energy level during the session!",
     "details": [
       {
-        "name": "Easy pace long run",
-        "distance": 26,
-        "time": 162
+        "name": "Long Run",
+        "distance": 27,
+        "timeMin": 153,
+        "timeMax": 158
       },
       {
-        "name": "Dynamic stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

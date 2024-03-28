@@ -10,21 +10,23 @@
     "type": "Easy Run",
     "image": "easy",
     "distance": 6,
-    "time": 75,
-    "description": "Easy distance running supplemented strength!\n\nStrength with the same setup as last week for those of you who don't run your own strength.",
+    "time": 74,
     "details": [
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 33,
+        "timeMax": 34
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -35,16 +37,15 @@
   },
   {
     "weekDay": "Thursday",
-    "type": "Threshold Run",
-    "image": "threshold",
-    "distance": 9.9,
-    "time": 75,
-    "description": "30 minutes threshold running divided into 3x10 minutes with 1.5 minutes standing/light jogging rest. Target speed Around 5.25 min/km and then gives 10 minutes Around 1.8 km.\n\nFind the speed where you are at or just below the speed where the body starts to accumulate lactic acid.\n\nThe idea is therefore that you should find a pace that you can hold without going completely out. As always, the feeling is more important than the direction, especially if the weather/surface is not favorable and since the week should be somewhat \"calmer\", it is also important that the session is not too hard for you in terms of speed and effort.",
+    "type": "Fartlek Run",
+    "image": "fartlek",
+    "distance": 9,
+    "time": 68,
     "details": [
       {
-        "name": "Warm up",
-        "distance": 2.5,
-        "time": 15
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 11
       },
       {
         "name": "Dynamic Movement",
@@ -52,22 +53,24 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
-        "time": 3
+        "distanceInfo": "3 x 80m"
       },
       {
-        "name": "Threshold Run",
-        "distance": 5.4,
-        "time": 30
+        "name": "Fartlek Run",
+        "distance": 5,
+        "timeMin": 26,
+        "timeMax": 27
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -85,18 +88,20 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 24,
-    "time": 157,
+    "distance": 25,
+    "time": 153,
     "description": "Really long today. Calm speed that you adapt to the surface and weather, so that it feels calm just for you. Ok to shorten 1-2 km without affecting \"that you would fall behind\". Take drinks with you on the session, and be careful with dry clothes and quick energy/fluid intake after you finish the session.",
     "details": [
       {
         "name": "Long Run",
-        "distance": 24,
-        "time": 147
+        "distance": 25,
+        "timeMin": 141,
+        "timeMax": 143
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

@@ -7,38 +7,40 @@
   },
   {
     "weekDay": "Tuesday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
-    "distance": 12,
-    "time": 113,
-    "description": "The marathon run one last time in our long version. Sufficiently tough, and if you are tired, remove or lighten up to a calm 10-12 km round. Prioritize that you get into the hill with a little springy step on Thursday and then that you are charged for the program's longest long run next Sunday.",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 69,
+    "description": "Today we will run an interval ladder where we increase the speed the shorter the intervals become. First, we warm up as usual with a leisurely distance jog that takes you to your interval distance. Aim to get to a stretch/round where you can get in 3 minutes of interval speed running without too much hilling.\n\nAfter the warm-up calm run, you first do some mobility and then we put in the week's running training. Run your exercises as you like, and with a range of motion adapted to you and your habit of running training. Then round off the warm-up with two pulse-raising coordination runs and then 1-2 minutes of rest before starting the interval part.\n\nWe run an interval-setup a little adapted so that you could run this together with one/some running buddies, even if you are at different levels. Because then you/you can run \"forward/backward\" on the same distance as the interval steps we will run constantly repeat an interval length twice. (Forward + backward will make you always end up in the same place after every second interval regardless of level)\n\nRiding alone or with a friend, you can of course drive the session forward on a lap if it feels more stimulating than the forward/back layout.\n\nRegardless of the layout, the goal is that you work at a higher speed the shorter the interval time/distance. Keep in mind, however, that in the initial 3 minutes you take it \"just right\" so you find the right fit in the session.\n\nWe rest the same throughout the session of 1 minute standing/walking between each interval.\n\nThe layout of the interval steps will be: \n\nThe interval steps: 2 x 3 min – 2 x 2 min – 2 x 1 min followed by 2 x 2 min – 2 x 1 min\n\n12 + 6 minutes, a total of 18 minutes of interval time. (In time approx. 4 km)\n\nDirectional speeds:\n\n3 minutes: 4.39 min/km in time approx. 645m\n\n2 minutes: 4.25 min/km in time approx. 450m\n\n1 minute: 4.15 min/km in time approx. 235m \n\nAfter the interval part, you round off as usual with a downhill jog and stretch.",
     "details": [
       {
         "name": "Warm Up",
-        "distance": 1,
-        "time": 6
+        "distance": 2,
+        "time": 11
       },
       {
         "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Marathon Pace Run",
-        "distance": 10,
-        "time": 56
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m",
+        "time": 2
       },
       {
-        "name": "Cool Down",
-        "distance": 1,
-        "time": 6
-      },
-      {
-        "name": "Running Strength Training",
+        "name": "Interval Run",
+        "distance": 5,
         "time": 30
       },
       {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 11
+      },
+      {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -52,13 +54,14 @@
     "type": "Hill Run",
     "image": "hill",
     "distance": 9,
-    "time": 79,
+    "time": 67,
     "description": "Warm up as usual with jogging, mobility and the running training exercises.\n\nThe hill should be a \"slightly steeper version\" but you should be able to run with good strides and be able to last around 20-25 seconds in the uphill and feel a little lactic acid in your legs on top\". Take a few (5-10) seconds of rest both at the turning point of your short hill and before starting the next hill. Focus on a good step with good drive. Work well with slightly faster arm movements and good knee assignments if it comes reasonably naturally to you. No completely unfamiliar movements now...\n\nImportant to unwind with a calm jog and stretch!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 16,
+        "timeMax": 17
       },
       {
         "name": "Dynamic Movement",
@@ -66,65 +69,76 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m",
-        "time": 10
+        "distanceInfo": "2 x 30m"
       },
       {
-        "name": "Short Hill Run",
+        "name": "Hill Run",
+        "style": "Short hill",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Cool Down",
         "distance": 3,
-        "time": 18
+        "time": 17
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
   {
     "weekDay": "Friday",
-    "type": "Rest Day",
-    "image": "rest"
-  },
-  {
-    "weekDay": "Saturday",
     "type": "Easy Run",
     "image": "easy",
     "distance": 6,
-    "time": 40,
+    "time": 74,
     "description": "Easy extra run that really is extra. Of course gives good effect with tomorrow's run; but run no injury or overtraining limits now to get this run. Only for those of you who feel like you're soaking up all the training right now! Prioritize tomorrow...",
     "details": [
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 33,
+        "timeMax": 34
       },
       {
-        "name": "Dynamic Movement",
-        "time": 5
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
   },
   {
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 34,
-    "time": 221,
+    "distance": 35,
+    "time": 213,
     "description": "The program's longest long session!\n\nReally long, and inevitably over 3 hours. YOUR CALM SPEED, and it's ok to slow down a notch more than you usually do to complete the distance!\n\nMake sure you load up with some extra carbohydrates the day before, and bring drinks with you on the run. (feel free to try the sports drink if you haven't done it before) Test your intended competition shoes, and see that they work with your feet all the way.\n\nIt is extremely important that you are careful after the session, with energy, drink and dry clothes so that you do not the situation we're in now will catch you with an unnecessary cold.\n\n-Make sure you get an hour's rest after the session, and don't have to do so much before the body has had time to recover a little at least!",
     "details": [
       {
         "name": "Long Run",
-        "distance": 34,
-        "time": 211
+        "distance": 35,
+        "timeMin": 198,
+        "timeMax": 203
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
