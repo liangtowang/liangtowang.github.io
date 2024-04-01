@@ -16,11 +16,13 @@
       {
         "name": "Easy run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -42,9 +44,10 @@
     "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 7 km fast distance.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Dynamic Movement",
@@ -52,18 +55,19 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m",
+        "distanceInfo": "2 x 30m",
         "time": 10
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
+        "distanceInfo": "2 x 80m",
         "time": 3
       },
       {
-        "name": "Fast Distance Run",
+        "name": "Fast Run",
         "distance": 7,
-        "time": 37
+        "timeMin": 35,
+        "timeMax": 37
       },
       {
         "name": "Cool Down",
@@ -90,17 +94,19 @@
     "description": "Extra sessions that you only include in your total if you feel energetic, and you feel that you responded well to the program's training. Calm distance of 3+3 km where you stop during the round (in the proposal after 3 km and the distance is written as warm-up and jog down) ) and put in a 5x100 meter short hill with a springy step.\n\nTake a little rest up/down (5 -10s) and have a calm jog downhill as your rest as well.\n\nFocus on getting a little pressure uphill without getting really tired!\n\nGood combo with the long session IF you are physically fit in general!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Dynamic Movement",
         "time": 5
       },
       {
-        "name": "Short Slope Run",
-        "info": "5 x 100m",
+        "name": "Hill Run",
+        "style": "Short hill",
+        "distanceInfo": "5 x 100m",
         "time": 10
       },
       {
@@ -110,7 +116,8 @@
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -123,13 +130,15 @@
     "description": "A record for the program. Adapt to your feeling! Shorten it if it feels too tough.\n\nBring drinks; and time to start testing your energy plan for the marathon!",
     "details": [
       {
-        "name": "Easy pace long run",
+        "name": "Long run",
         "distance": 30,
-        "time": 185
+        "timeMin": 180,
+        "timeMax": 185
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

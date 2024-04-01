@@ -14,9 +14,10 @@
     "description": "Today it will be downhill! First warm up with a distance jog that takes you to a hill that should ideally be long enough that you can get in up to 60 seconds of running uphill at a comfortably fast pace. Fairly steep so you can run the entire 60-second stretch uphill at an ok speed.\n\nOnce in place at the hill, you do some mobility and running training.\n\nRunning training; 2 x 20 meters in the bottom counterslope of the hill.\n\nBasic exercises; low skip - high knee lift heel kicks and then you can if you want to add any more exercise (check out the video). Walking rest down the running training distance. Think about good posture and active steps.\n\nThen we start the downhill session itself, and it will be a session where we will work with both longer and shorter slopes.\n\nThe purpose of the session will be to work on running technique, running strength and fitness but also a little different \"pressure in the step\" during the session.\n\nWe start with some 60 second (takes approx. 60 seconds uphill) long hills where we work with good technique but without pushing too much. We run \"nice and controlled\" uphill.\n\nGood to take the first long hill as part of the warm-up.\n\nWhen we then switch to an intermediate variant in the time uphill, it will be a 40-second running time uphill and now you try to increase the pressure in the step a notch but not tougher than that on the closing short \"20 second downhills\" we can increase pressure, range of motion and posture another notch.\n\nThe rest between the slopes is that you stop and rest for a few seconds where we turn, and then we jog down to the start and take a few seconds' rest before starting again.\n\nOn the longer slopes, the jog down can preferably be a little faster, but on the shorter slopes, the jog down can be really calm and preferably also a little the beginning and end of \"the transport is brought down\".\n\nBetween the changes of the hill length, you can also take a few seconds of extra standing rest below the hill so that you are ready to push a notch more on the next variation of the hill length.\n\nYour target picture today will be to run the following number of hills in the respective time length up:\n\n4 x 60 seconds\n\n5 x 40 seconds\n\n5 x 20 seconds\n\nAfter the hill run, you wind down with a leisurely jog followed by some form of stretching.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Dynamic Movement",
@@ -24,12 +25,11 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 20m"
+        "distanceInfo": "2 x 20m"
       },
       {
         "name": "Hill Run",
-        "distance": 5.5,
-        "time": 9
+        "timeInfo": "4x60-5x40-5x20s"
       },
       {
         "name": "Cool Down",
@@ -56,9 +56,10 @@
     "description": "Start today's session with a warm-up distance at a leisurely pace of around 2.5 km, followed by short softening mobility. Then a running training component with some exercises over 2 x 30 meters. Also feel free to do some coordination to get your pulse and speed up before the interval part starts.\n\nThe layout of the interval session will be 200 meter intervals, divided into series with 4 intervals in each series. The rest is 30 seconds of \"standing rest\" between intervals, and then you take 60 seconds of standing/walking rest between each set. The goal picture will be 16 intervals in total, so 4 x 4 x 200 meters.\n\nReally short rest today, which means that the speed should not be pressured or high, but the short rest ensures a good conditioning effect and transfer to your marathon pace will be included supermarginal :)\n\nThe program (and you) should continue to focus on foundational cardio training, but the goal is of course also to get your legs moving without risking injuries through running too fast.\n\nRun through the session with \"one gear left\" , and focus on your technique. Good stately posture and active step. Let the drive of the arms help with the speed without being tempted to sprint for the sake of it!\n\nTarget speed around 4.10-4.15 min/km, which gives around 50-51 seconds per 200 meters.\n\nEnd the session as usual with jogging mobility.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2.5,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Dynamic Movement",
@@ -66,13 +67,13 @@
       },
       {
         "name": "Coordination Run",
-        "info": "1 x 80m",
+        "distanceInfo": "1 x 80m",
         "time": 3
       },
       {
-        "name": "Short Interval Run",
-        "distance": 1.6,
-        "info": "4 x 4 x 200m"
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "4 x 4 x 200m"
       },
       {
         "name": "Cool Down",
@@ -99,7 +100,7 @@
     "description": "To get the week's strength in, we run a separate home session without running. Light easy warm-up \"around the house\", bicycle or other, and then a little lighter strength than usual just to keep the muscles moving and not lose the continuity we built up through strength every week.",
     "details": [
       {
-        "name": "Running Strength Training",
+        "name": "Strength Training",
         "time": 30
       },
       {
@@ -119,10 +120,11 @@
       {
         "name": "Long Run",
         "distance": 26,
-        "time": 160
+        "timeMin": 156,
+        "timeMax": 160
       },
       {
-        "name": "Dynamic Stretching",
+        "name": "Dynamic Stretch",
         "time": 5
       }
     ]

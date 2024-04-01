@@ -14,9 +14,10 @@
     "description": "The long back run returns with the same setup as last week, but we increase it by 5 more minutes on the hill itself.\n\nWarm-up jog, mobility and then the running training over 2x20m before the back run start;\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick every\n\nOn the hill focus on good steps; drive with the whole step and push off right from the \"toes\". RUN \"FINE\", as if someone is pulling your body \"upward on a string\" without losing the power forward...Difficult, but run!!\n\nThe hill gives, regardless of step, technique, a good workout for your steps and technique and also good cardio training!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 18
+        "timeMin": 17,
+        "timeMax": 18
       },
       {
         "name": "Dynamic Movement",
@@ -24,13 +25,15 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 30m",
+        "distanceInfo": "2 x 30m",
         "time": 10
       },
       {
-        "name": "Long Hill Run",
+        "name": "Hill Run",
+        "style": "Long hill",
         "distance": 4,
-        "time": 25
+        "timeMin": 23,
+        "timeMax": 25
       },
       {
         "name": "Cool Down",
@@ -50,14 +53,14 @@
   },
   {
     "weekDay": "Thursday",
-    "type": "Marathon Pace Run",
-    "image": "marathonPace",
+    "type": "Pace Run",
+    "image": "pace",
     "distance": 12,
     "time": 113,
     "description": "You recognize the marathon run and the strength. A bit faster than the distance and your rhythm to the marathon!​",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 1,
         "time": 6
       },
@@ -76,8 +79,9 @@
         "time": 6
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -106,11 +110,13 @@
       {
         "name": "Long Run",
         "distance": 26,
-        "time": 157
+        "timeMin": 155,
+        "timeMax": 157
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

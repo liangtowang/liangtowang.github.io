@@ -16,11 +16,13 @@
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 35
+        "timeMin": 34,
+        "timeMax": 35
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -37,11 +39,14 @@
     "weekDay": "Thursday",
     "type": "Fartlek Run",
     "image": "fartlek",
+    "distance": 10,
+    "time": 70,
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Dynamic Movement",
@@ -49,7 +54,8 @@
       },
       {
         "name": "Coordination Run",
-        "info": "3 x 80m"
+        "distanceInfo": "3 x 80m",
+        "time": 3
       },
       {
         "name": "Fartlek Run",
@@ -88,11 +94,13 @@
       {
         "name": "Long Run",
         "distance": 21,
-        "time": 128
+        "timeMin": 124,
+        "timeMax": 128
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

@@ -14,9 +14,10 @@
     "description": "You let your body control the speed game and it's perfectly okay to let the session be easy.\n\nYou are welcome to \"cheat a little\" with the speed, and just flow through with small speed variations. Aim for shorter bursts of speed, from 30 seconds up to 2 minutes, but don't push too hard. Sometimes it can be nice to just float, and now feels like a good position, at least from the program's perspective. Complete with a full round of strength after the run.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Dynamic Movement",
@@ -24,7 +25,7 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
+        "distanceInfo": "2 x 80m",
         "time": 3
       },
       {
@@ -38,8 +39,9 @@
         "time": 12
       },
       {
-        "name": "Running Strength Training",
-        "time": 30
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
       },
       {
         "name": "Stretching",
@@ -61,9 +63,10 @@
     "description": "A short back run as a break from all distance/amount.\n\n– Good to shift the step a little and reach muscles you may not always activate so well in your running but which are good to keep moving so they can be activated when fatigue sets in longer runs!!\n\nWarm up with a leisurely distance run to your short hill.\n\nThe hill should provide a nice counterslope, but no steeper than you can run with good strides uphill for 20-30 seconds.\n\nA little softening movement when you arrive at the hill. Light running training, preferably in the opposite direction on the hill.\n\nThe short hill means that you run fast for 20-30 seconds up the hill. The rest between hills is a leisurely jog down, combined with a few seconds of standing rest at the top/turn and below the hill before starting the next hill.\n\nRun with good pressure and try to maintain a good technical run. Drive so hard that you just feel a little lactic acid on top. It is important, however, that you run the first hill uphill a little more calmly, so you don't start with shock lactic acid in your legs. See the first slope as part of the warm-up. Find your pace and rhythm uphill. Run with a total time of around 15 minutes on the hill, all time including both running up/down and the standing short rest.\n\nAfter the hill run, it is as usual important that you wind down with a leisurely jog followed by stretching.\n\nAre you running the ASICS Premiärmilen or investing in a really tough training weekend; then you shorten the day to 5-8 short 20-30 s slopes with good steps!",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 3,
-        "time": 19
+        "timeMin": 18,
+        "timeMax": 19
       },
       {
         "name": "Dynamic Movement",
@@ -71,20 +74,23 @@
       },
       {
         "name": "Running Technique",
-        "info": "2 x 20m"
+        "distanceInfo": "2 x 20m"
       },
       {
-        "name": "Short Hill Run",
+        "name": "Hill Run",
+        "style": "Short hill",
         "time": 15
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 15
+        "timeMin": 14,
+        "timeMax": 15
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -102,9 +108,10 @@
     "description": "Fast distance on the schedule today, and for those of you who live in the Stockholm area, you can use a virtual Premiärmilen as your training.\n\nIf you don't run the race, it is \"enough\" to run an 8 km fast distance, and you are welcome to use your test race round as you had previously in the program and see what you have \"above your test 5km\" and then add 3km directly to your 5th.\n\nTarget down to 5.05-5.10 speed, a little slower if the body doesn't really want it. In any case, as always, a harmonious start, but then you are welcome to mobilize mental strength to run really hard.",
     "details": [
       {
-        "name": "Warm up",
+        "name": "Warm Up",
         "distance": 2,
-        "time": 12
+        "timeMin": 11,
+        "timeMax": 12
       },
       {
         "name": "Dynamic Movement",
@@ -112,13 +119,14 @@
       },
       {
         "name": "Coordination Run",
-        "info": "2 x 80m",
+        "distanceInfo": "2 x 80m",
         "time": 3
       },
       {
-        "name": "Fast Distance Run",
+        "name": "Fast Run",
         "distance": 8,
-        "time": 42
+        "timeMin": 41,
+        "timeMax": 42
       },
       {
         "name": "Cool Down",
@@ -142,11 +150,13 @@
       {
         "name": "Long Run",
         "distance": 22,
-        "time": 136
+        "timeMin": 132,
+        "timeMax": 136
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }

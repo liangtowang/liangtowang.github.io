@@ -10,20 +10,22 @@
     "type": "Easy Run",
     "image": "easy",
     "distance": 6,
-    "time": 66,
+    "time": 68,
     "description": "Calm speed and a Round of 6 km followed by the strength of the program if you do not have your own strength in connection with another session in your Training week",
     "details": [
       {
         "name": "Easy Run",
         "distance": 6,
-        "time": 36
+        "timeMin": 36,
+        "timeMax": 38
       },
       {
-        "name": "Running Strength Training",
-        "time": 20
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 20
       },
       {
-        "name": "Dynamic Stretching",
+        "name": "Stretching",
         "time": 10
       }
     ]
@@ -37,14 +39,14 @@
     "weekDay": "Thursday",
     "type": "Threshold Run",
     "image": "threshold",
-    "distance": 10,
-    "time": 71,
+    "distance": 9,
+    "time": 70,
     "description": "Just like last week, the program has a threshold run for you. If you didn't drive the run last week and feel unsure about the layout, go back and check the text there. How the layout will be a little different today compared to last week. Just like then, however, you start with a short distance warm-up and some mobility. If you want, you can also run a light pulse-raising coordination run, but make sure that the warm-up is just a warm-up. The structure of the threshold training today will be threshold runs with a slightly longer running time than last time. Run 6 x 5 minutes, and take a slightly longer jog/walk rest than last time with 45 seconds rest now between each threshold section. A total of 30 minutes threshold time, and target speed if you want it even if your feeling is most important (comfortably tired!) will be like last week Around 5.20-5.25 min/km which gives you Around 5.5 km in total and a little over 900 meters per 5 minute episode. If you don't have a speed indication or you drive by feel 6 x 5 minutes at your comfortable fast speed with a 45 second rest. Relax with a gentle jog and a little stretching, and you have another good basic workout!",
     "details": [
       {
-        "name": "Warm up",
-        "distance": 2.5,
-        "time": 15
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 12
       },
       {
         "name": "Dynamic Movement",
@@ -52,19 +54,18 @@
       },
       {
         "name": "Coordination Run",
-        "time": 6,
-        "info": "1 x 80m"
+        "distanceInfo": "1 x 80m"
       },
       {
         "name": "Threshold Run",
-        "distance": 5.5,
-        "time": 30,
-        "info": "6 x 5 min"
+        "distance": 5,
+        "timeInfo": "6 x 5 min"
       },
       {
         "name": "Cool Down",
         "distance": 2,
-        "time": 12
+        "timeMin": 12,
+        "timeMax": 13
       },
       {
         "name": "Stretching",
@@ -82,17 +83,19 @@
     "type": "Morning Run",
     "image": "morning",
     "distance": 7,
-    "time": 53,
+    "time": 55,
     "description": "Voluntary Christmas gift with a morning jog starts Christmas Eve. It's a tradition here in the program. But don't feel pressure, if you don't get your training, you're just done. ...and of course Merry Christmas from Coach Szalkai​",
     "details": [
       {
         "name": "Morning Run",
         "distance": 7,
-        "time": 43
+        "timeMin": 43,
+        "timeMax": 45
       },
       {
         "name": "Stretching",
-        "time": 10
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   },
@@ -100,18 +103,21 @@
     "weekDay": "Sunday",
     "type": "Long Run",
     "image": "long",
-    "distance": 18,
-    "time": 119,
+    "distance": 17,
+    "time": 120,
     "description": "Today a nice Christmas long run with the goal of reaching the same distance length as last week on the long run with the addition of a small speed element to change the step during your long run.\n\nThis of course assumes that you have ok winter surfaces to be able to increase the speed and that the weather in general allows for a slightly higher heart rate and breathing.\n\nRide calmly for around an hour, and then you add 5 x 1 minute speed increases with 1 minute rest between each speed section.\n\nIt is not an interval, but the idea is to you increase the speed in your 1 minute by around 15-20 seconds faster in kilometer speed than the base speed you have on the rest of the session.\n\nIn the calm minute you have between each speed increase, you take a slightly slower speed than you normally have as your base speed on the long run.\n\nAfter the speed section, you return to your base speed and complete today's 18 km distance.\n\nIn addition, you should remember to bring fluids with you during the long run, even if it is winter. For \"short long sessions\" like this, water can be enough, but since we are going to drive a little faster, it can also feel good to get some energy via sports drink.\n\nAlso think about getting energy as soon as possible after the session so you speed up your recovery after the session. Grab a banana or maybe a recovery drink right after your workout.",
     "details": [
       {
-        "name": "Long Progressive Run",
-        "distance": 18,
-        "time": 109
+        "name": "Long Run",
+        "style": "Progressive",
+        "distance": 17,
+        "timeMin": 108,
+        "timeMax": 110
       },
       {
-        "name": "Dynamic Stretching",
-        "time": 10
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
       }
     ]
   }
