@@ -8,7 +8,7 @@
   {
     "weekDay": "Tuesday",
     "type": "Interval Run",
-    "image": "fast",
+    "image": "interval",
     "distance": 6,
     "time": 75,
     "description": "In the phase we are in the program now, you should not be fooled and intimidated by short intervals. It is and should be a session where you \"just\" should be reasonably tired. An \"easy way\" to work on your fitness and oxygen uptake at the same time that you will work a little with your faster muscle fibers. Warm up with light jogging, mobility and some coordination runs. Then our short interval, where we will have a really short rest to keep the speed from getting too high. We run 10 x 200 m or if you run on \"clock\" you take 10 x 50 seconds. The rest is standing for 30 seconds, which means that you should not run too fast, but only a few notches faster than your distance run. Find your rhythm and if you feel that it feels good, you can push a little more in the last 2-3 intervals if you feel like it, but overall a \"just enough run\". Guideline, if you want it, can be a bit over 4.00 min/km in speed. Wind down with a leisurely jog and thoroughly stretch your muscles after you put in the week's running strength. So a great session today with many moments!",
@@ -28,6 +28,7 @@
       },
       {
         "name": "Interval Run",
+        "style": "Short interval",
         "distanceInfo": "10 x 200m",
         "timeInfo": "10 x 50s"
       },
@@ -42,7 +43,7 @@
         "timeMax": 20
       },
       {
-        "name": "Dynamic Stretching",
+        "name": "Dynamic Stretch",
         "timeMin": 5,
         "timeMax": 10
       }
@@ -105,6 +106,7 @@
     "details": [
       {
         "name": "Morning Run",
+        "style": "Jogging",
         "distance": 4,
         "timeMin": 23,
         "timeMax": 25

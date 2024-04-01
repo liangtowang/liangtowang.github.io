@@ -107,7 +107,8 @@
     "description": "Today a nice Christmas long run with the goal of reaching the same distance length as last week on the long run with the addition of a small speed element to change the step during your long run.\n\nThis of course assumes that you have ok winter surfaces to be able to increase the speed and that the weather in general allows for a slightly higher heart rate and breathing.\n\nRide calmly for around an hour, and then you add 5 x 1 minute speed increases with 1 minute rest between each speed section.\n\nIt is not an interval, but the idea is to you increase the speed in your 1 minute by around 15-20 seconds faster in kilometer speed than the base speed you have on the rest of the session.\n\nIn the calm minute you have between each speed increase, you take a slightly slower speed than you normally have as your base speed on the long run.\n\nAfter the speed section, you return to your base speed and complete today's 18 km distance.\n\nIn addition, you should remember to bring fluids with you during the long run, even if it is winter. For \"short long sessions\" like this, water can be enough, but since we are going to drive a little faster, it can also feel good to get some energy via sports drink.\n\nAlso think about getting energy as soon as possible after the session so you speed up your recovery after the session. Grab a banana or maybe a recovery drink right after your workout.",
     "details": [
       {
-        "name": "Long Progressive Run",
+        "name": "Long Run",
+        "style": "Progressive",
         "distance": 18,
         "timeMin": 105,
         "timeMax": 109
