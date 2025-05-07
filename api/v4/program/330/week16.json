@@ -1,0 +1,143 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 84,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 40,
+        "timeMax": 44
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretch",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 79,
+    "description": "You let your body control the speed game and it's perfectly okay to let the session be easy.\n\nYou are welcome to \"cheat a little\" with the speed, and just flow through with small speed variations. Aim for shorter bursts of speed, from 30 seconds up to 2 minutes, but don't push too hard. Sometimes it can be nice to just float, and now feels like a good position, at least from the program's perspective. Complete with a full round of strength after the run.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "timeInfo": "4 x 4 x 40s"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 14,
+    "time": 89,
+    "description": "Fast distance on the schedule today, and for those of you who live in the Stockholm area, you can use a virtual Premiärmilen as your training.\n\nIf you don't run the race, it is \"enough\" to run an 8 km fast distance, and you are welcome to use your test race round as you had previously in the program and see what you have \"above your test 5km\" and then add 3km directly to your 5th.\n\nTarget down to 5.05-5.10 speed, a little slower if the body doesn't really want it. In any case, as always, a harmonious start, but then you are welcome to mobilize mental strength to run really hard.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 10,
+        "timeMax": 11
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Fast Run",
+        "distance": 10,
+        "timeMin": 45,
+        "timeMax": 48
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 25,
+    "time": 139,
+    "description": "A shorter long session today, because the program's layout is based on the idea that today's long session should come in combination with a tougher fast distance yesterday.\n\nDid you not run a little harder yesterday, and everything feels ok today, of course you can extend the session a bit if you want; or you still do \"only\" 22 km and give your body a somewhat calmer weekend!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 25,
+        "timeMin": 125,
+        "timeMax": 129
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

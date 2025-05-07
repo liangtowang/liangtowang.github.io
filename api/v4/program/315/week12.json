@@ -1,0 +1,171 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "We pulse up again to a very considerable amount and good training!! Introduction with the \"maradistan session\" and then on Thursday we start your and the program's hill running with running training in the warm-up!!\n\nIf the winter surface does not allow hill running/running training, then you convert the session into some fartlek. If you run the hill on a treadmill (which is perfectly fine), you can add the running training to another session that you run outside. (Tuesday or Saturday, because it's difficult to do running training on a treadmill)\n\nHope you find the right one, and don't be \"frightened\" by the slope. You will get tired, but certainly not exhausted. The hill gives the best effect if you run just right in the early period we are in now!! If you do everything on that run, it is easy to burn both the psyche and also physically. See the training as a big whole, and then no individual sessions must be too tough!\n\nOn Sunday, there will be an adjustment in the program with a brand new session that the coach calls marathon tweezers. The target image is that the session should provide long-distance volume, but that you collect the volume via 16 x 1 km at a slightly faster pace than your planned average speed on the marathon.\n\nThe goal of the session is that you will work on your oxygen uptake (fitness) in a gentle way at the same time that you are both physically and mentally training to hold on for a long time at a higher speed than a long session pace."
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Speed Run",
+    "image": "speed",
+    "distance": 12,
+    "time": 68,
+    "description": "Feel your marathon pace in the distance workout today. 1 km calmly at first and then the goal is a full 10 km at your intended marathon pace; if everything feels ok and the surface/temperature is suitable for running.\n\nDoesn't want the body; then you take 10-12 km at your leisurely pace for the day.",
+    "details": [
+      {
+        "name": "Speed Run",
+        "style": "Progressive",
+        "distance": 10,
+        "timeMin": 44,
+        "timeMax": 47
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "5 x 100m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "timeMin": 5,
+        "timeMax": 6
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 8,
+    "time": 86,
+    "details": [
+      {
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretching",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 10.6,
+    "time": 68,
+    "description": "Two new elements in the training program in today's session.\n\nThe main element \"Long hill\"\n\nRunning strength and the technique element running training.\n\nWarm up with a distance jog to a hill you know. The slope should not be \"too steep\" but nicely runnable all the way. If it is \"wintery ground\" you can adapt accordingly and run calmly and also do the run training calmly.\n\nAfter the warm-up, you do some light mobility and then at the beginning of \"your hill\" you do running training before the hill session itself .\n\nRunning training exercises you run on a 20 meter stretch up your hill. Rest once down. We start by doing one round of each exercise, \"just introducing\" the movement pattern.\n\n1x20m av:\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick each\n\n(see video for the execution)\n\nAfter the heel kick, your heart rate has picked up a bit and you can start your \"hill\".\n\nFocus on finding the right pace and running \"right on the hill\".\n\nThe goal is to have about 60 seconds in the climb. (50-70 seconds ok). You run nicely and controlled uphill, and get a little tired. Stop and rest for a few seconds at the \"top\" or where you turn, then jog down leisurely to the start. Repeat and run a total of 17-19 minutes on the hill. In the \"total time\" you include both the run up and the jog down and also the small rest time at the top. (keep the clock ticking).\n\nUnwind calmly as usual and stretch your muscles thoroughly because the running training and the hill have surely \"contracted\" your muscles a little extra.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 9,
+        "timeMax": 10
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "1 x 30m"
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distanceInfo": "2 x 2.3 km",
+        "timeInfo": "2 x 10 min"
+      },
+      {
+        "name": "Hill Run",
+        "style": "Long hill",
+        "time": 10
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 51,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 24,
+        "timeMax": 25
+      },
+      {
+        "name": "Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Dynamic Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 25,
+    "time": 137,
+    "description": "Today we're going to run a new element of the program that the coach calls \"marathon crunches\", and it simply means that instead of a regular long run, you must accumulate long run volume by running many \"calm\" 1 km intervals.\n\nIn the long run volume that is created, we also count up and down by 2-3 km.\n\nSo start the session with a few kilometers of leisurely running. Stop and do some mobility for your joints/ligaments and running muscles. If you want, you can also include some simple and softening running training exercises. Then you're ready to start your 1 km intervals.\n\nA target speed might be to run around 25-35 seconds faster in minutes per kilometer than your normal long run pace. In order to get an optimal setup, you can advantageously start the first 1 km intervals a little slower/calmer than the specified \"guide speed\", so maybe \"only\" 20 seconds faster than the long run pace, in order to then have the capacity to increase the speed a little afterwards and that the last The 1 km intervals will be the fastest - even though you then have the most volume in your legs.\n\nWe adjust the number of intervals based on how long the intervals take, so the faster the runner, the more intervals.\n\nSo for you with 4:00 as a time goal today we aim to run 16 x 1 km and the target speed after you get started will be Around 5:35 down to 5:25 min/km if we start from 6:00 min/km at long run pace.\n\nThe rest between every \"marathon tussle\" you take a 45-60 second standing/walking rest.\n\nEven if it's not a long session, you will be out for a long time with ups and downs, so feel free to bring a drink with you during the session, and especially today when you want to run faster, it may be time to drink energy at some of the rests or some energy gel. (or whatever you like)\n\nMentally; don't think about how many you have left at the beginning, but focus on your running technique, to run relaxed but still \"active\", because now you should have a slightly more active step than your normal long-run step. After a while, there are \"only\" a few intervals left, and then you can start counting down!\n\nAfter the last intervals, exhale before finishing the session with a few kilometers of calm deceleration and finished easy mobility for the running muscles that have had to work!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Marathon Crunch Run",
+        "distanceInfo": "19 x 1 km",
+        "timeInfo": "19 x 4:00-4:15 min/km"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      }
+    ]
+  }
+]

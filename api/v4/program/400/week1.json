@@ -1,0 +1,89 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "This was an easy program with rest right away!!! \n\nNo, we will train as well, but since the program has Tuesday/Thursday/Sunday as the main training days, we will rest today. In fact it is rest that is an important element in all training plans.\n\nRest builds up between all the training sessions, but to build up we of course need to train as well.\n\nBut today your training task will just be to mentally set yourself up for to actual training for the marathon; and tomorrow we start the training itself!!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 45,
+    "description": "The program's first training day will be an easy distance run. We are aiming for 6km, at your leisurely distance pace. Run as it feels natural to you, if it's 33 or 36 minutes, that's fine. However, the program specifies 34-35 minutes as a guideline, but thus nothing that you absolutely have to keep. Run so that you could talk throughout the round then you have the right level! After the run, you stretch out the running muscles. Just as good to introduce the stretch as a routine right from the start of training!​",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 34,
+        "timeMax": 35
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 45,
+    "description": "Calm distance that builds the foundation, but then we also supplement with something called a coordination race; which I want to include in order to easily activate your running muscles without pressure and stress somewhat differently than via distance and long-distance running. \n\nThe coordination races are slightly faster running over 60-100 meters, where we run with good technique, work on speed in a gentle way. We will have the moment in the future, but usually in the warm-up before quality running. \n\nTry to be with the moment, without pressing or stressing and risking stretching. The rest between your coordinations is a leisurely walk back to the starting point. \n\nToday we introduce this with 3 x 80-100 meters. If you don't have a distance, take 5x20 seconds for simplicity's sake (without it being your speed). \n\nRun nice and high; see yourself as a nicely running elite runner....with an active front foot. \n\nNOTE; if it is very wintry and slippery, you wait to introduce the coordination races.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 34,
+        "timeMax": 35
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 80-100m"
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 17,
+    "time": 114,
+    "description": "The program kicks off with a long run straight away. However, today's session assumes that you had some running earlier in your autumn training and not just since the program started on Tuesday. If you feel that 17km is too far, shorten it to as far as feels good.\n\nCalm, nice pace, preferably a little slower than your distance running. Guideline speed is 5.50-6.00 min per km, but you should therefore take your leisurely pace and then it just gives your time over 17km. Stretch easily after the session, and feel free to bring drinks with you to the session already now, even if the time out today does not require liquid.\n\nIf you bring the liquid with you now, you immediately establish a good routine that you have take advantage when the long runes get longer!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 17,
+        "timeMin": 100,
+        "timeMax": 104
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

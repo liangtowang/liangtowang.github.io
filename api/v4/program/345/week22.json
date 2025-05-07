@@ -1,0 +1,167 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "Intermediate week with speed and recovery long session.\n\nFocus on giving the body a slightly calmer training and getting in short intervals (without speed that risks any damage). The feeling of long workouts is of course good to maintain - but the coach intends to make it shorter this year so you can recharge for the following week's longest long workouts"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Pace Run",
+    "image": "pace",
+    "distance": 14,
+    "time": 88,
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 1,
+        "timeMin": 5,
+        "timeMax": 6
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 60m",
+        "time": 2
+      },
+      {
+        "name": "Marathon Pace Run",
+        "distance": 12,
+        "timeMin": 63,
+        "timeMax": 64
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "time": 6
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 67,
+    "description": "Easy extra run that really is extra. Of course gives good effect with tomorrow's run; but run no injury or overtraining limits now to get this run. Only for those of you who feel like you're soaking up all the training right now! Prioritize tomorrow...",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 31,
+        "timeMax": 32
+      },
+      {
+        "name": "Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 84,
+    "description": "You recognize the short intervals. The last time where you run 15 pieces of 200 meters.\n\nTarget slightly faster than the last time if you have a good day. So a little under 4.00 pace and thus under 48 seconds per 200 meters.\n\nWe keep the rest at 45s between intervals and 90 s between series.\n\nFloat, but still a little pressure in the step on the last series. Allow yourself to be tired....if you have an ok day!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 16
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m",
+        "time": 10
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 80m",
+        "time": 5
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "3 x 5 x 200m",
+        "time": 22
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 16
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 53,
+    "description": "Easy extra run that really is extra. Of course gives good effect with tomorrow's run; but run no injury or overtraining limits now to get this run. Only for those of you who feel like you're soaking up all the training right now! Prioritize tomorrow...",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 43,
+        "timeMax": 45
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 60m",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 27,
+    "time": 167,
+    "description": "The program breaks off with a slightly shorter long session. If a long session can feel short?\n\nThe session maintains your long session feeling, but hopefully gives the body a chance to absorb all the training.\n\nCoach Szalkai wants this slightly shorter long session to now give you a small \"buffer\" both mentally and physically before the upcoming last tough part of the program - before the tapering starts towards the marathon, which is now only less than 4 weeks away.\n\nSo calm base speed and a little shorter, but of course with the usual long-run advice where drink/energy is included and that you be careful after the session with dry clothes and new energy in so you don't open up to catching an unnecessary cold now!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 27,
+        "timeMin": 152,
+        "timeMax": 157
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "Good three-session week where our short intervals return so that you can work with a different step than at distance/threshold and so that you can work a little on your fitness development. 12 x 200 meters straight will be this week's speed session.\n\nBut before that we run distance and strength on Tuesday and then we work up the long session to a half marathon on Sunday!\n\nSo really long on Sunday, but at exactly your leisurely long session pace. Hope everything feels good and you are charged for a new step in your training.​"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 11,
+    "time": 70,
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 9,
+        "timeMax": 10
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distanceInfo": "3 x 2.3 km",
+        "timeInfo": "3 x 10 min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 76,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 66,
+    "description": "Our short intervals will return; now with 5 more intervals than the last time we ran the session and no series rest but 12 x 200 meters straight. Warm up with light jogging, mobility and some coordination runs.\n\nThen short intervals, where we run 12 x 200 m or if you run on a \"clock\" you take 12 x 50 seconds. The rest is standing/walking 40 seconds , which means that you can get up to speed and keep a good speed without pushing everything for the sake of it. Have a gear saved. It is and should be a session where you \"just\" should be reasonably tired. An \"easy way\" to work on your fitness and oxygen uptake at the same time that you will muscularly work a little with your faster muscle fibers.\n\nGuided speed if you want it can be to lie in 4.10-4.15 min/km at speed. (Gives 50-51 seconds per 200 meters)\n\nRelax with a leisurely jog and stretch the muscles thoroughly. The calves and backs of the thigh muscles are usually strained a little extra by the \"overrun\".",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "15 x 200m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 51,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 25,
+    "time": 141,
+    "description": "One step up...now we run a half marathon with almost 5 km extra!!\n\n26 km at your leisurely pace. Feel free to take short walks in connection with drinking; for drinks, you must bring them with you on the run!\n\nIf you are not quite ready or the weather is not really long run-friendly, of course it is perfectly fine to cut something short!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 25,
+        "timeMin": 125,
+        "timeMax": 131
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

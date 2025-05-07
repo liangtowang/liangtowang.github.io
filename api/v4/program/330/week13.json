@@ -1,0 +1,148 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Tempo Run",
+    "image": "tempo",
+    "distance": 12,
+    "time": 69,
+    "description": "3x10 minutes with 1.5 minutes standing/light jogging rest. Direction as before Around 5.25 min/km and then gives 10 minutes Around 1.8 km. You don't need to push harder than before, but the training unit is the one that will develop you!\n\nAs always, the feeling is more important than the target speed so find your speed between comfortable and uncomfortable quickly!!​",
+    "details": [
+      {
+        "name": "Tempo Run",
+        "distance": 12,
+        "timeMin": 61,
+        "timeMax": 64
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 78,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 42,
+        "timeMax": 43
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 11,
+    "time": 77,
+    "description": "Long hill and running training that you still have the feeling for the setup from last week?!\n\nWarm up with a distance jog to a hill you know. The hill should not be \"too steep\" but nicely runnable all the way.\n\nAfter the warm-up, you do some light mobility and then at the beginning of \"your hill\" you do running training before the hill session itself.\n\nRunning training exercises run you on a 20 meter stretch up your hill. Rest once down. We increase to 2x20 meters of all the exercises or if you think it's a lot, you choose exercise 2-4-5.\n\n1x20m of:\n\n1. Low Skip\n\n2. High Skip\n\n3. Bouncing steps\n\n4. Multistep\n\n5. Heel kick every\n\nAfter the heel kick you have got your heart rate up a bit and can start your \"hill\".\n\nFocus on finding the right pace and running \"just right for the hill\".\n\nThe goal is to have approx. 60 seconds in the uphill. (50-70 seconds ok). You run nicely and controlled uphill, and get a little tired. Stop and rest for a few seconds at the \"top\" or where you turn, then jog down leisurely to the start. Repeat and run a total of 17-19 minutes on the hill. In the \"total time\" you include both the run up and the jog down and also the small rest time at the top. (keep the clock rolling).",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 4,
+        "timeMin": 21,
+        "timeMax": 22
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "1 x 20m",
+        "time": 5
+      },
+      {
+        "name": "Hill Run",
+        "style": "Long hill",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Cool Down",
+        "distance": 4,
+        "timeMin": 21,
+        "timeMax": 23
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 54,
+    "description": "Easy distance and the strength of the week here.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "time": 27
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "5 x 100m",
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 24,
+    "time": 143,
+    "description": "The long run is 24 km today if everything feels good. Your calm speed, so no weirdness. Drink during/after and energy after. Good to now possibly also have some \"energy out on the run\". Either in the form of a sports drink if you don't already do it, or in the form of something \"sweet\" that can raise the blood sugar a little at the end of the session!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 24,
+        "timeMin": 128,
+        "timeMax": 133
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

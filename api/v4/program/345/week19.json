@@ -1,0 +1,150 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "A slightly calmer start to the week may be needed, so take a maximum of 6 km there so you can bring home all the training done and to come. Because the rest of the week and the coming weeks are tough. Be responsive and remove/lighten trainings if you need to. The fast distance is long; and tough and late for the weekend, you skip the short downhill section if you are tired. More important to get the long run."
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 82,
+    "description": "Today we will run an interval ladder where we increase the speed the shorter the intervals become. First, we warm up as usual with a leisurely distance jog that takes you to your interval distance. Aim to get to a stretch/round where you can get in 3 minutes of interval speed running without too much hilling.\n\nAfter the warm-up calm run, you first do some mobility and then we put in the week's running training. Run your exercises as you like, and with a range of motion adapted to you and your habit of running training. Then round off the warm-up with two pulse-raising coordination runs and then 1-2 minutes of rest before starting the interval part.\n\nWe run an interval-setup a little adapted so that you could run this together with one/some running buddies, even if you are at different levels. Because then you/you can run \"forward/backward\" on the same distance as the interval steps we will run constantly repeat an interval length twice. (Forward + backward will make you always end up in the same place after every second interval regardless of level)\n\nRiding alone or with a friend, you can of course drive the session forward on a lap if it feels more stimulating than the forward/back layout.\n\nRegardless of the layout, the goal is that you work at a higher speed the shorter the interval time/distance. Keep in mind, however, that in the initial 3 minutes you take it \"just right\" so you find the right fit in the session.\n\nWe rest the same throughout the session of 1 minute standing/walking between each interval.\n\nThe layout of the interval steps will be: \n\nThe interval steps: 2 x 3 min – 2 x 2 min – 2 x 1 min followed by 2 x 2 min – 2 x 1 min\n\n12 + 6 minutes, a total of 18 minutes of interval time. (In time approx. 4 km)\n\nDirectional speeds:\n\n3 minutes: 4.39 min/km in time approx. 645m\n\n2 minutes: 4.25 min/km in time approx. 450m\n\n1 minute: 4.15 min/km in time approx. 235m \n\nAfter the interval part, you round off as usual with a downhill jog and stretch.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m",
+        "time": 10
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "3 x 5 x 200m",
+        "time": 20
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 17
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 12,
+    "time": 83,
+    "description": "Fast Distance run. If everything feels good, you can be spurred on by pushing the time, and hopefully it will go a little faster now than at the beginning of our training program. Target image around 5.00 min/km at speed.\n\nHowever, think about the whole of your training where no single session must be too hard. Worn out; Run through without a time ambition, and above all let the body get into the session through a slightly softer introduction to your 8 km fast distance.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 80m",
+        "time": 5
+      },
+      {
+        "name": "Fast Run",
+        "distance": 7,
+        "time": 34
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 74,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 33,
+        "timeMax": 34
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 31,
+    "time": 190,
+    "description": "A record for the program. Adapt to your feeling! Shorten it if it feels too tough.\n\nBring drinks; and time to start testing your energy plan for the marathon!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 31,
+        "timeMin": 175,
+        "timeMax": 180
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

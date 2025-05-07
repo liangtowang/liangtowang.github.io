@@ -1,0 +1,107 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "This week is meant to be a slightly easier week, but I don't really know if almost 40 km is easier? Well now that's it!! So make sure that the first session of the week is really calm and adjust the threshold session according to how you feel in general and of course according to external circumstances. Sunday's long run is what pulls up the week's volume, as the run now stretches out to a full 24 km. If you fix it at a leisurely pace, I think you are well suited to the training plan for the Asics Stockholm Marathon! But if you are tired, shorten the threshold to 2 x 10 min or the long session to Around 20 km."
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 75,
+    "description": "Easy distance running supplemented strength!\n\nStrength with the same setup as last week for those of you who don't run your own strength.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 34,
+        "timeMax": 35
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 9.9,
+    "time": 75,
+    "description": "30 minutes threshold running divided into 3x10 minutes with 1.5 minutes standing/light jogging rest. Target speed Around 5.25 min/km and then gives 10 minutes Around 1.8 km.\n\nFind the speed where you are at or just below the speed where the body starts to accumulate lactic acid.\n\nThe idea is therefore that you should find a pace that you can hold without going completely out. As always, the feeling is more important than the direction, especially if the weather/surface is not favorable and since the week should be somewhat \"calmer\", it is also important that the session is not too hard for you in terms of speed and effort.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2.5,
+        "timeMin": 14,
+        "timeMax": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Threshold Run",
+        "distanceInfo": "3 x 1.8 km",
+        "timeInfo": "3 x 10 min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 24,
+    "time": 157,
+    "description": "Really long today. Calm speed that you adapt to the surface and weather, so that it feels calm just for you. Ok to shorten 1-2 km without affecting \"that you would fall behind\". Take drinks with you on the session, and be careful with dry clothes and quick energy/fluid intake after you finish the session.",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 24,
+        "timeMin": 140,
+        "timeMax": 147
+      },
+      {
+        "name": "Dynamic Stretch",
+        "time": 10
+      }
+    ]
+  }
+]

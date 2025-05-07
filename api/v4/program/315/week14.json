@@ -1,0 +1,127 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 12,
+    "time": 107,
+    "description": "Easy distance and the strength of the week here.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 12,
+        "timeMin": 60,
+        "timeMax": 62
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretching",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 11,
+    "time": 81,
+    "description": "You recognize the hill run.",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m"
+      },
+      {
+        "name": "Hill Run",
+        "style": "Long hill",
+        "distance": 5,
+        "time": 25
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "timeMin": 15,
+        "timeMax": 16
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 51,
+    "description": "Easy distance and the strength of the week here.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 24,
+        "timeMax": 26
+      },
+      {
+        "name": "Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Dynamic Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 29,
+    "time": 152,
+    "description": "29 km at your leisurely pace for the day. The distance and the time out is the tough part, and not the speed. Drink along and energy and fluids after roughly 2.5 hours today.",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 29,
+        "timeMin": 145,
+        "timeMax": 147
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  }
+]

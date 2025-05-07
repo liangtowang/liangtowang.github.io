@@ -1,0 +1,122 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 55,
+    "description": "8 km at your leisurely distance speed, supplemented with strength training. If you have \"your own strength training\" in connection with another session in the week, you take it as your strength. But if you don't have a strength training session, I think it would be good if you could incorporate the strength of the program once a week. The goal of the strength is that it should help you get a good posture in your running and that it is injury-preventive in the long run. Here is a suggestion for a simple strength program that you can do at home. But of course you can compose your own strength. The focus will be on exercises for the torso (stomach/back).\n\nThe running strength exercises are described on the link \"Running strength\" End the strength session with a thorough stretch. It's good to have a \"scheduled stretching session\" at least once a week.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 44,
+        "timeMax": 45
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 10,
+    "time": 71,
+    "description": "There is a long way to go before our final goal, so we won't run really tough sessions right now, but we will work from the start with something called threshold running.\n\n\"The threshold concept\" means that you should run around the highest speed you can over the specified distance without accumulating fatigue substances in the muscles. (Often called lactic acid). A bit hard to describe, but if you're above it, it can only be a few notches faster than your distance running and the more you're used to the pace, the closer you can be to your limit and dare to push something more.\n\nSo try to find the position where you lie down for a while and get \"just tired\" like that. Then you will move your threshold a little bit with the help of the training.\n\nSo at the beginning it is better to go a little too slowly than too fast. So comfortably tired!\n\nBefore you start the main part, you take a short calm distance warm-up and some mobility.\n\nThen you are ready for the start and the goal today is to run 10 x 3 minutes threshold. A total of 30 minutes of threshold running. Take a 30 second rest with a light jog or walk between each section.\n\nPlease note that it is just THRESHOLD and not intervals, even though today we are breaking it up into so many shorter runs.\n\nDo you want a target speed and don't just go by feel, a guideline can be around 5.20-5.25 min/km, so slightly faster than your intended marathon pace. That speed will give you around 550 meters per each 3-minute segment.\n\nRewind with a leisurely jog as the end of the session and briefly stretch the running muscles.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distance": 6,
+        "timeInfo": "10 x 3 min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 58,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 27,
+        "timeMax": 28
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 20
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 19,
+    "time": 120,
+    "description": "The progression in your long session has started, and we are increasing by 1 km compared to last week. As always, \"guidelines\", but you should start from your own calm speed. If you drove shorter last week, or feel that the start was too tough and you need a slightly softer start, shorten the long session slightly. Suitable to increase 1.5-2 km compared to last week, for those of you who drove shorter then.\n\nIf you haven't already got a hydration belt, now might be the time; so that you already take liquid with you on \"our short\" long runes. The liquid improves performance and stamina during the sessions, and helps your recovery to be faster along with a good intake of energy immediately after the session. However, water is enough during the session, but the longer it is, the more benefit you can, mentally and physically, have a little benefit from a weakly mixed sports drink.\n\nStretch out your running muscles easily after your long session!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 19,
+        "timeMin": 107,
+        "timeMax": 110
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

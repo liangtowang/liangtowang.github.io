@@ -1,0 +1,120 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "The training program continues, and if you are tired from the recent tough training, it may be time to \"pulse down this week\".\n\nTo make the week a little easier, you can remove or shorten sessions and then hopefully you are then both keen on and receptive to a really long session on Sunday - a session that is the week's focus session provided you are not \"too tired\".\n\nIf everything goes smoothly, then you can drive, of course you can drive the week in full; and then a good back run can be suitable for both running strength, running technique and cardio training!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 10,
+    "time": 100,
+    "description": "Calm down just come out and run runes. Time on your own or a chat with a friend.",
+    "details": [
+      {
+        "name": "Easy run",
+        "distance": 10,
+        "timeMin": 50,
+        "timeMax": 55
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 10,
+        "timeMax": 15
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 10,
+    "time": 77,
+    "description": "Today the plan is for us to run a combination variant with both some long but also short slopes. For volume for the run, we take a distance warm-up of 3 km. Then the running training before the back start. On the hill, we run by number instead of time, but make a short estimate that it will take around 17-18 minutes and will be at least 2 km in total. The set-up will be 3x60 second hills, followed by 4x40 seconds and ending on the hill with 4x20 second hills. The time indicated in the uphill and rest between each hill is a light jog down the hill and a 5-10 second standing rest at the \"up\" and \"down\" turns. Try to come up with a plan where the long hills go in at a speed where you can run \"nice\" and without getting completely exhausted. Work harder on the 40-second hill and then on the 20-second hill, I hope the hill is short enough that you can bounce uphill with good pressure. The choice of slope is based on the assumption that you will be able to handle the slope on the long slope, so do not choose a slope that is \"too steep\".",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 30m"
+      },
+      {
+        "name": "Hill Run",
+        "distance": 4,
+        "timeMin": 20,
+        "timeMax": 22
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 5,
+    "time": 26,
+    "details": [
+      {
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 5,
+        "timeMin": 25,
+        "timeMax": 26
+      }
+    ]
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 34,
+    "time": 188,
+    "description": "Record-long long run. 34 km if everything goes smoothly\n\nImportant to be responsive to the signals; tired, yes, then you shorten today's long session. Drink, during and after and energy during and after the session!!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 34,
+        "timeMin": 170,
+        "timeMax": 178
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

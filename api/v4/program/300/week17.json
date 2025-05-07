@@ -1,0 +1,136 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "Hope the training goes smoothly and that it is now facilitated by the fact that it is a little spring!!\n\nA varied week in terms of training, as the coach includes, among other things, a hill run with different lengths where you can work with different speeds and range of motion in your run based on the length of the hill . Thursday features foundational short intervals where you run your for-the-season comfortably fast pace; whatever you do will be a good transition to everything else.\n\nFind your flow; and DO NOT push HARD on the short intervals.\n\nSunday the long session rolls on as usual and now with 28 km as the target; at your leisurely pace!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Speed Run",
+    "image": "speed",
+    "distance": 12,
+    "time": 71,
+    "details": [
+      {
+        "name": "Speed Run",
+        "style": "Progressive",
+        "distance": 10,
+        "timeMin": 43,
+        "timeMax": 46
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "5 x 100m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "time": 5
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 10,
+    "time": 79,
+    "description": "Today it will be downhill! First warm up with a distance jog that takes you to a hill that should ideally be long enough that you can get in up to 60 seconds of running uphill at a comfortably fast pace. Fairly steep so you can run the entire 60-second stretch uphill at an ok speed.\n\nOnce in place at the hill, you do some mobility and running training.\n\nRunning training; 2 x 20 meters in the bottom counterslope of the hill.\n\nBasic exercises; low skip - high knee lift heel kicks and then you can if you want to add any more exercise (check out the video). Walking rest down the running training distance. Think about good posture and active steps.\n\nThen we start the downhill session itself, and it will be a session where we will work with both longer and shorter slopes.\n\nThe purpose of the session will be to work on running technique, running strength and fitness but also a little different \"pressure in the step\" during the session.\n\nWe start with some 60 second (takes approx. 60 seconds uphill) long hills where we work with good technique but without pushing too much. We run \"nice and controlled\" uphill.\n\nGood to take the first long hill as part of the warm-up.\n\nWhen we then switch to an intermediate variant in the time uphill, it will be a 40-second running time uphill and now you try to increase the pressure in the step a notch but not tougher than that on the closing short \"20 second downhills\" we can increase pressure, range of motion and posture another notch.\n\nThe rest between the slopes is that you stop and rest for a few seconds where we turn, and then we jog down to the start and take a few seconds' rest before starting again.\n\nOn the longer slopes, the jog down can preferably be a little faster, but on the shorter slopes, the jog down can be really calm and preferably also a little the beginning and end of \"the transport is brought down\".\n\nBetween the changes of the hill length, you can also take a few seconds of extra standing rest below the hill so that you are ready to push a notch more on the next variation of the hill length.\n\nYour target picture today will be to run the following number of hills in the respective time length up:\n\n4 x 60 seconds\n\n5 x 40 seconds\n\n5 x 20 seconds\n\nAfter the hill run, you wind down with a leisurely jog followed by some form of stretching.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 4,
+        "timeMin": 18,
+        "timeMax": 19
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 20m"
+      },
+      {
+        "name": "Hill Run",
+        "style": "Short hill",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 76,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 30,
+    "time": 155,
+    "description": "30 km long run. Long but still not maxed out in distance and only your relatively \"calm\" long run speed for the day. Shorten if the body is worn. The whole is most important - and we have several more weekends to work on the long run foundation before the marathon.",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 30,
+        "timeMin": 140,
+        "timeMax": 150
+      },
+      {
+        "name": "Dynamic Stretch",
+        "time": 5
+      }
+    ]
+  }
+]

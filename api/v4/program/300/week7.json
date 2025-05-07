@@ -1,0 +1,139 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "The beginning of the week should be really calm, and the fartlek in particular is a good session to have in a week that should be calmer because your feeling and your body completely control how hard or how calm the session will be. But keep in mind that Monday to Saturday should be \"recovery\" but still maintain everything we built! Listen to your body, because programs unfortunately don't know how it feels to you. Keep in mind that a quiet week is now followed by tough training in the coming weeks!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 12,
+    "time": 78,
+    "description": "Easy SHORT distance, supplemented with strength for you who follow the strength of the program.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "2 x 10 x 300m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 12,
+    "time": 65,
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "timeMin": 9,
+        "timeMax": 10
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distance": 8,
+        "time": 33
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 66,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 23,
+        "timeMax": 26
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 25,
+    "time": 130,
+    "description": "25 calm km on the long run today. Find your speed and remember that the time out on the run is more important than chasing average speed. Find your rhythm and drink regularly throughout the session!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 25,
+        "timeMin": 116,
+        "timeMax": 120
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "This week is meant to be a slightly easier week, but I don't really know if almost 40 km is easier? Well now that's it!! So make sure that the first session of the week is really calm and adjust the threshold session according to how you feel in general and of course according to external circumstances. Sunday's long run is what pulls up the week's volume, as the run now stretches out to a full 24 km. If you fix it at a leisurely pace, I think you are well suited to the training plan for the Asics Stockholm Marathon! But if you are tired, shorten the threshold to 2 x 10 min or the long session to Around 20 km."
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 74,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 33,
+        "timeMax": 34
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Fartlek Run",
+    "image": "fartlek",
+    "distance": 9,
+    "time": 68,
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 11
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 80m"
+      },
+      {
+        "name": "Fartlek Run",
+        "distance": 5,
+        "timeMin": 26,
+        "timeMax": 27
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 25,
+    "time": 153,
+    "description": "Really long today. Calm speed that you adapt to the surface and weather, so that it feels calm just for you. Ok to shorten 1-2 km without affecting \"that you would fall behind\". Take drinks with you on the session, and be careful with dry clothes and quick energy/fluid intake after you finish the session.",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 25,
+        "timeMin": 141,
+        "timeMax": 143
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

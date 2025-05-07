@@ -1,0 +1,140 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "New Year's week where we break off everything \"long\" with a few short foundation building intervals. Then usual threshold Thursday followed by a quiet voluntary New Year's jog.\n\n(Are you running a New Year's race? yes, then you just remove the program's threshold run and run your race instead)\n\nOn New Year's Day, the long run continues and there we now start to be out for a really long time ; so make sure to be careful with energy and fluids in immediately after the workout and wear dry clothes. Then we fight all germs and optimize so that the recovery can start immediately!\n\n(Ok remove the New Year's long run if it doesn't work on your New Year's weekend!)​"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 9,
+    "time": 63,
+    "description": "In the phase we are in the program now, you should not be fooled and intimidated by short intervals. It is and should be a session where you \"just\" should be reasonably tired. An \"easy way\" to work on your fitness and oxygen uptake at the same time that you will work a little with your faster muscle fibers. Warm up with light jogging, mobility and some coordination runs. Then our short interval, where we will have a really short rest to keep the speed from getting too high. We run 10 x 200 m or if you run on \"clock\" you take 10 x 50 seconds. The rest is standing for 30 seconds, which means that you should not run too fast, but only a few notches faster than your distance run. Find your rhythm and if you feel that it feels good, you can push a little more in the last 2-3 intervals if you feel like it, but overall a \"just enough run\". Guideline, if you want it, can be a bit over 4.00 min/km in speed. Wind down with a leisurely jog and thoroughly stretch your muscles after you put in the week's running strength. So a great session today with many moments!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "3 x 5 x 200m",
+        "timeInfo": "3 x 5 x 40s"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Threshold Run",
+    "image": "threshold",
+    "distance": 12,
+    "time": 67,
+    "description": "Today, the goal is to develop the threshold run a notch for you who drive!\n\nAs before, you should find the speed between comfortable and uncomfortable fast, or if we start from talking pace, you should be able to say a sentence now and then, but not speak the whole the time...\n\nWe aim for 3 x 10 minute threshold, or if you start from distance it will be 3 x 2.5 km as the target speed is around 5.20-5.25 min/km.\n\nWe take a 60-second walk/light jog rest between the threshold sections. If you want/need to take a standing rest so that it feels comfortably tough, take a full standing rest.\n\nBut rather slow down the pace so you can walk/jog between each threshold section.\n\nThen you will also keep the heat better :) Relax with calm jogging.\n\nDo you have a New Year's run in your plan? Yes, then of course you remove today's threshold and replace it with the race on New Year's Eve!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2.5,
+        "timeMin": 12,
+        "timeMax": 13
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Threshold Run",
+        "distanceInfo": "3 x 2.5 km",
+        "timeInfo": "3 x 10 min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 10
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 8,
+    "time": 80,
+    "description": "You can remove the last session of the year with the program if you want to have a day without running. The body may not feel like running or they may be tight to get in a run today. So voluntary.... will be the last session of the year!​",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 8,
+        "timeMin": 37,
+        "timeMax": 40
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 23,
+    "time": 116,
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 23,
+        "timeMin": 107,
+        "timeMax": 111
+      },
+      {
+        "name": "Dynamic Stretch",
+        "time": 5
+      }
+    ]
+  }
+]

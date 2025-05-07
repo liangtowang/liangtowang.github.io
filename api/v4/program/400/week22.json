@@ -1,0 +1,131 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "Intermediate week with speed and recovery long session.\n\nFocus on giving the body a slightly calmer training and getting in short intervals (without speed that risks any damage). The feeling of long workouts is of course good to maintain - but the coach intends to make it shorter this year so you can recharge for the following week's longest long workouts"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 70,
+    "description": "Short, calm distance and strength may start the week. You will get far on Sunday; so settle for 5 km today!!",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 29,
+        "timeMax": 30
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "description": "You recognize the short intervals. The last time where you run 15 pieces of 200 meters.\n\nTarget slightly faster than the last time if you have a good day. So a little under 4.00 pace and thus under 48 seconds per 200 meters.\n\nWe keep the rest at 45 s between intervals and 90 s between series.\n\nFloat, but still a little pressure in the step on the last series. Allow yourself to be tired....if you have an ok day!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 30m",
+        "time": 10
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "3 x 5 x 200m",
+        "time": 22
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 3,
+    "time": 26,
+    "description": "Try the marathon setup, with a short jog, mobility and two light coordinations the day before a long session! See if this feels good or if, for example, the complete rest day that you had during other long sessions gave/gives you a better effect! Then you know what to do when the time comes...",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 3,
+        "timeMin": 17,
+        "timeMax": 18
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 50m",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 26,
+    "time": 170,
+    "description": "The program breaks off with a slightly shorter long session. If a long session can feel short?\n\nThe session maintains your long session feeling, but hopefully gives the body a chance to absorb all the training.\n\nCoach Szalkai wants this slightly shorter long session to now give you a small \"buffer\" both mentally and physically before the upcoming last tough part of the program - before the tapering starts towards the marathon, which is now only less than 4 weeks away.\n\nSo calm base speed and a little shorter, but of course with the usual long-run advice where drink/energy is included and that you be careful after the session with dry clothes and new energy in so you don't open up to catching an unnecessary cold now!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 26,
+        "timeMin": 156,
+        "timeMax": 160
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

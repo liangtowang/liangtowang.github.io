@@ -1,0 +1,142 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "A good week in terms of quantity and quality. The speed consists of basic building 200 meter intervals on feel and on the Thursday session you will work a little longer in your intended marathon. Instead of running a long Round at our long-run pace, we will accumulate long-run volume through different threshold sections. The goal is for the session to give the volume we had on the long session last week, but now split up but in return at a higher speed. This is a long-run variant that is in the setup of many elite runners, and which we are now testing here as well. The goal is that you will work on your oxygen uptake (fitness) in a gentle way, while you both physically and mentally train to hold on for a long time at a higher speed than long run pace. Keep in mind that all sessions outside must be adapted to the winter that prevails in your area. Dare to adapt if necessary so that the load is not too hard!​"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 8,
+    "time": 67,
+    "description": "Easy SHORT distance, supplemented with strength for you who follow the strength of the program.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 16,
+        "timeMax": 17
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "3 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "2 x 5 x 200m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 17
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Pace Run",
+    "image": "pace",
+    "distance": 10,
+    "time": 72,
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 1,
+        "timeMin": 5,
+        "timeMax": 6
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "1 x 80m"
+      },
+      {
+        "name": "Marathon Pace Run",
+        "distance": 8,
+        "timeMin": 42,
+        "timeMax": 43
+      },
+      {
+        "name": "Cool Down",
+        "distance": 1,
+        "time": 6
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 68,
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 27,
+        "timeMax": 28
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 21,
+    "time": 132,
+    "description": "No traditional long session today, but the goal is to collect the volume you had on your long session last week via \"threshold sections\". Keep in mind that if the session FEELS TOO TOUGH, you can easily convert it into a \"normal\" long session at your leisurely base speed. But of course the coach hopes that it feels good and you want to try the set-up, which aims to push your fitness/threshold speed and your mental and physical strength to run a little faster even when we run long!\n\nAs the beginning and end of the session, you should run at your normal \"calm\" long-run speed. Speed of speech is what matters, and the feeling should be calm. Both the beginning and the end create a bit of the day's \"km volume\".\n\nBetween the beginning and the end, the idea is that you should work on your marathon speed and your threshold speed divided into different kilometer sections with a quiet running rest (or walking rest) between each mara/threshold speed part. This will build up the volume of the session\n\nOur volume goal with the entire session in total is today 20 km and both the introduction, the speed parts and the end can be a little flexible so you can adapt this to your Round. But you can see a suggested layout below, including target speeds that you of course adapt to possible winter conditions and cold weather.\n\nIf you don't have a watch that indicates speed, you go by feel where you should dare to \"lay on\" a little more during the speed parts than you normally have on your long run and feel a little more speed the shorter the speed part.\n\nIntroduction and finish at 6.00 pace, and the rest run between each speed part is around 6.10-6.20 pace.\n\nIntroduction approx. 5 km. (OK stop and run a few minutes of effective mobility, after the distance introduction)\n\nSpeed parts 3 km - 2 km - 2 km - 1 km - 1 km - 1 km (total 10 km speed and approx. 2.5 km rest)\n\nBetween every 3-4 minutes of leisurely running. If the group/coaches want to run the exact length of the \"rest\", it will be a \"jog\" of 500 meters.\n\nThe finish will be around 2.5 km, assuming a running rest of about 500 meters between each speed section. At the end, the total distance can be adjusted so that you reach the 20 km distance goal.\n\nThe target speeds:\n\n3 km – 5.41 min/km (marathon speed)\n\n2 km – 5.33 min/km\n\n1 km – 5.23 min/ km where you get if you want to push a little extra on the last 1 km down to Around 5.11 min/km.",
+    "details": [
+      {
+        "name": "Long Run",
+        "style": "Threshold run",
+        "distance": 21,
+        "timeMin": 117,
+        "timeMax": 122
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

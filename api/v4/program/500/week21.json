@@ -1,0 +1,121 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest",
+    "description": "The training program continues, and if you are tired from the recent tough training, it may be time to \"pulse down this week\".\n\nTo make the week a little easier, you can remove or shorten sessions and then hopefully you are then both keen on and receptive to a really long session on Sunday - a session that is the week's focus session provided you are not \"too tired\".\n\nIf everything goes smoothly, then you can drive, of course you can drive the week in full; and then a good back run can be suitable for both running strength, running technique and cardio training!"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 6,
+    "time": 80,
+    "description": "Warm-up followed by five sets of fifteen/fifteen as we had once before. Running at a fast but controlled pace for 15 seconds and then resting for 15 seconds. So you repeat this 5 times in each series.\n\nA total of 5 series in today's session and the rest between each series is 1-2 minutes standing/walking-around rest. You will probably get around 1.5 km, but the important thing is, as before, NOT the volume, but that you work with speed and the step, which is the focus. Run as fast as you can keeping in mind that you will start immediately after 15 seconds again. Run forward/backward or forward on a stretch.\n\nRound off today's session with the week's strength and thorough mobility.",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 2.5,
+        "time": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "info": "1 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Short Interval Run",
+        "info": "5 x 15s"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Running Strength Training",
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 8,
+    "time": 64,
+    "description": "Today the plan is for us to run a combination variant with both some long but also short slopes. For volume for the run, we take a distance warm-up of 3 km. Then the running training before the back start. On the hill, we run by number instead of time, but make a short estimate that it will take around 17-18 minutes and will be at least 2 km in total. The set-up will be 3x60 second hills, followed by 4x40 seconds and ending on the hill with 4x20 second hills. The time indicated in the uphill and rest between each hill is a light jog down the hill and a 5-10 second standing rest at the \"up\" and \"down\" turns. Try to come up with a plan where the long hills go in at a speed where you can run \"nice\" and without getting completely exhausted. Work harder on the 40-second hill and then on the 20-second hill, I hope the hill is short enough that you can bounce uphill with good pressure. The choice of slope is based on the assumption that you will be able to handle the slope on the long slope, so do not choose a slope that is \"too steep\".",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 3,
+        "time": 18
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "info": "2 x 30m",
+        "time": 5
+      },
+      {
+        "name": "Hill Run",
+        "distance": 3,
+        "time": 18
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "time": 12
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 31,
+    "time": 200,
+    "description": "Record-long long run. 31 km if everything goes smoothly\n\nImportant to be responsive to the signals; tired, yes, then you shorten today's long session. Drink, during and after and energy during and after the session!!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 31,
+        "time": 190
+      },
+      {
+        "name": "Dynamic Stretching",
+        "time": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 12,
+    "time": 100,
+    "description": "Warm-up and cool-down with 1km. Also do some mobility before the \"start\" of the main part, which will be continued distance running but at a progressively increasing speed if everything feels ok.\n\nStart at a slightly faster pace than your calm distance pace and then gradually increase by feel so that during the the last two kilometers run \"really fast\".\n\nA tough session, but you should only be tired at the end, so still gentle on the psyche. Go by feel, and the target image will be clear during your marathon speed over your 6km. (The program counts on 5.20 on average, with 5.40 first km and then down to 5.00/5.10 at the end)",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 12,
+        "timeMin": 56,
+        "timeMax": 60
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 12,
+    "time": 83,
+    "description": "Today we will run an interval step that first \"goes up\" and then turns around and \"goes down again\". Total 16 minute interval time. First, as usual, a good warm-up. Then when you are ready for the steps which involve 1-2-3-4-3-2-1 minute intervals with 1 minute walking/standing rest between each interval. The goal is to get some speed variation, so the shorter the interval, the faster the speed, and preferably also that the closing 3-2-1 minutes are faster than your opening 1-2-3. So go out easy and have nice harmony up to the 4 minute intervals; and then when it becomes shorter and shorter intervals you can go on again.\n\n1 minutes; Around 4.20 min/km at speed\n\n2 minutes Around 4.30-4.35 min/km at speed\n\n3 minutes Around 4.45 min/km\n\n4 minutes Around 4.50-5.00 min/km\n\nThen a bit faster on the final 3-2-1 min than your initial corresponding interval distances calculated in time.\n\nPlease note that your feeling is more important than direction! Find your find on the run.\n\nExhale and unwind with a few kilometers of leisurely running and a little stretch for your running muscles.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "6 - 7 km",
+        "timeInfo": "4 x (3-2-1) min"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 5,
+    "time": 60,
+    "description": "The extra session, for volume and good muscular effect in combination with tomorrow's long session. Take the opportunity to take a mobility element to preserve your mobility.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 5,
+        "timeMin": 23,
+        "timeMax": 25
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 26,
+    "time": 133,
+    "description": "No increase in distance length today, but in return the goal is a long session with an increase in speed included - provided it works with your winter.\n\nThe idea is that today you add in 3 x 5 minutes of speed increases with 2 minutes of calm running between each speed section. Let the speed part come Around halfway into the session, but more important than \"when the speed comes\" is that the barrel element fits into your Round.\n\nTo get a good feel for this speed part, you can put in a 1 minute \" switch the speed part\" step before starting the 5 minute speed parts. Run the \"minute\" at your comfortably fast pace, and let it build up your leg speed/stride and heart rate.\n\nTake 1-2 minutes of easy running after this \"warm-up\" speed portion, before then starting your 5 minutes speed splits.\n\nThe goal in speeding your \"5 minutes\" is to maintain your marathon average speed to reach the time goal or even slightly faster. So concretely, your target image can be 5.30-5.40 in minutes per kilometer.\n\nWe set 2 minutes as a calm pace between the speed parts, but this part can be a little flexible, so you can get to your 5 minute speed parts on a relatively flat stretch. The speed on the calmer part can be around 10-15 seconds slower in min/km than your normal long run speed.\n\nAfter the pace you take a few minutes really easy before you find your normal long run speed and complete the run so you reach the day's distance goal .\n\nDon't forget to bring drinks to the session, and feel free to take something with energy before starting the speed part!\n\nNOTE; should the winter not \"allow\" speed elements today, well then you drive a normal long session and skip the speed sections.",
+    "details": [
+      {
+        "name": "Long Run",
+        "style": "Progressive",
+        "distance": 26,
+        "timeMin": 118,
+        "timeMax": 123
+      },
+      {
+        "name": "Dynamic Stretch",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

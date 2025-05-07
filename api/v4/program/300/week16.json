@@ -1,0 +1,171 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 8,
+    "time": 46,
+    "details": [
+      {
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 8,
+        "timeMin": 38,
+        "timeMax": 41
+      },
+      {
+        "name": "Stretching",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Hill Run",
+    "image": "hill",
+    "distance": 11,
+    "time": 84,
+    "description": "A short back run as a break from all distance/amount.\n\n– Good to shift the step a little and reach muscles you may not always activate so well in your running but which are good to keep moving so they can be activated when fatigue sets in longer runs!!\n\nWarm up with a leisurely distance run to your short hill.\n\nThe hill should provide a nice counterslope, but no steeper than you can run with good strides uphill for 20-30 seconds.\n\nA little softening movement when you arrive at the hill. Light running training, preferably in the opposite direction on the hill.\n\nThe short hill means that you run fast for 20-30 seconds up the hill. The rest between hills is a leisurely jog down, combined with a few seconds of standing rest at the top/turn and below the hill before starting the next hill.\n\nRun with good pressure and try to maintain a good technical run. Drive so hard that you just feel a little lactic acid on top. It is important, however, that you run the first hill uphill a little more calmly, so you don't start with shock lactic acid in your legs. See the first slope as part of the warm-up. Find your pace and rhythm uphill. Run with a total time of around 15 minutes on the hill, all time including both running up/down and the standing short rest.\n\nAfter the hill run, it is as usual important that you wind down with a leisurely jog followed by stretching.\n\nAre you running the ASICS Premiärmilen or investing in a really tough training weekend; then you shorten the day to 5-8 short 20-30 s slopes with good steps!",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 4,
+        "timeMin": 18,
+        "timeMax": 19
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Running Technique",
+        "distanceInfo": "2 x 20m"
+      },
+      {
+        "name": "Hill Run",
+        "timeInfo": "5x60s - 5x40s - 5x20s"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Interval Run",
+    "image": "interval",
+    "distance": 10,
+    "time": 71,
+    "description": "You let your body control the speed game and it's perfectly okay to let the session be easy.\n\nYou are welcome to \"cheat a little\" with the speed, and just flow through with small speed variations. Aim for shorter bursts of speed, from 30 seconds up to 2 minutes, but don't push too hard. Sometimes it can be nice to just float, and now feels like a good position, at least from the program's perspective. Complete with a full round of strength after the run.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "timeMin": 14,
+        "timeMax": 15
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Interval Run",
+        "style": "Short interval",
+        "distanceInfo": "2 x 10 x 200m"
+      },
+      {
+        "name": "Cool Down",
+        "distance": 3,
+        "time": 15
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 15,
+    "time": 82,
+    "description": "Fast distance on the schedule today, and for those of you who live in the Stockholm area, you can use a virtual Premiärmilen as your training.\n\nIf you don't run the race, it is \"enough\" to run an 8 km fast distance, and you are welcome to use your test race round as you had previously in the program and see what you have \"above your test 5km\" and then add 3km directly to your 5th.\n\nTarget down to 5.05-5.10 speed, a little slower if the body doesn't really want it. In any case, as always, a harmonious start, but then you are welcome to mobilize mental strength to run really hard.",
+    "details": [
+      {
+        "name": "Warm Up",
+        "distance": 3,
+        "time": 14
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m"
+      },
+      {
+        "name": "Fast Run",
+        "distance": 10,
+        "timeMin": 39,
+        "timeMax": 40
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 9,
+        "timeMax": 10
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 26,
+    "time": 135,
+    "description": "A shorter long session today, because the program's layout is based on the idea that today's long session should come in combination with a tougher fast distance yesterday.\n\nDid you not run a little harder yesterday, and everything feels ok today, of course you can extend the session a bit if you want; or you still do \"only\" 22 km and give your body a somewhat calmer weekend!",
+    "details": [
+      {
+        "name": "Long Run",
+        "distance": 26,
+        "timeMin": 121,
+        "timeMax": 125
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]

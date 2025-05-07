@@ -1,0 +1,142 @@
+[
+  {
+    "weekDay": "Monday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Tuesday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 6,
+    "time": 67,
+    "description": "Calm distance of approx. 6 km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 6,
+        "timeMin": 31,
+        "timeMax": 32
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Strength Training",
+        "timeMin": 15,
+        "timeMax": 30
+      }
+    ]
+  },
+  {
+    "weekDay": "Wednesday",
+    "type": "Morning Run",
+    "image": "morning",
+    "distance": 8,
+    "time": 43,
+    "description": "Calm distance of approx. 8 km to just keep feeling and volume in the training. Keep in mind that the end of the week will be tough, so a calm \"entertaining¨\" start to the week is good enough.",
+    "details": [
+      {
+        "name": "Morning Run",
+        "style": "Jogging",
+        "distance": 8,
+        "timeMin": 42,
+        "timeMax": 43
+      }
+    ]
+  },
+  {
+    "weekDay": "Thursday",
+    "type": "Fast Run",
+    "image": "fast",
+    "distance": 12,
+    "time": 79,
+    "description": "Fast distance of 12 km. It can be a tough, really tough session, but with a focus on fluidity in running. If you feel more like threshold speed, choose it. Marathon speed can also be enough...Let the day's form decide and keep in mind that we save the last bit to pick out the body for the marathon.\n\nThose of you who are part of TSM Running can run the fast distance on the \"Milspåret\", either 5 or 10 km which is the official test run for TSM Running.",
+    "details": [
+      {
+        "name": "Warm up",
+        "distance": 2,
+        "timeMin": 10,
+        "timeMax": 11
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 3
+      },
+      {
+        "name": "Fast Run",
+        "distance": 8,
+        "timeMin": 36,
+        "timeMax": 38
+      },
+      {
+        "name": "Cool Down",
+        "distance": 2,
+        "timeMin": 11,
+        "timeMax": 12
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  },
+  {
+    "weekDay": "Friday",
+    "type": "Rest Day",
+    "image": "rest"
+  },
+  {
+    "weekDay": "Saturday",
+    "type": "Easy Run",
+    "image": "easy",
+    "distance": 4,
+    "time": 30,
+    "description": "Easy distance and last strength fully; next week there will be less strength in your deceleration in terms of training and escalation in terms of form towards the marathon.",
+    "details": [
+      {
+        "name": "Easy Run",
+        "distance": 4,
+        "time": 22
+      },
+      {
+        "name": "Dynamic Movement",
+        "time": 5
+      },
+      {
+        "name": "Coordination Run",
+        "distanceInfo": "2 x 80m",
+        "time": 5
+      }
+    ]
+  },
+  {
+    "weekDay": "Sunday",
+    "type": "Long Run",
+    "image": "long",
+    "distance": 26,
+    "time": 151,
+    "description": "The program's and perhaps your last long run before the marathon, will be a 26 km run at mostly calm long run speed. During a section over about 4 km, you can increase your speed to well below your intended marathon race speed to get a final test and push your long-run motor!\n\nEnter your speed increase after about 60 minutes of running and try to run faster for about 22 minutes . Finish image at a speed of around 5.30 min/km.\n\nIf you are tired and your body is not responding; run calmly all the way through.\n\nAs always important drink, and energy and more fluids even afterwards for good and important recovery!\n\nRegarding if this is your last long session before the marathon, you can actually if you missed many long sessions, put in a short leisurely long session with a week to go before the race instead of specified training. (Then removes Sunday's schedule where it is in the program).",
+    "details": [
+      {
+        "name": "Long Run",
+        "style": "Progressive",
+        "distance": 26,
+        "timeMin": 136,
+        "timeMax": 141
+      },
+      {
+        "name": "Stretching",
+        "timeMin": 5,
+        "timeMax": 10
+      }
+    ]
+  }
+]
